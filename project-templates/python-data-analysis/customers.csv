@@ -1,0 +1,1001 @@
+customer_id,name,email,phone,registration_date,age,gender,location,country,customer_segment,preferred_category
+CUST_000001,Allison Hill,donaldgarcia@example.net,+1-219-560-0133,2024-11-11,58,M,Robinsonshire,Fiji,Bronze,Books
+CUST_000002,Abigail Shaffer,jpeterson@example.org,001-851-316-1559x40781,2024-07-14,33,M,Barbaraland,Aruba,Silver,Electronics
+CUST_000003,Patricia Galloway,michellejames@example.com,+1-952-855-3419x2832,2023-12-21,61,Other,Lake Mark,Seychelles,Bronze,Sports
+CUST_000004,Crystal Johnson,richard13@example.net,001-653-876-7242x388,2025-03-24,45,M,Coxberg,Malawi,Bronze,Electronics
+CUST_000005,Peter Callahan Jr.,laurahenderson@example.org,(669)878-4801x8451,2023-09-30,31,M,Lake Nancyview,Macao,Bronze,Sports
+CUST_000006,Katie Rodriguez,meagan89@example.org,(252)388-0957,2025-04-16,30,Other,Johnbury,Turkey,Platinum,Clothing
+CUST_000007,Angela Dennis,spenceamanda@example.org,(578)624-8963,2024-03-24,46,Other,Samuelhaven,Korea,Gold,Electronics
+CUST_000008,Danny Morgan,briannasmith@example.net,+1-403-910-5183x4738,2023-12-01,66,M,Aguirreborough,Bhutan,Platinum,Books
+CUST_000009,Jeffrey Henderson,dshields@example.net,+1-410-665-1333x8726,2024-05-10,35,M,South Lindseyside,Bolivia,Silver,Books
+CUST_000010,Zachary Huff,housemelinda@example.org,(977)436-0260x64746,2023-10-23,24,M,North Beth,Mauritius,Platinum,Electronics
+CUST_000011,Erik Williams,hshaw@example.org,3815219136,2024-08-03,40,F,New Christophershire,Mongolia,Gold,Electronics
+CUST_000012,Taylor Harris,john62@example.net,+1-647-451-0799x1183,2025-04-19,64,F,East Mikeburgh,Kazakhstan,Bronze,Home
+CUST_000013,Michele Carr,contrerasangela@example.net,524-711-8244,2023-11-02,23,Other,Williamview,United Kingdom,Gold,Sports
+CUST_000014,Amber Walters,bradley52@example.net,727-486-8011x280,2024-04-16,74,F,West Michaelton,United Arab Emirates,Silver,Electronics
+CUST_000015,Michael Estrada,kimberly69@example.net,(532)626-0256,2023-10-01,20,Other,South Monicafort,Cyprus,Silver,Books
+CUST_000016,Thomas Bailey,jeffreykeller@example.com,641-245-8685x01429,2023-08-25,23,M,Reedmouth,Jordan,Bronze,Home
+CUST_000017,Kayla Cruz,jonathanfletcher@example.org,783.856.1595x14846,2024-10-28,35,F,East Robert,Wallis and Futuna,Gold,Clothing
+CUST_000018,Paul Thompson,richard04@example.com,969.495.7773,2024-09-30,41,F,Zacharymouth,Bermuda,Silver,Books
+CUST_000019,Nicole Chambers,lindsayhernandez@example.org,979.817.6936,2023-12-02,62,Other,Port Michelleville,Slovakia (Slovak Republic),Bronze,Sports
+CUST_000020,Christopher Rubio,pwilliams@example.org,927.488.9579x868,2024-12-01,58,M,Colebury,Tajikistan,Silver,Clothing
+CUST_000021,Pamela Boyd,joshuajones@example.com,845.458.1223,2024-11-04,47,F,South Rickside,Lao People's Democratic Republic,Gold,Sports
+CUST_000022,Daniel Fisher,gateskathy@example.com,805.946.6889x3734,2023-06-28,32,Other,Elizabethfurt,Saint Kitts and Nevis,Gold,Electronics
+CUST_000023,John Anderson,meadowsbrittany@example.net,7165272046,2024-05-04,32,M,Kathleenfurt,Fiji,Gold,Home
+CUST_000024,Sandra King,ruizkaitlyn@example.org,(931)300-3309x232,2024-07-23,35,M,South Holly,Seychelles,Silver,Sports
+CUST_000025,Larry Stuart,stricklandfrank@example.com,590-349-6631,2024-10-28,74,Other,Melissaville,South Africa,Gold,Clothing
+CUST_000026,Dr. Hannah Patterson,casey50@example.com,916.857.2628x4987,2025-01-30,59,F,Marcusbury,Switzerland,Platinum,Home
+CUST_000027,Diana Hayes,qhudson@example.com,207-552-7354x54948,2023-08-08,27,F,Freemanbury,Portugal,Silver,Clothing
+CUST_000028,Michael West,davisjeffrey@example.net,749.757.8856,2024-11-01,65,Other,Kristopherbury,British Indian Ocean Territory (Chagos Archipelago),Gold,Sports
+CUST_000029,Emily Newton,jamesrodgers@example.com,001-498-694-1343x5240,2023-07-10,45,Other,New Kellyberg,Northern Mariana Islands,Platinum,Books
+CUST_000030,Katherine Salas,taylor75@example.org,2474116719,2023-09-24,32,M,Christopherbury,British Indian Ocean Territory (Chagos Archipelago),Platinum,Electronics
+CUST_000031,Jennifer Carlson,kimberlyjames@example.com,496-549-9091x3341,2023-10-12,66,M,East Aaronmouth,Portugal,Bronze,Clothing
+CUST_000032,Doris Hall,jacqueline71@example.net,649.436.1832,2023-07-29,58,M,Port Kyle,San Marino,Platinum,Sports
+CUST_000033,Tammy Gonzales,sbarker@example.com,288-377-1906x594,2023-11-21,22,F,Port Emilyview,Morocco,Platinum,Sports
+CUST_000034,Peter Ruiz,lmoon@example.net,(871)275-6551x25674,2024-05-04,47,Other,Johnnyville,Sierra Leone,Gold,Sports
+CUST_000035,Jose Travis,mgutierrez@example.net,(397)270-3482x477,2025-05-18,73,M,Lake Eric,Micronesia,Bronze,Sports
+CUST_000036,Jason Walker,murraydavid@example.org,448.346.7737x8263,2023-12-25,66,F,Morganhaven,Ethiopia,Gold,Electronics
+CUST_000037,Diane Evans,cgrimes@example.net,855.288.6753x3963,2024-01-25,36,F,Thorntonfurt,Hungary,Silver,Home
+CUST_000038,Rebecca Pearson MD,martineztammy@example.com,371-987-0262,2024-12-29,18,Other,Matthewfurt,Pakistan,Gold,Sports
+CUST_000039,Gary Craig,ofinley@example.net,001-478-609-1343x16117,2025-03-28,66,M,West Lauraport,Guinea-Bissau,Bronze,Books
+CUST_000040,Charles Schmidt,georgemiller@example.com,+1-637-492-3747x407,2023-07-30,71,Other,Vanessaport,Northern Mariana Islands,Silver,Clothing
+CUST_000041,Melissa Bryant,james67@example.org,669.259.4406,2024-07-24,41,M,New Julieport,Singapore,Bronze,Sports
+CUST_000042,Lisa Gomez,christinebyrd@example.net,001-421-504-7095x21456,2023-09-11,38,F,Alyssaview,Switzerland,Bronze,Electronics
+CUST_000043,Thomas Raymond,julie51@example.com,623-368-5160,2024-05-04,77,F,Brendastad,Botswana,Gold,Clothing
+CUST_000044,Kaitlyn Harvey,rose31@example.net,446.812.0047x113,2024-05-03,21,M,Matthewsberg,Turks and Caicos Islands,Bronze,Electronics
+CUST_000045,Brett Burns,rcrosby@example.org,001-853-677-3515x850,2023-10-23,64,F,Port Madisonland,Panama,Bronze,Sports
+CUST_000046,Mark Maddox,buchananjohn@example.org,001-431-283-9335,2023-12-26,67,M,East Amber,South Georgia and the South Sandwich Islands,Silver,Home
+CUST_000047,Matthew Johnson,howardkristina@example.net,302-940-2681x17758,2024-06-09,78,Other,Lake Kristahaven,Gabon,Silver,Books
+CUST_000048,Victor Brown,bboone@example.net,477-611-5921,2024-09-05,51,Other,Oscarhaven,French Polynesia,Platinum,Clothing
+CUST_000049,Larry Garcia,farrelldebra@example.net,001-736-673-6576x6156,2024-03-06,77,Other,Lake Sandra,Bangladesh,Silver,Books
+CUST_000050,Bradley Reynolds,lisa80@example.net,+1-685-716-5604,2023-08-21,43,Other,East Diane,Czech Republic,Gold,Home
+CUST_000051,Hayley Hawkins,farmeraudrey@example.com,+1-699-680-9402,2025-04-10,75,Other,Adamberg,Mongolia,Platinum,Electronics
+CUST_000052,Andrea Figueroa,davisalyssa@example.com,(275)325-4599x10229,2023-12-22,33,M,Tuckermouth,Israel,Bronze,Books
+CUST_000053,Paul Wilson,rrodriguez@example.net,001-278-540-3690,2024-01-13,19,Other,Port Derrick,Equatorial Guinea,Silver,Sports
+CUST_000054,Bryan Jimenez,ythompson@example.net,001-738-885-1606x071,2024-07-30,32,M,Robertsfurt,Angola,Bronze,Electronics
+CUST_000055,Carolyn Meza,xcollier@example.org,(313)369-6816x45352,2024-06-28,32,M,Port Michael,Saint Lucia,Bronze,Books
+CUST_000056,Maria Hernandez,thomasjames@example.net,(712)777-9979,2023-09-25,22,Other,South Scottport,South Africa,Silver,Books
+CUST_000057,Anthony Romero,steven00@example.com,511-799-8679x8079,2024-08-22,60,F,North Shannon,Sudan,Silver,Sports
+CUST_000058,Gwendolyn Klein,benjaminzimmerman@example.com,789.325.5466x59051,2024-07-18,26,Other,Mitchellberg,Grenada,Platinum,Clothing
+CUST_000059,Matthew Rangel,tammy62@example.net,001-214-786-5281x685,2024-01-18,68,F,West Stacey,Libyan Arab Jamahiriya,Platinum,Clothing
+CUST_000060,Zachary Moore,megan18@example.net,001-980-259-2962x2292,2024-04-02,24,M,South Cheryl,Sao Tome and Principe,Platinum,Books
+CUST_000061,Joann Ferguson,tammy73@example.com,+1-297-974-6886x23924,2025-03-06,45,F,Lake Meghanville,Finland,Platinum,Electronics
+CUST_000062,Christopher Cole,mariahdavis@example.org,550.260.6853x615,2024-01-25,61,Other,Port Jennifermouth,Somalia,Bronze,Electronics
+CUST_000063,Andrew Lowery,ihorton@example.net,379.601.0432x8986,2023-11-27,43,Other,North Johnmouth,Bahrain,Gold,Electronics
+CUST_000064,Taylor Carlson,chenbailey@example.net,(446)309-5396,2024-06-23,33,M,Carloshaven,Mayotte,Silver,Sports
+CUST_000065,Virginia Spencer,cmarks@example.net,(754)705-1531x9520,2025-01-21,46,M,Port Kimberly,Kyrgyz Republic,Platinum,Clothing
+CUST_000066,Mrs. Catherine Taylor,mjohnson@example.org,205.548.6874,2024-01-02,35,F,Port Dianaview,British Virgin Islands,Silver,Electronics
+CUST_000067,Jessica Ross,ykline@example.com,(877)458-4161,2024-07-09,46,Other,Curtismouth,Panama,Bronze,Electronics
+CUST_000068,Jeremy Robbins,hannahbell@example.org,001-959-264-0165x8202,2023-09-07,59,Other,Port Deanna,Guyana,Bronze,Electronics
+CUST_000069,Keith Jacobs,xrush@example.com,001-819-328-5654x31027,2023-12-15,77,M,Janeborough,New Zealand,Silver,Home
+CUST_000070,Thomas Henry,taylorcharles@example.org,001-771-555-1884x422,2023-09-03,49,F,Port Dominic,Somalia,Silver,Home
+CUST_000071,Isaac Armstrong MD,cherylmiller@example.com,(778)466-9125x1778,2025-03-09,75,M,Port Tammy,Jersey,Silver,Home
+CUST_000072,Sheena Guerra,kevinmartin@example.net,458.641.4384,2024-08-29,18,F,New Danielleshire,Western Sahara,Gold,Home
+CUST_000073,Carolyn Weber,megan90@example.org,909-643-9690,2024-09-18,36,F,Timothyfurt,French Southern Territories,Platinum,Clothing
+CUST_000074,Michael Moore,nwashington@example.com,+1-525-955-6258x815,2023-09-04,30,F,Wrightville,Australia,Silver,Electronics
+CUST_000075,James Gilbert,sydneybarrera@example.com,001-953-227-8774,2023-08-11,55,Other,Wagnerbury,Cuba,Bronze,Books
+CUST_000076,Amber Campbell,amitchell@example.org,(624)356-5060x98358,2024-03-15,21,M,Duranview,Sweden,Platinum,Sports
+CUST_000077,Melanie Wilson DVM,vbrooks@example.net,(923)998-6800x025,2023-09-23,76,Other,West Sarah,Ghana,Silver,Electronics
+CUST_000078,William Stevenson,brittney88@example.net,994.670.5516x9409,2025-05-13,79,Other,Lake Brett,Lesotho,Bronze,Clothing
+CUST_000079,Mark Harvey,rhernandez@example.org,8915307562,2024-04-01,22,Other,Salaston,Romania,Bronze,Clothing
+CUST_000080,Daniel Nguyen,ufox@example.org,685.585.4973x348,2025-04-25,43,M,Kellieborough,Portugal,Silver,Sports
+CUST_000081,Emily Bailey,keith98@example.com,(652)640-4157x4733,2023-09-15,56,M,East Brent,United Kingdom,Bronze,Home
+CUST_000082,Margaret Williams,erivera@example.org,+1-520-282-6773x45401,2025-04-04,60,Other,South Nicole,Christmas Island,Gold,Books
+CUST_000083,Amanda Huff,vlopez@example.com,9044991547,2025-02-18,31,Other,Nelsonville,Greenland,Gold,Clothing
+CUST_000084,Jimmy Scott,alexisrogers@example.com,001-832-396-6851,2023-10-20,34,F,South Marcus,Egypt,Silver,Books
+CUST_000085,James Griffin,stephanie49@example.net,001-404-853-0174,2024-10-20,47,F,Hannahport,Heard Island and McDonald Islands,Bronze,Electronics
+CUST_000086,Colleen Anderson,spencerzhang@example.com,(387)283-3918x78519,2025-02-01,47,Other,New Amanda,Chad,Bronze,Electronics
+CUST_000087,Joseph Wilson,jenniferburns@example.net,207.828.6790x874,2023-12-10,52,M,Lake Jefferyland,Aruba,Gold,Clothing
+CUST_000088,Michael Weaver,michaelcesar@example.com,8468226567,2023-08-04,77,F,Lake Michelle,British Indian Ocean Territory (Chagos Archipelago),Bronze,Clothing
+CUST_000089,Joshua Rice,maryavila@example.com,386.286.3375x243,2025-01-18,41,F,Mendeztown,Dominican Republic,Silver,Home
+CUST_000090,Brian Johnson,sanchezbradley@example.com,783.702.8439,2023-11-27,71,Other,Lake Adriana,Isle of Man,Gold,Sports
+CUST_000091,Antonio Fry,conniesimmons@example.com,8564856624,2024-12-09,80,Other,Allenbury,French Southern Territories,Bronze,Sports
+CUST_000092,Brianna Ford,harttammy@example.net,626.834.3517x51830,2024-10-11,37,Other,Port Charlesshire,Saint Kitts and Nevis,Bronze,Clothing
+CUST_000093,Claire Clark,kevin03@example.org,001-717-639-3638x5467,2023-12-15,34,M,Owensfort,Senegal,Bronze,Sports
+CUST_000094,Suzanne Wood,owilliams@example.net,(504)789-9642,2023-11-22,27,F,South Andrea,Western Sahara,Gold,Sports
+CUST_000095,Dawn Underwood,umurray@example.com,(328)272-8080,2024-12-16,31,Other,Taylorbury,Bangladesh,Gold,Clothing
+CUST_000096,Alexa Wagner,bruce97@example.net,800.488.6008x4840,2023-08-24,61,Other,New Eduardoborough,Niger,Gold,Sports
+CUST_000097,Robin Adams,zmiller@example.com,001-833-941-0166,2023-07-18,49,F,Lake Georgefort,Tanzania,Bronze,Electronics
+CUST_000098,Richard Knight,jacobsonsamantha@example.org,297.440.1489,2025-04-15,58,F,Alexisborough,Namibia,Gold,Electronics
+CUST_000099,Robert Nicholson,evansanne@example.net,(785)862-1850x1631,2025-05-15,18,F,Anthonyview,Slovenia,Silver,Books
+CUST_000100,Katherine Kelly DVM,llopez@example.net,(719)343-1142x6265,2023-08-12,28,Other,Seanview,Bosnia and Herzegovina,Platinum,Sports
+CUST_000101,Cody Cole,fgarcia@example.com,+1-819-395-6046,2024-11-17,63,F,New Adriana,Poland,Bronze,Electronics
+CUST_000102,Charles Turner,kthomas@example.com,964-371-5437x993,2023-09-14,22,Other,South Martinfurt,Spain,Silver,Sports
+CUST_000103,Jessica Jordan,kevinmorrison@example.net,575.726.5479,2024-03-07,20,F,Diazshire,Cook Islands,Silver,Home
+CUST_000104,Kimberly Maldonado,bentonsteven@example.net,674.416.7243,2024-11-10,26,M,Jonesfort,Myanmar,Gold,Books
+CUST_000105,Jonathon Knapp,ystephens@example.com,001-789-811-3529x096,2023-08-23,75,M,West Jeffreyhaven,Moldova,Gold,Clothing
+CUST_000106,Laura Griffin,rford@example.net,001-782-650-7146x112,2024-02-12,61,M,New Timothy,Lebanon,Bronze,Books
+CUST_000107,Nathan Chavez,evanslisa@example.org,7518238282,2025-05-07,67,Other,Port Richard,Colombia,Platinum,Sports
+CUST_000108,Matthew Foster,shannonjordan@example.org,001-933-341-9182x553,2023-12-15,65,M,Rosemouth,Nepal,Silver,Clothing
+CUST_000109,James Wilson,megan92@example.net,001-749-491-2513x412,2024-06-14,80,M,Carlsonshire,Hungary,Platinum,Electronics
+CUST_000110,John Medina,angelaburns@example.org,(557)890-5072,2025-05-11,29,Other,Ortizfort,Israel,Gold,Home
+CUST_000111,Jill Jackson,flynnjeffrey@example.org,338-642-7978x819,2024-12-24,69,Other,Amberton,Senegal,Silver,Books
+CUST_000112,Kimberly Fritz,fitzgeralddesiree@example.org,807-445-1713x3959,2024-08-30,28,Other,Port Jamie,Bahamas,Bronze,Home
+CUST_000113,Kim Carlson,mariopadilla@example.com,001-448-512-6042,2023-09-21,73,M,Mariafurt,Liechtenstein,Platinum,Clothing
+CUST_000114,Mark Burton,ohayes@example.org,(884)557-7590x1751,2025-05-14,30,F,South Joseph,Switzerland,Gold,Books
+CUST_000115,Joshua Anderson,rkramer@example.org,8175012770,2025-06-03,70,M,Lake Kevin,Tunisia,Silver,Electronics
+CUST_000116,Denise Pena,christopher20@example.com,+1-943-261-1037x1293,2023-06-12,60,M,Lisachester,Puerto Rico,Platinum,Books
+CUST_000117,Benjamin Reyes,garciamichael@example.com,(462)921-8909,2024-02-18,35,M,Lake Kaitlin,Uruguay,Gold,Books
+CUST_000118,Michael Heath,mosleydonald@example.org,001-565-665-2341,2024-12-27,59,Other,Port Melanieport,Costa Rica,Platinum,Sports
+CUST_000119,Katrina Adkins,debbie37@example.com,437-891-8055,2025-02-25,39,M,Diazburgh,Serbia,Bronze,Books
+CUST_000120,William Jones,smithjason@example.org,(384)686-6618x8924,2023-08-03,29,Other,Port Eric,Greece,Gold,Electronics
+CUST_000121,Mark Davenport,collinssamuel@example.org,6314617990,2023-09-02,24,Other,Lake Alexander,Luxembourg,Platinum,Books
+CUST_000122,Kelly Logan,gary24@example.net,305-964-8149,2024-05-04,64,F,Brianshire,Chad,Platinum,Sports
+CUST_000123,David Garcia,perezwilliam@example.org,8305756220,2024-01-28,80,Other,Moonmouth,Faroe Islands,Bronze,Home
+CUST_000124,Laura Wilson,whitelinda@example.org,(617)544-5187x0534,2024-05-11,75,Other,Cuevasborough,Saint Martin,Silver,Books
+CUST_000125,Paige Sanchez,randolphandrew@example.net,(205)406-4138x367,2024-11-08,20,Other,North Samanthahaven,Isle of Man,Platinum,Electronics
+CUST_000126,Jacqueline Villegas,carpenterwilliam@example.net,(719)990-6234x4565,2023-12-22,51,Other,East Derekshire,Botswana,Silver,Books
+CUST_000127,Christopher Owens,wmartinez@example.org,447.341.1249x035,2024-11-07,45,M,Randyton,Philippines,Gold,Sports
+CUST_000128,Robert Thompson,jbond@example.net,+1-531-471-2100,2023-10-29,38,Other,Watsonland,Myanmar,Bronze,Books
+CUST_000129,Sylvia Jones,gonzalezdebbie@example.org,851-907-0296,2023-06-28,50,F,Thompsonborough,United States of America,Platinum,Books
+CUST_000130,Douglas Stephenson,mendezchristina@example.net,576-287-0146x2638,2025-05-30,43,Other,Timothyfort,Guatemala,Gold,Sports
+CUST_000131,Kathryn Price,anthonyharper@example.org,001-240-578-5932x13348,2024-07-31,26,M,Kellyburgh,Christmas Island,Platinum,Home
+CUST_000132,Evan Rojas,robin05@example.net,001-229-337-8427,2023-07-18,61,Other,North Alisha,Afghanistan,Silver,Sports
+CUST_000133,Lucas Drake,jennifer50@example.org,(392)718-5156,2024-01-13,54,F,East Jessica,Jordan,Platinum,Sports
+CUST_000134,Toni Banks,jasminehoffman@example.net,(239)426-4422x096,2024-08-20,71,M,Lake Ariana,Vietnam,Gold,Books
+CUST_000135,Gary Miller MD,gary15@example.com,2438315410,2024-04-22,31,F,Costachester,Lithuania,Gold,Home
+CUST_000136,Heather Bennett,kkramer@example.net,001-832-471-0405x41152,2024-11-23,46,F,West Brookefort,Romania,Silver,Sports
+CUST_000137,Tommy Martin,gmoore@example.com,336.288.4443,2024-03-20,48,Other,Hernandezstad,Afghanistan,Silver,Electronics
+CUST_000138,Edward Stanley,bgonzalez@example.org,(641)371-4677,2024-09-18,36,Other,Lopezfurt,Heard Island and McDonald Islands,Gold,Electronics
+CUST_000139,Andrew Gonzales,jeremy49@example.org,(211)858-6938,2025-01-25,70,M,Sheppardfort,Montserrat,Gold,Clothing
+CUST_000140,Karen Miller,shawrachel@example.net,+1-592-417-2233x20616,2025-02-05,69,M,Luisland,Benin,Silver,Electronics
+CUST_000141,James Nguyen,april09@example.net,761.862.2999x11914,2023-12-17,20,M,Armstrongfort,Argentina,Platinum,Sports
+CUST_000142,Jamie Montgomery,vwilliams@example.net,607.945.0544,2025-02-23,72,M,Port Jeremyport,Samoa,Platinum,Home
+CUST_000143,Roger Adams,fjacobs@example.org,836.478.5082x148,2024-12-28,74,Other,East Jamesborough,Taiwan,Silver,Home
+CUST_000144,Andrew Williams,janet45@example.com,761.403.5797x27985,2025-02-08,49,F,Kaitlynland,Finland,Silver,Clothing
+CUST_000145,Anthony Nash,mercedesholland@example.net,246.580.0722,2023-12-08,59,Other,Jenniferview,Jamaica,Bronze,Electronics
+CUST_000146,Sarah Stevens,stevenbyrd@example.net,(391)708-5899x4417,2025-05-29,67,F,Michelleview,Palau,Silver,Clothing
+CUST_000147,Stephanie Evans,zacharyallen@example.org,+1-565-720-7446x660,2024-11-19,69,Other,Lake Amanda,Slovenia,Platinum,Electronics
+CUST_000148,Todd Howard,megan82@example.com,772-548-2513,2024-12-02,53,M,Robertmouth,Holy See (Vatican City State),Bronze,Home
+CUST_000149,Edward York,obrown@example.net,001-691-873-8168,2023-07-16,26,F,East Victoria,Guam,Gold,Home
+CUST_000150,Keith Knox,tthomas@example.org,001-917-352-5007x43292,2023-09-09,57,Other,Schultzfurt,Japan,Platinum,Sports
+CUST_000151,Janet Johnson,jessicadodson@example.com,001-683-400-3354x21689,2023-07-24,46,M,West Stacymouth,Saint Lucia,Platinum,Home
+CUST_000152,Kelly Hamilton,matthewvalenzuela@example.com,001-732-260-3323x09821,2024-03-07,34,M,Kelseyton,Nepal,Gold,Sports
+CUST_000153,Mary Valdez MD,butleromar@example.net,472-830-4618x499,2025-02-03,49,Other,New Jenniferville,Finland,Silver,Books
+CUST_000154,Brian Gonzalez,kimberlydecker@example.org,(264)320-8737x530,2025-03-30,46,M,Hernandezland,Slovakia (Slovak Republic),Gold,Clothing
+CUST_000155,Misty Garcia,dawn74@example.com,201.420.4556x110,2024-10-03,35,F,West Michael,Kazakhstan,Gold,Sports
+CUST_000156,Debra Quinn,lisa21@example.com,(974)967-6212x0216,2023-10-17,23,M,Maxwelltown,Tokelau,Silver,Clothing
+CUST_000157,Sara Mcpherson,timothyfreeman@example.com,301.845.0899x358,2024-10-02,42,Other,South Michael,Philippines,Silver,Clothing
+CUST_000158,Brittany Serrano,smithsarah@example.net,872.817.5354x0838,2025-01-24,22,F,South Seanshire,Kiribati,Platinum,Books
+CUST_000159,Jonathan Stewart,bmcgee@example.org,(960)788-0199x4883,2024-02-27,52,F,Port Jeffreymouth,Greenland,Platinum,Electronics
+CUST_000160,Lisa Kennedy,jennifer11@example.net,205.454.8851,2024-05-31,31,F,Rodriguezborough,Comoros,Platinum,Sports
+CUST_000161,Samuel Lewis,jenniferrodriguez@example.com,2912779827,2024-07-15,78,Other,Robersonfort,Uzbekistan,Bronze,Sports
+CUST_000162,Tammy Thompson,jessicaanderson@example.com,+1-499-458-6693x46547,2024-04-03,42,F,Meganside,Tokelau,Bronze,Books
+CUST_000163,Norman Spencer,jamesweber@example.com,+1-652-828-8515x87996,2025-01-17,37,F,North Oscarton,Paraguay,Platinum,Sports
+CUST_000164,Derek Floyd,frances20@example.net,638-205-7198x3863,2025-04-14,65,Other,Butlermouth,Micronesia,Silver,Home
+CUST_000165,Patrick Harris,ogreer@example.net,001-459-389-3347x212,2024-03-08,32,F,Ramirezview,Bulgaria,Platinum,Home
+CUST_000166,Ryan Smith,jmckinney@example.org,(759)309-4798,2024-12-31,19,F,Aliciaburgh,Mali,Gold,Home
+CUST_000167,Jonathan Perry,odavis@example.org,+1-555-554-3987x80157,2025-05-07,64,M,Patrickville,Hungary,Platinum,Clothing
+CUST_000168,Nathaniel Johnson,willie87@example.com,2433581128,2023-11-08,80,Other,Port Gina,Syrian Arab Republic,Bronze,Home
+CUST_000169,Joshua Park,elucas@example.net,+1-520-675-0110x24819,2024-03-30,55,Other,Mccoychester,Germany,Bronze,Electronics
+CUST_000170,Michael Nichols,avilabrenda@example.net,958-814-4914,2024-03-21,59,F,South Ericbury,Burkina Faso,Silver,Home
+CUST_000171,Rebecca Atkinson,susan24@example.net,001-350-688-2100x9968,2023-11-07,29,M,Jasonhaven,Cambodia,Gold,Home
+CUST_000172,Daniel Davenport,dannylambert@example.net,5879814141,2025-05-02,38,M,Davidbury,Bolivia,Platinum,Books
+CUST_000173,Benjamin Lee,nhayes@example.net,892-699-5562x0533,2025-02-10,39,F,Lake Jessica,Turkey,Gold,Home
+CUST_000174,Jeremy Hampton,larnold@example.net,+1-814-528-3411x080,2025-03-30,34,M,Amyside,Latvia,Platinum,Electronics
+CUST_000175,Brittany Long,dennis88@example.org,(458)903-9282x7229,2025-04-23,65,Other,East Kathleenbury,Bahrain,Bronze,Books
+CUST_000176,David Barnett,paul70@example.org,+1-351-684-4989x2665,2024-03-08,32,Other,New Richard,Svalbard & Jan Mayen Islands,Bronze,Electronics
+CUST_000177,Katelyn Olson,shawdon@example.org,318.543.2225,2024-04-05,66,M,Jenniferfort,Peru,Silver,Clothing
+CUST_000178,Daniel Martin,cjohnson@example.org,001-492-628-0920,2025-04-11,71,M,Greeneshire,Northern Mariana Islands,Silver,Clothing
+CUST_000179,Nathan Stanley,stacey37@example.net,772.936.9292x9842,2024-08-16,26,F,East Nicholasberg,Botswana,Bronze,Sports
+CUST_000180,Joseph Blankenship,mserrano@example.org,(979)490-8811,2025-03-27,78,M,Port Erikachester,Mali,Platinum,Books
+CUST_000181,Shaun Wolfe,zperez@example.com,001-865-699-1624x73149,2023-10-23,67,F,New Alexandrahaven,Albania,Silver,Sports
+CUST_000182,Daniel Brock,jcox@example.com,+1-994-448-6959x4636,2024-03-03,56,Other,Kingport,Morocco,Bronze,Clothing
+CUST_000183,Michael Fitzgerald,adkinssean@example.net,(413)886-5890,2025-05-12,79,F,Port Christopherberg,Latvia,Bronze,Sports
+CUST_000184,Jessica Brown,nathanlynch@example.net,(669)584-9027x7038,2023-07-01,19,F,New Gavin,Argentina,Platinum,Home
+CUST_000185,Matthew Cantrell,sheakimberly@example.com,+1-766-693-8011x84895,2023-11-19,78,Other,South Sarah,Morocco,Silver,Electronics
+CUST_000186,Christopher Hunter,gordonmatthew@example.org,248.994.7697x35779,2023-08-30,55,Other,South Cynthiabury,Philippines,Silver,Electronics
+CUST_000187,Rebecca Gutierrez,zachary04@example.org,416-551-8275x5394,2024-06-05,62,F,East Jill,Tunisia,Bronze,Sports
+CUST_000188,Daryl Conley,eric11@example.org,+1-479-608-0759x57947,2024-03-23,68,M,North Alicia,Jamaica,Gold,Sports
+CUST_000189,Joshua Shaw,xdalton@example.org,718.675.0036x915,2023-10-21,45,Other,Joelfort,New Zealand,Gold,Electronics
+CUST_000190,Clinton Coleman,xhaynes@example.com,(847)529-2931x4386,2023-09-21,50,Other,South Linda,Christmas Island,Gold,Electronics
+CUST_000191,Chad Barry,kristen44@example.net,001-306-912-0347,2024-12-02,72,F,Michaelside,Moldova,Platinum,Electronics
+CUST_000192,Deanna Smith,bellerin@example.net,999.982.4558,2025-03-18,45,F,Austinmouth,Norfolk Island,Platinum,Clothing
+CUST_000193,Sheena Davidson,robert99@example.com,812-653-5544,2025-03-16,45,M,Juliehaven,Korea,Gold,Sports
+CUST_000194,Clinton Johnson,ebonyshepard@example.net,001-313-326-1117x8006,2023-12-15,69,Other,North Diana,Turks and Caicos Islands,Platinum,Home
+CUST_000195,Dave Rojas,isims@example.net,(900)455-7784,2025-05-15,45,Other,New Carla,Norfolk Island,Gold,Books
+CUST_000196,Sherry Graham,regina78@example.org,274-456-4240,2024-02-13,72,M,Nicholsfort,Yemen,Bronze,Books
+CUST_000197,Elizabeth Cannon,carla08@example.com,568.666.3266,2023-08-03,74,F,New Kathy,United States of America,Silver,Home
+CUST_000198,Melissa Nelson,robert12@example.org,217-497-4973x5020,2025-05-17,54,Other,Josephmouth,Saint Lucia,Platinum,Books
+CUST_000199,Brandon Smith,matthewcollins@example.com,(470)551-2046x187,2025-03-22,19,F,Lisatown,British Virgin Islands,Gold,Clothing
+CUST_000200,Michelle Cruz,cwright@example.org,318.637.6452x088,2024-05-23,49,M,Jameston,Tonga,Gold,Books
+CUST_000201,Valerie Young,knguyen@example.com,001-416-730-0979,2024-12-21,39,F,East Vincent,Poland,Gold,Sports
+CUST_000202,Tara Shea,browndeanna@example.net,+1-512-273-5857,2024-10-22,18,Other,Jenniferview,United Arab Emirates,Silver,Electronics
+CUST_000203,Michael Hansen,llopez@example.net,(657)749-8218x274,2024-05-03,33,Other,Grosstown,Niger,Platinum,Home
+CUST_000204,Patty Allen,barrettamber@example.com,787.382.9456,2023-08-16,53,M,North Maryberg,Christmas Island,Platinum,Home
+CUST_000205,Christina Washington,johnsondarlene@example.com,+1-378-999-4053x91037,2025-01-12,46,M,West Angelachester,Swaziland,Bronze,Books
+CUST_000206,Michael Colon,allison14@example.org,581.413.8633,2024-07-19,32,F,Reeseshire,Guinea-Bissau,Silver,Books
+CUST_000207,Michele Simmons,jacksonhenry@example.com,552.589.7558x55665,2024-03-07,60,Other,Michaelmouth,Kiribati,Gold,Home
+CUST_000208,April Johnson,caitlin82@example.com,4433350488,2023-07-04,53,Other,Ericview,Haiti,Gold,Home
+CUST_000209,Danielle Scott,christopher69@example.org,001-315-272-7919x4096,2025-04-10,65,Other,Michaelchester,Israel,Gold,Books
+CUST_000210,Barbara Townsend,walterscrystal@example.org,980-358-9258x3206,2023-11-16,62,F,Kristieberg,Bulgaria,Gold,Books
+CUST_000211,John Mcgee,zbaker@example.net,(522)378-3769x38983,2023-12-18,34,M,Morrisshire,Benin,Bronze,Clothing
+CUST_000212,Jason Diaz,malikwheeler@example.org,001-342-359-7927x03352,2024-11-28,38,M,New Sara,Trinidad and Tobago,Silver,Clothing
+CUST_000213,Donna Cooper,torresthomas@example.com,483.238.8487,2024-03-08,31,Other,West Georgeport,Cook Islands,Platinum,Books
+CUST_000214,Lisa Brown,jonesdonna@example.net,+1-351-404-6368x15798,2023-10-30,64,Other,Castrotown,Armenia,Gold,Electronics
+CUST_000215,Joseph Cook,bgarner@example.com,+1-455-743-8404x60843,2025-03-23,71,M,North Jessica,Mali,Gold,Clothing
+CUST_000216,Lisa Garrett,robertberry@example.com,495-878-2329x8324,2025-06-03,41,M,Lake Sarah,United States Virgin Islands,Gold,Electronics
+CUST_000217,Barry Patel,whitemary@example.org,001-205-666-4742x3122,2024-08-22,63,Other,New Jesse,Poland,Silver,Books
+CUST_000218,Bobby Chan,waynejacobs@example.net,+1-652-867-7223x3060,2023-11-16,20,M,Port James,Christmas Island,Gold,Clothing
+CUST_000219,Victoria Camacho,dwatts@example.org,(360)996-5699x98808,2024-05-05,58,F,East Aprilfurt,Saint Pierre and Miquelon,Bronze,Electronics
+CUST_000220,James Hubbard,leescott@example.com,001-347-426-4908x27718,2024-12-27,54,F,South Robert,Korea,Platinum,Home
+CUST_000221,Jesse Mosley,nicoledavis@example.com,001-421-811-7518x689,2024-07-13,46,F,Port Georgemouth,Mongolia,Silver,Electronics
+CUST_000222,Shari Martin,haroldjoseph@example.com,947-942-1230x9407,2024-07-08,34,F,New Nicolebury,Cuba,Bronze,Electronics
+CUST_000223,Karen Ortiz,burkeadam@example.net,698-730-2205x020,2025-04-09,43,F,North Robertburgh,Central African Republic,Bronze,Sports
+CUST_000224,Lisa Holt,tammycurry@example.com,3146556168,2024-05-16,58,Other,Lake Michelemouth,Malta,Bronze,Clothing
+CUST_000225,Daniel Clark,rodriguezjessica@example.net,917.994.6954x89952,2024-06-01,27,Other,New Jesse,French Guiana,Gold,Electronics
+CUST_000226,April Johnson,mclaughlinjared@example.net,(760)255-8303x44144,2023-08-29,33,M,Matthewshire,Nicaragua,Platinum,Sports
+CUST_000227,Sandra Lee,sandra77@example.org,+1-727-227-8576x0849,2023-11-06,56,Other,Laurenstad,Bahrain,Silver,Sports
+CUST_000228,Diana Johnson,ksims@example.net,+1-562-791-4504x617,2024-05-02,42,F,Javierport,China,Platinum,Books
+CUST_000229,Richard Strickland,wallaceangel@example.com,923.857.8452x18230,2024-11-09,73,Other,North Larryton,Poland,Platinum,Books
+CUST_000230,Shelby Cook,garciakatie@example.net,309-643-5334x4857,2023-09-24,54,Other,Dannyside,Malaysia,Bronze,Sports
+CUST_000231,Joshua Dunn,donald49@example.org,(214)995-8702,2025-03-28,79,Other,North Patrickland,Japan,Bronze,Clothing
+CUST_000232,Michael Vance,tjensen@example.com,981.679.2171,2024-10-19,58,M,Ruizbury,Cambodia,Gold,Electronics
+CUST_000233,Lisa Durham,qwhite@example.com,477-301-7157x72459,2024-03-29,28,M,West Angelaland,Somalia,Silver,Sports
+CUST_000234,Joel Garza,christinekelley@example.com,(915)339-6695x8321,2024-08-12,22,M,Nguyenville,Swaziland,Bronze,Home
+CUST_000235,Eric Sullivan,jenningscandace@example.com,970-513-2902x27846,2023-11-04,46,Other,Kevinport,Uruguay,Platinum,Books
+CUST_000236,Jessica Haas,veronica90@example.net,562.840.5800x85140,2024-11-01,20,M,Garrettfurt,Iraq,Gold,Books
+CUST_000237,Joshua Bates,jtaylor@example.com,(462)342-2010x276,2023-09-15,62,F,Daltonchester,Nigeria,Bronze,Clothing
+CUST_000238,Jordan Arnold,ocruz@example.org,(990)797-3846x89500,2023-08-28,77,F,Nixonland,Cambodia,Silver,Home
+CUST_000239,Kelsey Villarreal,steven18@example.net,737-218-9490,2024-05-14,25,Other,Berrymouth,Italy,Silver,Clothing
+CUST_000240,William Phillips,austinlivingston@example.net,994-307-9290x4904,2023-09-07,76,F,Port Kristenview,Bulgaria,Silver,Electronics
+CUST_000241,Denise Scott,munozrenee@example.net,(275)724-3728,2025-05-26,21,M,New Sarah,Cape Verde,Gold,Sports
+CUST_000242,Nicole Gutierrez,cyoung@example.net,+1-623-995-0410x2767,2024-12-03,65,Other,South Frances,Iceland,Gold,Home
+CUST_000243,Charles Berg,robertslaura@example.com,+1-658-801-8569x45441,2024-05-09,25,F,Lake Emily,Sierra Leone,Gold,Home
+CUST_000244,George Vaughn,lawrencesmith@example.org,606-618-1753,2023-10-26,78,F,New Christopherborough,Zambia,Platinum,Home
+CUST_000245,Barbara Rosario,gatesdavid@example.net,001-492-312-4471x74654,2023-12-26,23,Other,South Paulton,Eritrea,Bronze,Home
+CUST_000246,Deborah Alexander,mkrause@example.net,(227)312-8639x1741,2023-07-28,65,F,Kimberlytown,Ukraine,Gold,Electronics
+CUST_000247,Mr. Aaron Johnson MD,isabelconway@example.net,2878766183,2025-05-04,23,M,Martinezside,Vietnam,Bronze,Books
+CUST_000248,Felicia Turner MD,diazmelissa@example.com,674-832-8063,2025-03-23,54,M,Tommouth,Saint Pierre and Miquelon,Silver,Home
+CUST_000249,Andrew Johnson,tracybrown@example.net,+1-547-987-0050x5061,2025-04-24,51,Other,Lake Beth,Uzbekistan,Platinum,Books
+CUST_000250,Nicolas Burns,ruizsamantha@example.org,420.320.4179,2025-01-24,29,Other,North Tylerbury,Bahrain,Platinum,Home
+CUST_000251,Jessica Cain,rnguyen@example.net,+1-325-630-9251,2023-09-18,80,M,Jacksonstad,Micronesia,Platinum,Books
+CUST_000252,David Perkins,craigboone@example.net,(420)571-0021x9467,2023-09-19,44,F,Alexandrachester,Dominican Republic,Gold,Electronics
+CUST_000253,Lisa Johnson,jennifersalazar@example.org,+1-545-960-8331x8195,2024-12-21,72,M,West Brian,Bouvet Island (Bouvetoya),Gold,Home
+CUST_000254,Melinda Schmitt,kjimenez@example.net,9052436459,2023-08-22,62,F,New Gregorytown,Libyan Arab Jamahiriya,Gold,Home
+CUST_000255,Andrea Young,uwatkins@example.com,553.815.3136,2025-03-19,70,Other,South Brendaton,Tuvalu,Bronze,Home
+CUST_000256,Daniel Lynch,paultaylor@example.net,654.435.2090,2023-08-27,23,F,Ellisburgh,Senegal,Gold,Books
+CUST_000257,Stephen Munoz,belindatran@example.org,268-873-9774,2024-11-26,25,F,East Mark,Mozambique,Bronze,Sports
+CUST_000258,Timothy Shah,butlerbradley@example.com,001-280-868-6717x7318,2025-05-01,47,F,West Kenneth,Oman,Bronze,Clothing
+CUST_000259,Mrs. Maureen Martin DDS,braysteven@example.org,001-862-657-0165x804,2024-10-29,51,F,Port Gail,Niger,Platinum,Home
+CUST_000260,Nancy Brown,pamela16@example.com,590.355.2818x325,2024-09-23,66,M,Port Julie,Czech Republic,Silver,Books
+CUST_000261,Steven Gordon,eramirez@example.com,(777)388-1788x479,2023-10-22,53,M,Millerfurt,Ukraine,Gold,Home
+CUST_000262,Tyler Jones,joshuaterry@example.com,(738)804-6827,2024-04-26,74,Other,West Jaimetown,Tunisia,Platinum,Electronics
+CUST_000263,Sandy Stone,robert55@example.com,001-488-677-4924,2023-11-19,19,Other,Taraton,Cameroon,Silver,Clothing
+CUST_000264,Jesus Jackson,jennifermitchell@example.org,001-422-531-0592x745,2024-07-22,37,Other,Lake Loganstad,Cameroon,Bronze,Sports
+CUST_000265,Joshua Martin,david06@example.com,001-927-752-0885x47492,2024-10-22,44,M,Mcculloughberg,Philippines,Silver,Electronics
+CUST_000266,Elizabeth Morales,seandavis@example.org,+1-839-583-4301x871,2024-05-30,47,M,Lake Michaelberg,Saint Barthelemy,Silver,Home
+CUST_000267,Jaclyn Watson,michael47@example.net,437-367-4266,2023-09-20,77,Other,Thomashaven,Grenada,Gold,Sports
+CUST_000268,Tyler Avila,smithdanielle@example.com,(628)979-2326x48704,2024-07-19,63,F,Walkertown,Cape Verde,Platinum,Home
+CUST_000269,Tyler Flowers,qmartinez@example.com,(827)630-1471x95979,2024-09-08,80,F,Mccannville,Holy See (Vatican City State),Silver,Home
+CUST_000270,Laura Bruce,bonniethomas@example.com,001-325-520-4565x044,2024-12-18,53,M,Port Cody,Sao Tome and Principe,Platinum,Clothing
+CUST_000271,Frank Stewart,joseph51@example.net,001-852-702-8457,2025-04-10,76,Other,North Jeffery,Macao,Silver,Electronics
+CUST_000272,Colin Prince,butlersabrina@example.org,(707)454-5279,2024-11-06,35,F,Lake Lisabury,Brunei Darussalam,Gold,Sports
+CUST_000273,Brenda Perez,jasonzavala@example.com,001-211-907-6031x089,2023-09-01,35,M,Bradleyport,Papua New Guinea,Gold,Books
+CUST_000274,Brent Martinez,brianagonzalez@example.net,(301)324-9552x893,2025-01-26,71,Other,New Jayborough,Finland,Platinum,Clothing
+CUST_000275,Paul Smith,glasssamantha@example.net,859.327.1256x6383,2024-12-14,46,Other,Davidville,Mali,Platinum,Books
+CUST_000276,Philip Bush,millertristan@example.com,779-447-3864x6317,2023-06-16,39,Other,Powersfurt,Kazakhstan,Platinum,Home
+CUST_000277,Megan Wilson,lmorales@example.org,001-621-653-5396x1367,2024-12-10,77,F,Kellyfurt,Libyan Arab Jamahiriya,Silver,Clothing
+CUST_000278,Brittany Gibson,kingtyler@example.net,(701)401-7026,2024-01-14,54,F,Port Charleshaven,Seychelles,Silver,Home
+CUST_000279,John Carter MD,amy88@example.org,001-606-416-7567x70028,2024-05-31,20,F,West Jennifer,Libyan Arab Jamahiriya,Platinum,Home
+CUST_000280,Laura Henry,kalvarez@example.net,7642796954,2023-06-27,42,Other,East Marystad,Sudan,Silver,Home
+CUST_000281,Alyssa Vance,oscar65@example.com,(250)733-3491x14152,2023-07-04,79,M,Bradleychester,Ethiopia,Silver,Sports
+CUST_000282,John Johnson,nicholas65@example.net,671-735-7852,2025-05-15,79,Other,South Cynthia,Solomon Islands,Gold,Electronics
+CUST_000283,Samuel Lewis,brandon96@example.org,+1-519-719-5419x876,2025-01-08,73,F,Williamport,Jersey,Bronze,Sports
+CUST_000284,Emily Perry,colleen78@example.org,8822973748,2024-06-22,76,F,Stevenbury,Canada,Bronze,Clothing
+CUST_000285,Pamela Richard,eflores@example.net,564.342.4936,2023-09-24,44,Other,East Lauraport,Kyrgyz Republic,Silver,Electronics
+CUST_000286,Dr. Javier Bullock,eriktaylor@example.com,882-707-0015x941,2024-10-09,48,F,South Sherryberg,Dominica,Gold,Sports
+CUST_000287,Nicholas Fitzpatrick,tyler13@example.net,355-496-3632,2023-11-10,62,F,Scottview,Tokelau,Bronze,Books
+CUST_000288,Katherine Brooks,stewartrodney@example.net,242.257.5409,2024-10-23,72,Other,West Angela,Georgia,Platinum,Books
+CUST_000289,Mercedes Leach,nicholsjoel@example.com,(206)644-1343x2756,2025-03-01,58,Other,Ruizchester,Vanuatu,Platinum,Sports
+CUST_000290,Michelle Mcdowell,hollowayholly@example.net,456-998-5700,2025-01-05,20,Other,North Richard,Niue,Bronze,Clothing
+CUST_000291,Kenneth Rodriguez,zacharybooker@example.net,001-329-865-7724x29543,2024-03-01,58,Other,Waltershire,Czech Republic,Gold,Clothing
+CUST_000292,Alexander Hansen,rebeccamccann@example.org,320-269-6942x152,2024-11-13,65,M,Ayalamouth,Sweden,Platinum,Electronics
+CUST_000293,Bailey Reeves,sophiali@example.com,476-226-3934x3626,2024-01-05,66,Other,Joemouth,United States of America,Bronze,Home
+CUST_000294,Kevin Holland,smithdean@example.com,001-763-566-9411x800,2024-05-16,28,Other,Wendyton,Albania,Gold,Electronics
+CUST_000295,Manuel Turner,ilambert@example.net,4923428757,2024-01-24,20,F,Thomasville,Germany,Bronze,Books
+CUST_000296,Carl Savage,julie64@example.com,+1-548-456-2572x870,2023-07-16,40,F,North Thomas,Central African Republic,Platinum,Clothing
+CUST_000297,Jessica Carney,wwilliams@example.net,+1-577-671-2151,2023-10-17,33,Other,Lake William,Faroe Islands,Platinum,Sports
+CUST_000298,Mary Lewis,foxashley@example.com,737-315-0416,2025-02-07,61,M,North Christopher,Switzerland,Silver,Clothing
+CUST_000299,Karen Fuller,brooke05@example.org,+1-897-359-2304x5018,2024-03-24,23,Other,East Tammy,Tonga,Platinum,Sports
+CUST_000300,Alex Clark,schan@example.net,001-921-947-6492x51583,2025-03-15,61,M,Adamschester,Bermuda,Platinum,Sports
+CUST_000301,Rita Austin,fmccoy@example.org,657.432.7881x47617,2025-05-26,27,M,Mckenziehaven,Japan,Platinum,Books
+CUST_000302,Anthony Jones,palmerwilliam@example.com,279-345-4918,2024-11-29,47,F,Whiteburgh,Tajikistan,Bronze,Home
+CUST_000303,Bradley Mcdowell,lee77@example.net,252-832-1941x680,2023-08-31,75,F,Lake Thomas,Puerto Rico,Silver,Electronics
+CUST_000304,Matthew Garner,nturner@example.com,001-564-912-2031x030,2024-09-23,46,F,South Megan,Togo,Gold,Home
+CUST_000305,Cheryl Turner,bhernandez@example.org,522-577-7079,2024-01-08,62,F,Williamstown,Bosnia and Herzegovina,Platinum,Books
+CUST_000306,Michelle Petty,mmclaughlin@example.net,+1-940-576-7899,2024-11-10,30,F,South Barbaraside,Bahrain,Platinum,Electronics
+CUST_000307,Matthew Small,simpsonsheila@example.com,760.924.3757x383,2023-09-10,33,F,Jenniferfurt,Israel,Gold,Sports
+CUST_000308,Megan Navarro,kmarsh@example.net,941.372.2329,2025-01-07,36,Other,Torresborough,Moldova,Gold,Electronics
+CUST_000309,Albert Ibarra,erica28@example.org,956-619-3183,2025-06-02,80,Other,Kaylaside,Ethiopia,Platinum,Books
+CUST_000310,Sarah Russo,mccarthysara@example.com,511.799.1808x121,2023-09-29,18,Other,Jeanhaven,Luxembourg,Bronze,Sports
+CUST_000311,Annette Holland,lori13@example.com,(403)875-4821x45653,2025-01-02,65,F,Port Roy,Uruguay,Gold,Clothing
+CUST_000312,Jimmy Phelps,sherry72@example.org,001-481-215-5626x060,2025-05-21,56,F,Robertside,Tunisia,Silver,Clothing
+CUST_000313,Patrick Blankenship,wilcoxrachel@example.net,(867)538-9975,2025-03-11,57,F,North Amandafurt,Saint Kitts and Nevis,Silver,Electronics
+CUST_000314,Sheryl Meyer,jason88@example.com,752.600.8943x46810,2024-09-07,75,Other,Davidville,Kiribati,Bronze,Books
+CUST_000315,Norman Chavez,lindazhang@example.net,001-389-735-4492x683,2024-06-18,68,F,Port Kimberly,Korea,Bronze,Sports
+CUST_000316,Michael Poole,davisroger@example.org,937.815.8698x8649,2025-06-04,41,Other,Dennischester,Swaziland,Silver,Electronics
+CUST_000317,Jonathan Washington,tanderson@example.net,713.677.0285x19611,2023-07-06,76,F,North Nathan,Holy See (Vatican City State),Gold,Home
+CUST_000318,John Moody,kristenfisher@example.com,632-970-1851x0679,2025-03-26,29,M,Alvarezberg,Serbia,Silver,Sports
+CUST_000319,Mark Gill,uhernandez@example.com,299-966-3658,2024-11-25,74,F,Port Gabrieltown,Montserrat,Gold,Clothing
+CUST_000320,Patricia Parker,schneiderchristopher@example.net,+1-390-498-3780,2025-05-10,34,F,Kristinbury,Switzerland,Gold,Books
+CUST_000321,Stacy Wallace,richard07@example.org,662-460-8564x11182,2023-10-18,69,M,East Kristopherchester,Philippines,Platinum,Electronics
+CUST_000322,Lucas Nguyen,reeveskenneth@example.org,826-354-6103x39937,2023-12-20,27,M,Stevenchester,Bahrain,Platinum,Sports
+CUST_000323,Mr. David Mercado,angela91@example.org,001-582-849-6718x32582,2025-05-09,41,M,Williamsmouth,Switzerland,Platinum,Electronics
+CUST_000324,Marissa Jackson,mahoneytimothy@example.net,665-339-8402x891,2024-03-21,34,Other,Port Donaldside,Fiji,Bronze,Home
+CUST_000325,Christine Wagner,nicole54@example.net,943.255.3795x020,2025-03-26,41,Other,South Angela,Qatar,Gold,Sports
+CUST_000326,Pamela Medina,ryanpatricia@example.net,515.969.5620x175,2023-06-13,42,Other,Port Juanstad,Congo,Gold,Electronics
+CUST_000327,Louis Turner,jimsnyder@example.com,6479930361,2023-10-09,61,M,Lake Joanne,Peru,Platinum,Electronics
+CUST_000328,Krystal Jones,julieanderson@example.net,984.230.8948,2025-04-22,57,Other,Port Sheilachester,Tanzania,Gold,Sports
+CUST_000329,Denise Frazier DDS,zachary03@example.org,568-875-0635x190,2025-05-07,32,Other,East Frank,Georgia,Bronze,Home
+CUST_000330,Mario Johnson,lmorton@example.net,943-317-3505x83199,2024-09-06,76,Other,North Territon,Honduras,Gold,Home
+CUST_000331,Ryan Brown,bryanlang@example.org,896-511-0804x6619,2025-02-28,25,M,South Patrickchester,Turkmenistan,Bronze,Electronics
+CUST_000332,Ashley Curtis,gibsonmark@example.org,610-791-9392,2024-04-09,37,F,Lopezberg,South Georgia and the South Sandwich Islands,Bronze,Electronics
+CUST_000333,Cameron Silva,larry82@example.org,249.854.5089x2038,2024-02-13,33,Other,Lake Rebekah,Solomon Islands,Silver,Home
+CUST_000334,Collin Alvarez,vgreene@example.net,001-259-946-5217,2023-11-14,47,F,Lake Jeffreybury,Lao People's Democratic Republic,Platinum,Sports
+CUST_000335,Cynthia Navarro,lindsay63@example.com,(405)601-5081,2024-04-23,65,Other,Bradleytown,Congo,Silver,Home
+CUST_000336,Christopher Mcclure,matthewspencer@example.org,702.541.0261,2024-01-16,59,M,West Lisa,Panama,Platinum,Sports
+CUST_000337,Joseph Lloyd,ejohns@example.org,(823)538-6559,2025-04-10,44,F,Port Amanda,Somalia,Bronze,Books
+CUST_000338,David Soto,monique89@example.com,717.991.2868,2024-06-20,31,F,West Jennifer,Malta,Platinum,Clothing
+CUST_000339,Michelle Simpson,bianca90@example.org,437.736.3466,2023-12-10,72,F,East Karenport,Kenya,Bronze,Books
+CUST_000340,Crystal Williams,ronald76@example.com,(375)646-0273x415,2025-02-11,52,Other,Port Joshuabury,Bolivia,Gold,Electronics
+CUST_000341,Isaac Payne,james54@example.com,001-243-992-8404x4566,2024-09-27,43,F,Port Raymond,Denmark,Silver,Electronics
+CUST_000342,Christine Hall,dsharp@example.com,253-766-3778,2023-09-16,78,F,West Sherry,Algeria,Bronze,Clothing
+CUST_000343,Mr. Henry Perez MD,sfarmer@example.net,859-809-0225x9999,2023-11-03,59,Other,Brownfurt,Comoros,Bronze,Electronics
+CUST_000344,Gary Hayden,christopher18@example.org,5975023164,2024-01-05,68,F,South Brianhaven,Algeria,Silver,Clothing
+CUST_000345,Scott Jenkins,veronicaanderson@example.com,516.932.3467x2994,2023-12-25,68,Other,East Seanfurt,Netherlands,Silver,Electronics
+CUST_000346,Kelly Kent,kstevens@example.org,001-814-975-4692x6329,2024-03-14,71,Other,Lake Ashley,India,Silver,Sports
+CUST_000347,Amanda Mcclure,joshuafuller@example.com,+1-413-676-8151x18567,2023-11-05,31,M,South Anthonymouth,Hong Kong,Gold,Clothing
+CUST_000348,James Lee,smithdanny@example.org,277-371-1837x27422,2023-10-14,68,Other,New Judithburgh,Belarus,Bronze,Books
+CUST_000349,Alexandra Nelson,nhoward@example.net,9832708164,2024-08-17,72,M,Port Nicholasborough,Vanuatu,Silver,Sports
+CUST_000350,Terry Gonzalez,fisherveronica@example.com,313.712.2068,2024-01-28,34,M,New Jamie,Mauritius,Bronze,Electronics
+CUST_000351,Jeffrey Hall,kellyglenn@example.com,+1-550-863-7314x9501,2024-01-13,26,M,Birdville,Rwanda,Gold,Clothing
+CUST_000352,Wanda Jefferson,johnathandavis@example.com,+1-862-552-5715x0997,2024-06-09,55,F,East Andrewville,Georgia,Bronze,Clothing
+CUST_000353,Jeffrey Sanchez,brownnicholas@example.com,426.630.3975,2024-01-25,34,M,New Latoyachester,Oman,Silver,Home
+CUST_000354,Nicole Perez,matthew38@example.org,+1-233-496-8527x01713,2025-04-22,51,M,North Glenn,Mexico,Bronze,Home
+CUST_000355,Tara Young,simmonsstuart@example.org,001-933-362-9344x9734,2025-05-02,46,F,Raymondburgh,Latvia,Bronze,Home
+CUST_000356,Jonathan Moss,lorileon@example.org,001-966-614-9828x24674,2024-03-07,50,M,Jonesberg,Saint Barthelemy,Bronze,Sports
+CUST_000357,Christopher Lopez,hensleyjessica@example.com,866.465.6749x1601,2023-10-26,37,F,Kruegerstad,Malawi,Bronze,Electronics
+CUST_000358,Madison Richardson,curtissara@example.net,937.405.0249,2023-12-09,48,F,North Darryl,Bermuda,Platinum,Electronics
+CUST_000359,Sydney Sanders,stonejacob@example.com,(864)348-8694,2023-08-25,49,Other,Lisaview,San Marino,Platinum,Electronics
+CUST_000360,Paul Hale,benitezlisa@example.org,716-486-4622,2024-11-02,75,M,South Hunter,Yemen,Gold,Sports
+CUST_000361,Keith Lewis,brianwhite@example.org,367-791-2141x614,2023-06-28,27,M,South Todd,Senegal,Silver,Books
+CUST_000362,Antonio Walton,ortegakristina@example.org,938-706-9847,2024-08-21,57,Other,Nathanmouth,Germany,Gold,Home
+CUST_000363,Teresa Ortega,wbishop@example.com,607-562-0918,2024-03-02,56,Other,Robertsonborough,Afghanistan,Gold,Home
+CUST_000364,Dr. Robin Smith,morgan57@example.org,+1-576-491-5671x649,2025-03-03,50,Other,East Tylerland,Gabon,Platinum,Electronics
+CUST_000365,Whitney Archer,cjackson@example.org,683.533.2116x0256,2024-11-13,68,Other,Lynnville,Papua New Guinea,Bronze,Sports
+CUST_000366,Joseph Swanson,popemarvin@example.org,001-591-656-6863,2023-08-30,64,M,North Christophershire,Vietnam,Platinum,Home
+CUST_000367,Tom Berry,melissafinley@example.net,001-504-309-8366x5528,2024-03-21,74,M,Stewartport,Taiwan,Platinum,Books
+CUST_000368,Michael Hernandez,dustin09@example.com,581-549-7374x6052,2024-10-30,70,F,Port Kimberlyfort,Saint Lucia,Platinum,Home
+CUST_000369,William Hopkins,vickiekelley@example.com,(775)266-1844x38612,2025-02-17,64,M,Stephenburgh,Morocco,Gold,Home
+CUST_000370,Michael Carter,jasonbrock@example.org,001-405-291-2662x0157,2023-08-31,38,Other,Brittneyberg,Niue,Gold,Books
+CUST_000371,Danielle Wilson,sburns@example.net,(361)376-4750,2023-08-06,79,M,Mayhaven,Czech Republic,Platinum,Electronics
+CUST_000372,Kenneth Armstrong,heather19@example.org,(876)949-2151x8260,2023-07-23,23,M,Port Karenville,Cocos (Keeling) Islands,Bronze,Home
+CUST_000373,Melissa Smith,hmcbride@example.org,(393)621-8401,2024-02-27,24,Other,South Tiffany,Palestinian Territory,Gold,Clothing
+CUST_000374,Eric Shah,donna72@example.net,458.659.8831x0303,2025-02-21,53,M,East Carrie,Cuba,Gold,Electronics
+CUST_000375,Destiny Daniel,qjones@example.com,(726)471-4628x3143,2024-04-08,44,F,West Victoria,Jordan,Platinum,Electronics
+CUST_000376,Victor Wright,david18@example.com,251-355-4234,2024-03-08,79,F,South Stephanie,Slovenia,Gold,Books
+CUST_000377,Casey Chandler,brianna71@example.net,(794)884-9102x562,2024-05-20,24,Other,West Albert,Malaysia,Silver,Clothing
+CUST_000378,Mary Thomas,brian53@example.net,+1-567-627-5784x468,2024-09-13,60,F,West Richardmouth,Tanzania,Silver,Electronics
+CUST_000379,Bobby Blair,martinbrian@example.net,287-506-8277x8816,2025-04-02,40,Other,Lake Ronaldside,San Marino,Gold,Electronics
+CUST_000380,Zachary Guerrero,lawsontami@example.net,001-783-321-5285x06762,2024-02-09,66,F,Port Amber,Seychelles,Silver,Home
+CUST_000381,Donna Webb,jason96@example.org,780-379-7050x9754,2023-06-10,72,Other,South Michael,Bolivia,Bronze,Sports
+CUST_000382,Craig Rice,robertgentry@example.org,(443)676-5456,2023-08-25,77,Other,Douglasmouth,Central African Republic,Gold,Electronics
+CUST_000383,Paul Smith,danielmitchell@example.org,(465)702-3741x6787,2024-12-07,29,F,Shawfurt,Bulgaria,Gold,Books
+CUST_000384,Brian Smith,mauricesmith@example.net,605.969.0674,2023-08-06,40,M,Wrightberg,Saint Lucia,Silver,Clothing
+CUST_000385,Danielle Wang,virginia36@example.org,618.592.3923x1260,2025-04-16,54,Other,Smithborough,Bermuda,Platinum,Electronics
+CUST_000386,Jamie Warren,jeffreysimmons@example.org,260.241.4545x63502,2023-07-15,27,Other,Jasonfort,Fiji,Bronze,Electronics
+CUST_000387,Ashlee Lopez,tcox@example.org,708-525-5598,2024-09-24,65,Other,New Patrick,Tuvalu,Silver,Home
+CUST_000388,Mark Guzman,willisrhonda@example.net,937.511.8954,2024-07-01,44,F,North David,Italy,Gold,Clothing
+CUST_000389,Dawn Wiley,patricia71@example.com,476-688-0294,2023-07-10,41,F,Port Teresaborough,Saint Vincent and the Grenadines,Gold,Sports
+CUST_000390,Kathleen Patel,martinkaren@example.com,+1-566-294-3202,2025-03-10,56,M,Gordonhaven,Eritrea,Bronze,Clothing
+CUST_000391,Daniel Erickson,jacksonbrandon@example.org,702-742-4033x8105,2023-08-06,28,Other,Jenniferchester,Ukraine,Bronze,Electronics
+CUST_000392,Erika Brown,hollowayjeffrey@example.com,(540)989-1649,2023-11-15,35,F,Jamesfurt,Cape Verde,Platinum,Home
+CUST_000393,Nicholas Hamilton,racheldavis@example.org,822.539.7240x422,2023-07-27,56,F,South Johnfurt,Bolivia,Platinum,Books
+CUST_000394,Breanna Christensen,morrisonnicholas@example.org,200-223-1429,2025-05-07,31,Other,New Jillmouth,Timor-Leste,Bronze,Books
+CUST_000395,Christina Castillo,tochoa@example.com,323.808.4810x0184,2023-09-18,45,M,North Jeremy,Hungary,Gold,Sports
+CUST_000396,Matthew Perez,tmcdaniel@example.org,221.431.4519x5151,2023-10-15,49,Other,Carolchester,Canada,Gold,Electronics
+CUST_000397,Melissa Weber,michael14@example.com,+1-854-610-2252x67711,2023-09-20,32,F,Wandaburgh,Seychelles,Bronze,Electronics
+CUST_000398,Francisco Coleman,oguzman@example.com,(536)868-7887,2023-08-07,31,F,Rosebury,Reunion,Silver,Clothing
+CUST_000399,Isaiah Harris,coxthomas@example.org,805-552-4728,2023-11-08,66,F,North Julie,British Indian Ocean Territory (Chagos Archipelago),Gold,Books
+CUST_000400,Michele Bennett,hortonroger@example.org,001-519-317-9202x521,2023-06-16,25,M,Hernandezburgh,Latvia,Platinum,Home
+CUST_000401,Nicole Hale,theodore57@example.net,001-804-812-0092x820,2024-10-16,29,M,Spencerview,Uruguay,Platinum,Sports
+CUST_000402,Elizabeth Perez,josephdavis@example.com,(336)990-3628,2024-05-20,63,M,Wilcoxburgh,Austria,Gold,Electronics
+CUST_000403,Maria Lee,garciamichael@example.com,2346281139,2023-10-22,43,Other,Lake Sarah,Dominican Republic,Bronze,Home
+CUST_000404,William Cunningham,uwilliams@example.org,805-346-8356x5215,2024-06-08,19,F,North Brenda,Hong Kong,Bronze,Books
+CUST_000405,Sean Johnson,edwardford@example.net,733-922-8898,2025-01-01,54,F,Kellychester,Armenia,Platinum,Home
+CUST_000406,Patricia Hughes,wendylawson@example.org,001-371-902-4817,2024-01-22,36,M,Evanview,Morocco,Platinum,Electronics
+CUST_000407,Brandon White,escott@example.com,001-772-719-7054x66927,2024-03-06,79,F,Hunterview,Turkey,Silver,Sports
+CUST_000408,Melanie Oliver,figueroajohn@example.net,5218462961,2025-03-07,47,Other,West Stevenside,United Arab Emirates,Gold,Electronics
+CUST_000409,Ashley White,lowerysandra@example.com,965.315.5973,2023-12-27,45,M,New Ericfort,Cameroon,Silver,Home
+CUST_000410,Erica Johnson,zbrown@example.com,(873)303-0644x21214,2024-01-11,55,F,Savagehaven,Croatia,Bronze,Home
+CUST_000411,Debbie Rivas,jacobsonroy@example.com,(735)867-7826,2025-01-28,73,F,North Jennifer,Mozambique,Gold,Clothing
+CUST_000412,Erica Downs,alexis72@example.com,816-448-0727x91033,2024-08-19,39,M,West Jason,Comoros,Bronze,Sports
+CUST_000413,Laura Smith,allen48@example.org,001-477-966-5586x851,2024-04-15,58,M,New Brooke,Mauritius,Silver,Books
+CUST_000414,Dustin Keller,swalters@example.net,311-910-9617,2024-06-08,40,Other,Lake Kellychester,Croatia,Silver,Clothing
+CUST_000415,Jesse James,melissasampson@example.com,566.205.3844x446,2025-03-26,24,M,Johnsontown,Cape Verde,Gold,Clothing
+CUST_000416,Sara Stone,matthew96@example.org,+1-863-496-0962,2024-03-27,29,Other,Zacharychester,Djibouti,Silver,Electronics
+CUST_000417,Robert Gordon,ocameron@example.com,+1-425-231-1060,2024-08-31,29,Other,New Patrickberg,Korea,Platinum,Home
+CUST_000418,Paula Lopez,kennethnichols@example.org,001-364-304-1209x1179,2023-09-18,66,Other,Patricialand,Belarus,Platinum,Sports
+CUST_000419,Isaiah Massey MD,apope@example.org,213.366.5722x4029,2025-05-20,59,Other,Timothyside,Albania,Gold,Books
+CUST_000420,Patrick House,catherineherrera@example.net,923.551.3052x31244,2025-05-03,27,F,Jeanport,Lao People's Democratic Republic,Bronze,Home
+CUST_000421,Kathleen Hunt,qnielsen@example.org,946.819.9423,2025-03-13,46,Other,Carlsonview,Suriname,Gold,Books
+CUST_000422,Brian Reyes,ashleybrooks@example.net,772-808-4964,2023-06-28,55,M,Port Marcus,Somalia,Gold,Sports
+CUST_000423,David Lewis,nathan51@example.org,505-337-9538x16493,2024-07-21,22,F,New Patriciachester,Pitcairn Islands,Platinum,Home
+CUST_000424,Emily Flores,brandonsnyder@example.org,261-617-2959x639,2023-06-20,20,M,South Justinfurt,Argentina,Gold,Books
+CUST_000425,Tamara Williams,jonescody@example.com,001-644-955-6185x7906,2024-06-01,22,Other,Port Nathanielville,Antarctica (the territory South of 60 deg S),Bronze,Sports
+CUST_000426,Roger Taylor,michelle63@example.org,235-680-0401,2023-07-31,56,Other,Haileyfurt,Faroe Islands,Platinum,Home
+CUST_000427,Tammy Silva,martinezmichelle@example.net,(671)688-3977x45731,2024-11-08,55,Other,Angelicabury,Palestinian Territory,Bronze,Home
+CUST_000428,Savannah Neal,bonillabrian@example.org,+1-937-463-7153x98854,2025-02-15,76,Other,East Jefferystad,Hungary,Silver,Books
+CUST_000429,Shawna Palmer,rlopez@example.com,(249)912-7113,2023-10-21,56,F,South Dorothymouth,Guinea,Silver,Electronics
+CUST_000430,Timothy Miller,zlewis@example.net,(885)407-4510x66343,2024-08-14,46,M,Stoneville,Pitcairn Islands,Gold,Electronics
+CUST_000431,David Rodriguez,brownaustin@example.com,818.314.3966,2023-11-14,50,Other,Tylerburgh,Solomon Islands,Silver,Electronics
+CUST_000432,Mark Mccarthy,jessica12@example.net,001-497-243-2512x257,2024-10-05,33,Other,Cookburgh,Estonia,Platinum,Home
+CUST_000433,Carolyn Wolf,wheelertara@example.net,5734710094,2024-12-09,51,Other,North Kevinmouth,Korea,Silver,Books
+CUST_000434,Gregory Gardner DDS,michael05@example.com,001-458-797-1480x263,2024-06-04,41,F,New Joyce,Jersey,Platinum,Home
+CUST_000435,Patrick Lee,rfowler@example.net,+1-287-782-4556x96443,2025-02-05,67,F,South Laurashire,Somalia,Bronze,Books
+CUST_000436,Donna Montes,jho@example.com,+1-228-549-8247x41407,2023-12-30,22,F,North Tracytown,Jersey,Bronze,Sports
+CUST_000437,Roy Williams,michaelcampbell@example.net,+1-782-514-2369x14307,2025-01-20,61,F,Hendersonville,Uganda,Gold,Books
+CUST_000438,Eric Collins,ushelton@example.net,(334)626-8344,2024-07-25,64,Other,Gardnerfurt,Slovenia,Silver,Books
+CUST_000439,Jessica Taylor,gbenson@example.net,001-857-356-7667x080,2024-12-10,23,Other,Kristinshire,Malaysia,Silver,Books
+CUST_000440,Marc Yoder,brian62@example.com,+1-907-787-0104x15914,2025-02-27,37,Other,Lake Brendahaven,Saint Vincent and the Grenadines,Platinum,Clothing
+CUST_000441,Meredith Black,rtaylor@example.net,(244)407-9311,2024-08-21,56,Other,New Collinborough,Bosnia and Herzegovina,Bronze,Books
+CUST_000442,Ross Wallace,howekevin@example.com,(438)249-7916,2023-10-20,53,F,East William,Reunion,Gold,Clothing
+CUST_000443,Karen Roberts,haleytrevor@example.net,866-217-6620x471,2024-08-04,60,Other,Lake Debramouth,Armenia,Bronze,Home
+CUST_000444,Heather Taylor,khill@example.com,483.658.6812x25957,2024-12-31,50,F,Sandraland,United States Virgin Islands,Bronze,Books
+CUST_000445,Karen Estes,barbarapennington@example.net,542.359.9599x61002,2024-10-05,37,M,Villafort,Gibraltar,Silver,Books
+CUST_000446,Vicki Stokes,danielgilmore@example.net,(461)709-4101x7590,2023-08-24,78,F,Grayshire,Moldova,Silver,Clothing
+CUST_000447,David Kim,jeremiah26@example.net,719.801.3020,2024-07-26,26,M,West Jacobhaven,Luxembourg,Bronze,Books
+CUST_000448,Daniel Carey,michael82@example.org,566.219.1284x117,2024-08-19,72,M,Andrewport,Uzbekistan,Bronze,Books
+CUST_000449,Jeanette Howard,tammyjones@example.net,389.984.6908,2025-04-21,74,Other,Deniseton,Guadeloupe,Silver,Sports
+CUST_000450,Curtis Barron,tayloramy@example.net,903-471-9905x16991,2023-12-21,42,M,North Austinhaven,Czech Republic,Silver,Clothing
+CUST_000451,Jessica Turner,andrewbrown@example.org,+1-496-808-7066,2024-10-31,71,Other,North Samuel,Ukraine,Silver,Home
+CUST_000452,Stephanie Bell,samuel03@example.org,590-236-8900,2023-08-02,20,F,South Henry,Aruba,Gold,Clothing
+CUST_000453,Lance Zamora,david67@example.net,911-648-3753,2025-04-25,80,F,Mistybury,Malta,Gold,Home
+CUST_000454,Emma Weaver,brownrachel@example.net,+1-774-413-2834x831,2023-07-03,32,Other,Lake Scott,Serbia,Silver,Books
+CUST_000455,Brian Porter,nelsonbrianna@example.com,904-296-7066,2023-11-18,79,F,Lopezchester,Martinique,Silver,Books
+CUST_000456,Eric Weaver,sharon95@example.com,001-993-805-9660x18648,2024-07-29,61,Other,Franciscofurt,Lao People's Democratic Republic,Platinum,Home
+CUST_000457,Tammy Anderson,campbellfelicia@example.com,638-745-9609,2023-12-20,67,F,Kimberlytown,British Virgin Islands,Platinum,Sports
+CUST_000458,Matthew Huff,scottsmith@example.org,705.378.3609x149,2024-04-23,51,F,Katieview,Eritrea,Silver,Clothing
+CUST_000459,Bethany Mccoy,monicadouglas@example.org,502-287-9508,2025-05-02,69,Other,Theresatown,Philippines,Silver,Books
+CUST_000460,Sarah Fernandez,burkemichael@example.org,471.281.3359x56164,2024-01-31,21,Other,Matthewchester,Ukraine,Platinum,Books
+CUST_000461,Julie Beltran,martinbradley@example.org,001-701-593-5889,2024-03-09,53,M,Lake Jessicafurt,Serbia,Bronze,Books
+CUST_000462,Mrs. Angela Walls MD,hryan@example.net,6975887543,2024-02-02,23,M,Jerrymouth,San Marino,Gold,Home
+CUST_000463,Melissa Wallace,wcox@example.net,415.679.3763x92836,2025-01-08,75,Other,Leeland,Ireland,Silver,Home
+CUST_000464,William Johnston,rachelwalter@example.org,(816)248-7120,2024-10-23,23,M,East Zacharyhaven,Uruguay,Platinum,Books
+CUST_000465,Jay Anderson,jenniferwilson@example.com,001-999-810-1576,2024-01-04,77,M,Gravesburgh,Saint Kitts and Nevis,Platinum,Electronics
+CUST_000466,Sydney Zuniga,hernandezalan@example.net,(976)757-2894x134,2023-07-12,43,Other,Mitchellfurt,Ghana,Gold,Clothing
+CUST_000467,Tiffany Williams,russellramirez@example.net,315-542-1447x73244,2024-10-06,42,M,North Jamie,Taiwan,Gold,Clothing
+CUST_000468,Caroline George,moyeramber@example.org,4709534967,2024-01-08,19,F,Lake Jasmineville,Kenya,Bronze,Books
+CUST_000469,Katherine Miller,victoriadennis@example.org,(713)215-2854x781,2024-04-18,68,M,Jamesside,Panama,Silver,Electronics
+CUST_000470,Lori Avery,sanchezbrenda@example.org,+1-234-872-7274x23183,2023-07-26,36,F,Lake Gregory,Italy,Silver,Home
+CUST_000471,Lisa Welch,danawashington@example.net,(943)647-7695,2023-08-16,46,Other,Port Kathrynchester,Kiribati,Bronze,Electronics
+CUST_000472,Matthew Wilson,qhuber@example.org,(562)877-9630x448,2023-07-21,19,F,Josemouth,Isle of Man,Silver,Clothing
+CUST_000473,Jeremy Ross,adamsjessica@example.com,+1-704-476-3928x3199,2024-08-22,53,Other,Lake Andrewfurt,Bermuda,Platinum,Electronics
+CUST_000474,Felicia Gomez,penaapril@example.com,+1-732-886-3425,2023-11-11,67,F,North Barry,Angola,Silver,Books
+CUST_000475,Kelsey Mason,swilliams@example.com,6333041662,2023-08-01,25,M,Smithside,Netherlands,Silver,Home
+CUST_000476,Anna Chapman,mlee@example.com,868-304-4731x49764,2023-11-16,58,Other,Hoffmanfort,Finland,Platinum,Electronics
+CUST_000477,Kim Sanchez,kaiserjessica@example.com,001-681-773-9063x75791,2023-09-20,25,F,North Annborough,Tonga,Bronze,Sports
+CUST_000478,Linda Miller,ejensen@example.net,001-893-207-4645x2059,2023-12-20,54,M,Port Anna,Liechtenstein,Silver,Books
+CUST_000479,Emily Pearson,steven78@example.net,001-911-361-6202x8123,2023-07-05,45,M,Simpsonhaven,Libyan Arab Jamahiriya,Gold,Clothing
+CUST_000480,Shane Barnes,phillipsryan@example.com,001-748-659-5922x4839,2024-05-17,54,F,West Sara,Saint Helena,Silver,Electronics
+CUST_000481,Tanya Martin DDS,asmith@example.org,(971)704-3318,2023-08-15,51,F,Wheelerland,Guernsey,Bronze,Sports
+CUST_000482,Sophia Cooper,reillyjoshua@example.com,001-345-496-4883,2023-08-21,52,Other,West Gregory,Mongolia,Bronze,Home
+CUST_000483,Robert Matthews,xrivera@example.net,+1-449-473-2033x192,2024-05-19,73,F,West Christianton,Burundi,Bronze,Home
+CUST_000484,Jessica Ortega,kevin13@example.net,(666)475-4858x1932,2025-02-09,80,F,Henryview,Poland,Gold,Electronics
+CUST_000485,Steven Pearson,anthonydiaz@example.com,001-556-239-8365x20375,2024-08-08,40,M,Clintonstad,United States Virgin Islands,Gold,Clothing
+CUST_000486,Thomas Lawson,hollanddarlene@example.com,9444090797,2024-05-18,64,Other,North Mikeberg,Romania,Bronze,Sports
+CUST_000487,Shelby Anderson,hflowers@example.org,705.218.4390x552,2025-04-24,65,F,Butlerton,Bahrain,Silver,Electronics
+CUST_000488,Philip Hernandez,christopher70@example.com,+1-938-362-0448x515,2024-07-24,40,Other,Davisland,Cocos (Keeling) Islands,Gold,Clothing
+CUST_000489,Charlene Garza,wangkristina@example.org,+1-657-413-4324x0642,2024-07-24,71,Other,Perezborough,Faroe Islands,Platinum,Home
+CUST_000490,Cassandra Phillips,fbaker@example.com,001-455-587-2096,2025-06-02,58,M,Reedport,Cote d'Ivoire,Silver,Electronics
+CUST_000491,Warren Arnold,christopher34@example.org,840.218.2727x955,2024-01-28,63,F,Lake Michaeltown,Cayman Islands,Bronze,Books
+CUST_000492,George Wong,lopezmichael@example.org,582.607.9799x667,2024-11-16,30,M,Timothyfurt,French Southern Territories,Silver,Electronics
+CUST_000493,Timothy Young,fisherkim@example.net,(790)228-2498x3922,2025-05-16,38,F,Lauraberg,Spain,Platinum,Sports
+CUST_000494,James Murray,jamesjackson@example.com,723-236-1328,2024-05-20,48,F,Coryside,Poland,Bronze,Clothing
+CUST_000495,Daniel Kennedy,tguerra@example.org,001-716-925-2654x69681,2024-10-08,36,F,East Nicoleburgh,Seychelles,Bronze,Books
+CUST_000496,Jack Mason,bishopkaren@example.org,+1-832-473-0346x1562,2024-01-01,35,M,Leonardfort,Antigua and Barbuda,Gold,Home
+CUST_000497,Troy White,gfleming@example.com,851-960-2529,2023-06-15,74,F,Hendersonton,Gabon,Platinum,Home
+CUST_000498,Patrick Wilson,xshaw@example.com,001-758-651-2686x120,2023-10-29,39,M,Grahammouth,Finland,Platinum,Home
+CUST_000499,Sean Stevens,smallgina@example.com,(254)308-4245x60754,2024-02-23,41,Other,New Joannabury,China,Gold,Electronics
+CUST_000500,Brandon Acosta,rjordan@example.com,393.889.7015x502,2024-06-15,64,F,West Saraport,Jamaica,Bronze,Home
+CUST_000501,Clinton Francis,copelandryan@example.org,794.949.8830,2023-11-11,56,M,Hillburgh,Falkland Islands (Malvinas),Gold,Books
+CUST_000502,Amber Ross,erikanelson@example.com,306.524.4795,2023-11-18,24,M,Jeffreyport,Saint Lucia,Gold,Books
+CUST_000503,Samantha Matthews,amber78@example.org,255-357-2773x82646,2024-09-10,37,F,Christopherhaven,Heard Island and McDonald Islands,Platinum,Clothing
+CUST_000504,Paul Hayes,njohnson@example.net,(995)596-6048,2024-03-07,62,F,South Catherine,Thailand,Gold,Home
+CUST_000505,James Lewis,duncangregory@example.org,001-868-565-3694x55158,2025-02-23,20,Other,Shermanport,Sweden,Gold,Sports
+CUST_000506,Brooke Marks,iroberts@example.com,001-372-816-9666x30932,2025-04-28,45,F,Chelseaburgh,Montenegro,Bronze,Electronics
+CUST_000507,Melinda Crane,paulnicole@example.net,(688)332-7532x7352,2025-03-21,60,Other,New Steven,Ecuador,Platinum,Books
+CUST_000508,Jill Allen,teresaporter@example.org,+1-352-837-1006x876,2025-05-06,50,Other,Lake Kimberlyside,Rwanda,Silver,Electronics
+CUST_000509,John Barber,lisa05@example.com,001-887-761-1249x125,2023-09-18,27,Other,Port Timothy,Estonia,Platinum,Electronics
+CUST_000510,Martin Jones,wgoodwin@example.com,247-557-4949x02284,2025-03-11,26,M,Jenniferport,Western Sahara,Silver,Books
+CUST_000511,Latoya Torres,jnunez@example.net,001-422-294-6430x394,2023-12-13,41,F,Woodsburgh,Guatemala,Bronze,Sports
+CUST_000512,Laurie Mason,nicholas72@example.net,327.560.1534x3324,2024-02-22,27,Other,Hudsontown,Tajikistan,Platinum,Books
+CUST_000513,Sabrina French,judithcox@example.org,(515)581-4888x1079,2023-12-11,41,F,Lake Sharon,Togo,Bronze,Sports
+CUST_000514,Michael Bryant,krausejoseph@example.com,531-928-4033,2024-05-11,26,Other,West Kristyland,Congo,Gold,Home
+CUST_000515,Jeremy Alvarez,danielsjason@example.com,890-696-1739x9704,2024-06-01,38,Other,West William,Malaysia,Gold,Clothing
+CUST_000516,Matthew Baker,matthewbyrd@example.net,871-627-0587x7221,2023-08-15,79,M,Petersonside,Swaziland,Bronze,Clothing
+CUST_000517,Richard Hines,kyletorres@example.net,414.793.9252x3622,2025-05-06,49,Other,Valdezchester,Slovakia (Slovak Republic),Platinum,Sports
+CUST_000518,Crystal Baker,nathan45@example.net,(757)446-9660x606,2025-05-19,25,F,Andrewborough,Cote d'Ivoire,Gold,Home
+CUST_000519,Dawn Wall,morriskrystal@example.com,+1-383-539-8741,2023-10-02,31,Other,Davidshire,Latvia,Gold,Home
+CUST_000520,Theresa Harrington,twatts@example.com,649.796.0105,2024-04-22,30,M,Danielberg,Turkmenistan,Silver,Electronics
+CUST_000521,Erika Rowe,jholloway@example.net,693-281-7359x8488,2023-09-17,46,M,Port Kristimouth,Timor-Leste,Platinum,Electronics
+CUST_000522,Raymond Burgess,jackmcdonald@example.com,(953)244-9021x666,2025-02-03,69,Other,New Nathanielshire,Jordan,Gold,Books
+CUST_000523,Toni Marks MD,vcampbell@example.net,319-918-1828,2024-08-25,63,M,Port Charles,Poland,Gold,Books
+CUST_000524,Donald Hayes,debrajones@example.net,001-257-886-0694,2023-06-20,72,M,West Ronald,Eritrea,Silver,Books
+CUST_000525,Lauren Saunders,mvaldez@example.net,(292)432-3421x089,2024-07-05,50,M,West Monicabury,Palestinian Territory,Bronze,Clothing
+CUST_000526,Eric Coleman,jesse35@example.org,(971)960-7360,2024-03-24,68,M,Port Oscar,Suriname,Silver,Home
+CUST_000527,Wayne Hunter,martinjason@example.com,001-395-956-3318x5748,2023-06-18,19,F,Larafurt,Togo,Gold,Home
+CUST_000528,Isaac Collins,hamiltonmelanie@example.com,516.470.4502,2024-07-23,69,Other,New Eric,Puerto Rico,Silver,Sports
+CUST_000529,Andrew Carlson,michelleguerrero@example.com,+1-262-962-2822x512,2023-11-03,74,M,Garrettview,Nigeria,Bronze,Books
+CUST_000530,Richard Rivera,jjohnson@example.com,7865982210,2023-08-13,43,Other,North Tanyamouth,Israel,Platinum,Sports
+CUST_000531,Kimberly Taylor,collinsterrance@example.com,(558)459-1779,2023-11-14,44,F,Port Sheri,Czech Republic,Bronze,Clothing
+CUST_000532,Natalie Love,olivia13@example.org,824-757-9889x425,2024-10-02,80,F,Lake Rebeccafurt,Norfolk Island,Bronze,Home
+CUST_000533,Craig White,cynthiaconley@example.org,(865)909-7753,2025-06-01,47,Other,Howellside,Kazakhstan,Gold,Clothing
+CUST_000534,Douglas Mack,matthew24@example.com,387.515.8415x6082,2025-05-19,74,Other,North Andreaport,Brunei Darussalam,Silver,Clothing
+CUST_000535,Elizabeth Graham,burchteresa@example.org,(283)723-0358x9298,2024-07-05,45,Other,West Erik,Pitcairn Islands,Bronze,Electronics
+CUST_000536,Mark Montgomery,amberfriedman@example.com,940.764.6867,2023-09-14,51,M,Aaronview,Russian Federation,Gold,Clothing
+CUST_000537,Emily Leblanc,brownrobert@example.org,623.462.6693x3513,2025-03-20,28,F,Lake Jodiberg,Costa Rica,Silver,Books
+CUST_000538,Michael Hodges,walshabigail@example.net,997-437-4189,2023-07-28,78,Other,Nancyton,Hong Kong,Gold,Electronics
+CUST_000539,Dawn Sims,trichards@example.net,243.381.1995x3766,2025-02-28,34,M,Meganview,United Kingdom,Gold,Clothing
+CUST_000540,Jordan Barnes,tonya10@example.org,001-873-897-3964x178,2023-07-07,58,F,New Maryville,Morocco,Bronze,Sports
+CUST_000541,Vincent Allen,tochoa@example.net,2575798066,2024-07-25,59,M,Lake Sonyaville,French Guiana,Silver,Clothing
+CUST_000542,Rebecca Daniel,michael55@example.org,770-457-4238x856,2025-02-13,60,Other,West Michaelside,Saint Vincent and the Grenadines,Gold,Sports
+CUST_000543,Tracy Stewart,craig16@example.com,+1-472-763-4755x752,2023-06-18,20,M,New Lance,Madagascar,Bronze,Electronics
+CUST_000544,Kristina Sherman,raymonddominguez@example.org,819-464-2585,2025-04-10,78,Other,Port Stephanieport,Nicaragua,Gold,Clothing
+CUST_000545,Angela Key,pmckenzie@example.net,(540)473-3337,2023-06-16,67,Other,North Meredith,Liberia,Platinum,Sports
+CUST_000546,Jennifer Arnold,robertabbott@example.net,(396)445-4655x3585,2024-01-28,58,M,Port Amanda,Brunei Darussalam,Platinum,Sports
+CUST_000547,Thomas Duke,gnichols@example.net,958.937.4907,2024-08-12,36,Other,East Andrewmouth,Monaco,Gold,Home
+CUST_000548,Stephanie Woods,brycegomez@example.net,694-709-7626x374,2023-11-24,33,Other,Thomasside,Pitcairn Islands,Platinum,Books
+CUST_000549,Shari Arellano,josephmichael@example.org,001-319-718-6233x92207,2023-08-11,47,M,Berryfurt,Sri Lanka,Bronze,Clothing
+CUST_000550,Michael Taylor,isaac45@example.org,001-764-971-2463x351,2024-12-07,46,F,Andrewton,Moldova,Platinum,Home
+CUST_000551,Jake Jackson,smithpaul@example.org,001-595-712-3972,2023-08-16,31,F,New Neil,Christmas Island,Silver,Books
+CUST_000552,Michelle Hobbs,williamolsen@example.com,4904814415,2025-03-26,73,Other,Leeberg,New Zealand,Gold,Books
+CUST_000553,Teresa Mcfarland,hbowers@example.net,+1-815-235-2373,2024-02-23,80,F,Cochranshire,Bolivia,Silver,Books
+CUST_000554,Ann Pena,psherman@example.org,952-373-4666x6170,2024-01-28,50,Other,Lynchport,Luxembourg,Bronze,Books
+CUST_000555,Patricia Townsend DDS,lopezchristopher@example.net,001-298-825-0800x4635,2024-11-27,33,F,New Nathan,Qatar,Bronze,Books
+CUST_000556,Daniel Bryant,patriciajoseph@example.org,001-237-539-9006x314,2024-10-01,46,M,Traceyfurt,Sweden,Silver,Electronics
+CUST_000557,Thomas Morales,donaldsanchez@example.net,569-943-4606x664,2023-12-09,21,F,Lake Heatherton,Qatar,Platinum,Sports
+CUST_000558,Betty Norris,walshdarius@example.com,628-652-4648,2025-02-21,44,M,Danielville,Indonesia,Silver,Books
+CUST_000559,Stacey Clements,hgonzalez@example.org,771.913.0621x1369,2024-11-27,77,Other,Harperton,Panama,Gold,Clothing
+CUST_000560,Pamela Lopez,jennywilliams@example.org,(854)425-7306,2025-04-29,66,M,East Jackborough,Grenada,Platinum,Sports
+CUST_000561,Jessica Savage,bridgescarolyn@example.com,+1-222-485-0116,2024-11-17,47,F,Mitchellberg,United Arab Emirates,Gold,Home
+CUST_000562,David James,cervanteskayla@example.org,609.881.0796,2024-04-30,19,M,Lake Tracy,El Salvador,Platinum,Sports
+CUST_000563,William Gibson,shawnsuarez@example.org,(642)464-2506,2023-07-08,47,M,Pageside,Timor-Leste,Silver,Sports
+CUST_000564,James Larsen,jared66@example.com,577.567.5556x283,2024-11-08,40,M,Port Jessica,Slovenia,Bronze,Books
+CUST_000565,Stephanie Kelley,tbrooks@example.org,(427)818-7496x0335,2025-04-22,49,Other,Whitemouth,Anguilla,Platinum,Books
+CUST_000566,Jasmin Estrada,tonya92@example.net,(293)326-5732x7599,2025-01-02,52,M,North Alanton,Greenland,Bronze,Home
+CUST_000567,Emily Winters,juliarubio@example.com,659-659-7752,2023-08-20,26,F,East Frank,British Indian Ocean Territory (Chagos Archipelago),Gold,Home
+CUST_000568,Lisa Moore,rgraves@example.net,812.971.0267,2023-10-09,41,M,New Haileystad,Venezuela,Platinum,Electronics
+CUST_000569,Kenneth West,wallerstacey@example.net,(551)751-2294x621,2024-01-06,54,Other,West Carriefort,Andorra,Silver,Books
+CUST_000570,Leslie Frey,melissa38@example.com,907.352.0344x76504,2024-02-05,53,F,East Monicatown,Saint Pierre and Miquelon,Bronze,Home
+CUST_000571,Elizabeth Gonzalez,cjames@example.net,+1-946-655-8665x25483,2023-12-18,50,F,Sellersland,Sri Lanka,Gold,Sports
+CUST_000572,Emma Hicks,johnsondavid@example.org,312.251.2931,2024-11-16,61,Other,Mollyland,Cape Verde,Bronze,Clothing
+CUST_000573,Tracie Costa,kristi19@example.org,5235121106,2023-07-13,80,M,South Lukehaven,Congo,Platinum,Books
+CUST_000574,Craig Travis,taylordennis@example.net,4725801234,2024-10-30,68,F,East Jacobmouth,Saudi Arabia,Gold,Clothing
+CUST_000575,Carla Reid DDS,shunter@example.org,(245)838-0442x10175,2023-08-04,30,Other,Smithland,Ghana,Platinum,Sports
+CUST_000576,Sydney Ward,carrolljessica@example.com,457.257.4758x339,2024-10-24,20,M,Marshallmouth,Greece,Bronze,Clothing
+CUST_000577,Sarah Compton,dmelton@example.com,(826)760-2562,2023-06-17,63,F,East Brittany,Colombia,Platinum,Sports
+CUST_000578,Alan Kennedy,matthew07@example.com,(848)843-3797,2025-04-29,47,M,South Tanya,Bahamas,Silver,Books
+CUST_000579,Brian Benton,jfranklin@example.org,473.667.0425x49691,2024-02-11,77,Other,Lindsayberg,Heard Island and McDonald Islands,Gold,Clothing
+CUST_000580,Kara Smith,robert35@example.net,457.748.5953,2024-12-29,43,Other,Lake Brittany,Dominica,Gold,Sports
+CUST_000581,Danielle Elliott,edwardsnicole@example.com,001-629-451-8779x41763,2024-02-27,39,Other,South Johntown,Greece,Platinum,Sports
+CUST_000582,Marc Hoffman,sue75@example.net,+1-633-599-1403,2025-01-05,37,F,Haynestown,French Southern Territories,Bronze,Books
+CUST_000583,Charles Johnson,dmiller@example.org,968.629.7514x743,2023-10-04,39,Other,West Stephanie,British Virgin Islands,Bronze,Home
+CUST_000584,Gabriel Woods,lesliele@example.net,7652625904,2025-03-13,55,F,Lake Jenniferberg,Luxembourg,Bronze,Sports
+CUST_000585,Barry Hernandez,shelbyyoung@example.com,(851)465-1768x086,2024-07-11,48,F,Port Jaredburgh,Brazil,Silver,Electronics
+CUST_000586,Sheila Perez,newmanangela@example.org,+1-837-200-3322x8556,2024-06-13,55,F,Travischester,Mexico,Silver,Sports
+CUST_000587,Curtis Johnson,brandismith@example.net,295-682-6328,2023-12-18,58,Other,Williamburgh,Syrian Arab Republic,Platinum,Clothing
+CUST_000588,Lawrence Cook,rachael61@example.net,570-579-8632x1061,2024-12-13,70,Other,Marissaborough,Turks and Caicos Islands,Silver,Electronics
+CUST_000589,Elizabeth Ford,ashleywilkerson@example.com,980.840.3253,2024-11-14,54,Other,Joyceburgh,Uruguay,Bronze,Clothing
+CUST_000590,Justin Mitchell DVM,chrisrodriguez@example.org,4903040476,2023-07-16,19,F,Lake James,Jamaica,Gold,Home
+CUST_000591,Jacqueline Ramirez,evansaustin@example.org,924-673-1072x0113,2023-12-21,27,F,Brownberg,Cuba,Silver,Home
+CUST_000592,Michael Johnson,dreynolds@example.com,(609)201-4473,2024-10-09,50,Other,East Hannah,Sudan,Platinum,Electronics
+CUST_000593,Matthew Russo,shansen@example.com,404.751.9577,2024-09-30,63,M,Jessicaside,Cameroon,Silver,Sports
+CUST_000594,Mark Russell,wwatson@example.com,(478)765-6194,2025-04-12,38,Other,Hayesside,Tokelau,Platinum,Sports
+CUST_000595,Stacy Cooper,carolfernandez@example.net,(292)336-1618,2024-07-31,42,F,Sarahburgh,Saint Vincent and the Grenadines,Silver,Home
+CUST_000596,Michael Rogers,nguyenmary@example.com,+1-568-963-9561,2023-09-28,76,Other,Lake Aaron,South Africa,Gold,Sports
+CUST_000597,Rebecca Simpson,nealkristopher@example.com,338-613-0004x1321,2024-05-02,40,Other,South Shirleyfurt,Algeria,Gold,Sports
+CUST_000598,Elizabeth Hughes,kevinharvey@example.com,+1-399-807-0755x0476,2024-10-22,48,M,Stacyfort,Anguilla,Silver,Books
+CUST_000599,Victor Blake,wellsamy@example.org,717.665.3970,2024-07-14,53,F,Robinsonchester,Bhutan,Silver,Books
+CUST_000600,Carl Huffman,wallssean@example.net,(374)996-8049,2023-10-12,67,F,Carterburgh,Armenia,Silver,Home
+CUST_000601,Gary Rodriguez,tanyajones@example.com,530.962.6042x3597,2025-01-17,38,F,North Frankberg,Saint Vincent and the Grenadines,Gold,Sports
+CUST_000602,Lisa Johnson,srichardson@example.com,8858816704,2023-07-25,77,Other,West Nataliestad,Lebanon,Gold,Books
+CUST_000603,Thomas Knox,davidmartin@example.net,(437)885-8471,2023-08-30,25,Other,East Jamesport,Burkina Faso,Platinum,Home
+CUST_000604,Jeanette Watson,rodriguezelizabeth@example.net,404.825.3733x77731,2024-07-15,70,F,East Elizabethhaven,Cameroon,Silver,Books
+CUST_000605,Andrea Palmer,knightjohn@example.com,+1-853-946-0605x6035,2024-08-23,20,F,Lake Rebecca,Lesotho,Bronze,Books
+CUST_000606,Rachel Oneal,johnboyd@example.com,001-616-990-6181x20546,2024-09-24,77,F,Kevinside,Netherlands,Gold,Home
+CUST_000607,Eric Fry,shughes@example.net,001-389-699-2751x758,2024-09-08,31,M,Nancyhaven,Denmark,Gold,Sports
+CUST_000608,Taylor Solomon,michaeltorres@example.com,764.549.6392x43588,2025-01-10,62,F,North Jenny,Turkey,Silver,Electronics
+CUST_000609,David George,isaac75@example.org,(874)897-8524x9141,2023-06-09,57,Other,Port Sarah,Vanuatu,Silver,Clothing
+CUST_000610,Timothy Pierce PhD,dgonzalez@example.com,+1-279-217-6651x2215,2025-02-15,21,Other,Danielside,Ethiopia,Silver,Clothing
+CUST_000611,Brendan Paul,qharris@example.net,5015594463,2024-08-31,21,M,Sarahstad,Tajikistan,Platinum,Books
+CUST_000612,Alexander Silva,georgeburch@example.com,989.302.1994,2023-08-15,63,F,Walkermouth,New Zealand,Bronze,Clothing
+CUST_000613,Christopher Robinson,smithemily@example.com,001-996-973-3116,2023-09-24,18,Other,Jeffersonfurt,Angola,Silver,Home
+CUST_000614,Denise Macias,hkim@example.com,407-889-6793x52196,2023-11-05,59,F,Michaelview,Egypt,Platinum,Clothing
+CUST_000615,Stephanie Gray,ryu@example.net,217.906.9556,2024-04-20,66,F,Blankenshipland,Jordan,Gold,Books
+CUST_000616,Darryl Richardson,timothy23@example.net,+1-289-683-0650x3121,2023-08-03,59,M,Shawnport,Cambodia,Bronze,Sports
+CUST_000617,Diana Moon,robertjackson@example.org,819.409.2487,2023-11-26,32,Other,New Jennifer,Bangladesh,Bronze,Clothing
+CUST_000618,Debra Logan,maxwellangela@example.com,001-222-882-3052x4808,2023-09-13,44,M,South Ericberg,Dominican Republic,Bronze,Home
+CUST_000619,Sandra Berry,steven72@example.net,632-990-1620,2024-06-27,68,F,Byrdfurt,Mexico,Silver,Books
+CUST_000620,Jennifer Warren,kristin96@example.com,862.887.2031x95419,2024-03-07,74,M,Andrewfort,Congo,Bronze,Books
+CUST_000621,Cindy Hampton,shannongarza@example.net,(946)832-0374,2024-05-12,54,Other,Watsonborough,Kyrgyz Republic,Bronze,Books
+CUST_000622,Tyler Sanchez,pennylivingston@example.com,(905)276-6194x588,2025-04-19,36,F,Jonesmouth,Congo,Platinum,Clothing
+CUST_000623,Jonathon Smith,thomasjennifer@example.com,7089385076,2024-02-15,72,Other,Justinton,Spain,Platinum,Books
+CUST_000624,Barbara Gonzales,ghamilton@example.org,+1-889-681-2657x42231,2024-03-21,30,M,North Kevinberg,Congo,Gold,Clothing
+CUST_000625,Cory Lloyd,ronaldcarroll@example.org,4129047137,2023-08-29,64,F,Cainmouth,Nicaragua,Gold,Clothing
+CUST_000626,Jacqueline Harrison,barbara85@example.net,+1-758-629-8493x30674,2024-06-05,18,Other,Williamsshire,French Southern Territories,Gold,Books
+CUST_000627,Deanna Holloway,meganrobinson@example.org,321.588.5666x954,2023-10-03,54,Other,Fryland,Singapore,Silver,Clothing
+CUST_000628,Steve Graham,emoore@example.org,551-443-7769x36634,2024-02-07,57,Other,Brittneyland,Bolivia,Platinum,Home
+CUST_000629,Robert Smith,fvasquez@example.net,+1-220-407-2024x5591,2025-03-20,50,F,Craigshire,Belize,Bronze,Home
+CUST_000630,Lisa Underwood MD,pennyholloway@example.com,449-349-8194,2024-05-09,60,M,Erichaven,Bhutan,Silver,Clothing
+CUST_000631,Danny Campbell MD,elizabeth77@example.com,344.266.3453x37220,2024-08-09,48,F,East Danielmouth,Brunei Darussalam,Silver,Electronics
+CUST_000632,Benjamin Townsend,beth76@example.com,889-543-7052,2024-02-14,34,F,North Maureenview,Iceland,Silver,Home
+CUST_000633,Jonathan Barrett,ubowers@example.com,(856)359-2024,2024-05-27,66,F,Eddieberg,Dominican Republic,Gold,Books
+CUST_000634,Kathleen Ramirez,jenniferbutler@example.org,+1-755-695-5017x8332,2024-06-29,55,Other,South Kayla,Saint Martin,Bronze,Books
+CUST_000635,Jordan Ball,amber70@example.com,906-691-7679x93593,2024-01-12,59,F,Port Jeromeshire,Equatorial Guinea,Silver,Electronics
+CUST_000636,Aaron Perez,stephaniecole@example.com,6602148860,2024-06-04,60,M,New Donna,France,Platinum,Books
+CUST_000637,Sarah Frost,vcastro@example.org,+1-330-461-5370,2025-04-17,28,F,Garyport,Paraguay,Gold,Electronics
+CUST_000638,Christopher Simmons,michaelhubbard@example.com,988-711-2103x1421,2023-09-03,58,F,Dixonfort,Paraguay,Gold,Sports
+CUST_000639,Rachel Kelly,gomezpaul@example.org,+1-440-591-1225,2024-05-21,32,M,Anthonyfurt,Somalia,Silver,Home
+CUST_000640,Ashley Hunt,mlewis@example.net,+1-279-913-7876x5530,2023-10-22,27,F,Andrestad,Pakistan,Gold,Home
+CUST_000641,Paul Smith,michelle12@example.org,+1-288-719-2778x851,2023-12-03,62,Other,Carterville,Azerbaijan,Platinum,Sports
+CUST_000642,Mary Murillo,lisa24@example.com,(318)451-7446x00452,2025-04-17,69,Other,West Danielview,Seychelles,Silver,Clothing
+CUST_000643,Stephen White,brandimiller@example.org,848-281-8984x841,2024-01-20,61,Other,Davismouth,Ethiopia,Bronze,Sports
+CUST_000644,Breanna Davis,rodriguezthomas@example.com,(468)314-2983x152,2024-09-10,46,Other,South Jefferyberg,Chile,Gold,Electronics
+CUST_000645,Samantha Fleming,veronicasmith@example.net,693-778-3063x963,2023-09-14,76,Other,Bartlettport,Ethiopia,Bronze,Electronics
+CUST_000646,Scott Martinez,mscott@example.com,3165934292,2023-09-11,71,Other,East Whitneyton,Saint Martin,Silver,Sports
+CUST_000647,James Sanford,susan90@example.net,410.361.5372,2025-03-03,52,M,Tiffanyfurt,Palestinian Territory,Silver,Books
+CUST_000648,Denise Alvarado,jamiegomez@example.net,+1-937-674-6040x67200,2023-11-03,72,Other,West Donaldview,Christmas Island,Platinum,Electronics
+CUST_000649,Adam Floyd,willismichael@example.net,573.947.6427,2025-03-29,61,M,Port Jimmyfort,Hungary,Platinum,Electronics
+CUST_000650,Travis Hicks,danielgriffith@example.net,614-584-6019x134,2024-12-11,75,Other,Lake Tyler,Marshall Islands,Platinum,Electronics
+CUST_000651,Tyler Murphy,abradley@example.com,821.746.4493,2023-08-16,47,M,Weberbury,Greece,Platinum,Home
+CUST_000652,George Ruiz,amandasnyder@example.com,+1-501-919-2360,2024-04-03,54,M,North Erinside,Kazakhstan,Platinum,Books
+CUST_000653,Connie Lewis,collin40@example.net,(514)297-3153x91149,2024-05-19,64,M,Ambertown,Vanuatu,Platinum,Books
+CUST_000654,Ruth Robinson,gclay@example.org,293.694.0655x78201,2023-10-25,70,M,East Joan,Saint Martin,Silver,Sports
+CUST_000655,Ronald Gonzalez,steven73@example.net,(401)935-4621,2024-03-09,22,M,West Austin,China,Platinum,Books
+CUST_000656,Stephanie Rodriguez,jasonhernandez@example.org,(532)948-8899x57298,2024-04-12,62,M,Ramirezview,New Caledonia,Bronze,Electronics
+CUST_000657,Nicholas Ingram,gonzalezkenneth@example.net,419.212.0381x876,2024-06-19,77,F,Port David,United States of America,Bronze,Books
+CUST_000658,Scott Stephens,allenandrea@example.com,581.344.5822x06732,2024-06-19,44,M,Jonesside,Belgium,Silver,Home
+CUST_000659,Erica Martin,victoria50@example.org,001-900-700-1529x11371,2023-07-18,41,F,Lake Edwardstad,Germany,Platinum,Home
+CUST_000660,Brian Rocha,karen42@example.org,+1-329-498-7478,2023-10-13,42,M,Walterton,Germany,Silver,Books
+CUST_000661,Andrew Hamilton,williamsbrandon@example.net,836-355-1584x826,2023-11-26,25,M,Port Joseph,Denmark,Platinum,Sports
+CUST_000662,Jaclyn Williams MD,kristenbennett@example.org,+1-907-706-3369,2025-01-01,26,Other,Port Claudiahaven,Colombia,Silver,Electronics
+CUST_000663,Antonio Pham,grimesjohnny@example.net,988-504-4287,2024-06-17,66,M,Robbinsborough,Marshall Islands,Gold,Home
+CUST_000664,Jennifer Allen,thomasricardo@example.net,828-594-6420x3625,2023-08-22,61,Other,Christopherton,Swaziland,Platinum,Sports
+CUST_000665,Tony Welch,michaelchristensen@example.com,5262355824,2024-10-07,42,M,Bennettchester,Somalia,Silver,Home
+CUST_000666,Dylan Johnston,ingramjessica@example.com,288.782.4527,2023-07-04,40,M,Port Kellyborough,United States Virgin Islands,Gold,Clothing
+CUST_000667,Wayne Holloway,mariascott@example.com,001-316-232-1119x787,2024-08-23,77,Other,East Brittney,Norfolk Island,Bronze,Electronics
+CUST_000668,Katherine Taylor,yvonne06@example.org,001-211-298-7561x7868,2025-04-03,69,Other,Port Anthony,Sudan,Platinum,Sports
+CUST_000669,Brian Osborne,dunnmary@example.net,3368577449,2025-04-07,67,M,South Micheal,Somalia,Silver,Clothing
+CUST_000670,Stephen Jones,stokesmonica@example.net,001-494-818-4336x87509,2023-10-27,22,M,East Catherine,Madagascar,Bronze,Home
+CUST_000671,David Hill,robert14@example.org,001-842-888-6050x537,2024-04-20,56,Other,New Heatherville,San Marino,Bronze,Clothing
+CUST_000672,Richard Smith,acevedonancy@example.org,335.466.9106x27153,2024-12-19,65,M,Priscillastad,Austria,Platinum,Home
+CUST_000673,Katrina White,washingtonmelanie@example.com,001-982-593-8440x13480,2024-02-12,32,Other,South Michelle,United States Minor Outlying Islands,Silver,Electronics
+CUST_000674,Stephanie Taylor,lewisdeanna@example.net,001-310-615-7090x8599,2024-01-01,26,Other,North Jennifer,Korea,Gold,Clothing
+CUST_000675,Lauren Martin PhD,kwang@example.com,001-548-499-7184x28596,2024-02-03,70,Other,West Andrewhaven,Tuvalu,Gold,Sports
+CUST_000676,Malik Proctor,stephaniezamora@example.org,(834)226-6980,2025-05-30,56,Other,Mooreville,Kuwait,Gold,Clothing
+CUST_000677,Valerie Johnson,nthompson@example.com,+1-438-293-5953,2025-02-07,37,M,Mariastad,Ireland,Silver,Home
+CUST_000678,Autumn Thomas,jpeterson@example.org,(895)382-6418x6965,2025-04-12,37,F,North Anna,Sudan,Bronze,Sports
+CUST_000679,Michael Jennings,katieaguirre@example.com,001-551-643-4682,2025-02-17,78,Other,Connieton,Timor-Leste,Silver,Home
+CUST_000680,Tyler Mendoza,aaroncontreras@example.net,(796)261-0168x31139,2023-07-12,53,F,South Allisonview,Belgium,Bronze,Books
+CUST_000681,Lawrence Hodge,brian62@example.net,939.676.2053x44077,2024-03-18,78,Other,Lake Sherriberg,Saint Kitts and Nevis,Platinum,Sports
+CUST_000682,Scott Powers,melvinpeters@example.org,001-677-360-2991x4068,2025-05-16,38,Other,East Shawn,Benin,Platinum,Home
+CUST_000683,Tiffany Edwards,jamesmoon@example.com,378-417-0321,2023-06-07,27,F,East Karenbury,Sweden,Platinum,Clothing
+CUST_000684,Mckenzie Anderson,wpayne@example.com,233-471-8444,2025-02-27,66,Other,Brandonfurt,French Polynesia,Platinum,Clothing
+CUST_000685,Valerie Davis,justin03@example.com,941.467.8127,2025-04-05,72,M,North Maryland,Turkey,Gold,Clothing
+CUST_000686,Robert Herrera Jr.,josearias@example.com,(598)557-9736,2025-03-08,69,F,New Erin,Ghana,Bronze,Sports
+CUST_000687,George Armstrong,bmoyer@example.com,001-898-466-1770x673,2025-02-24,44,F,West Kathyfurt,Mauritius,Silver,Home
+CUST_000688,Matthew Jackson,crystalmurphy@example.org,865-405-8714,2024-11-23,33,F,North Tina,Burundi,Silver,Books
+CUST_000689,James Bryant,grantamanda@example.net,736-299-8480x220,2025-05-02,59,M,Lake Meagan,Jersey,Platinum,Books
+CUST_000690,Linda Holt,deborah49@example.com,001-998-381-1457x8870,2024-02-22,23,Other,East Paula,Iran,Silver,Electronics
+CUST_000691,John Ryan,anthonygilbert@example.com,(819)917-7987x6829,2024-11-13,35,F,Port Mary,Ghana,Bronze,Electronics
+CUST_000692,Christina Gamble,gibbsamanda@example.net,906.223.5040x56695,2023-06-29,30,Other,East Joshuaside,Christmas Island,Silver,Home
+CUST_000693,Grace Brooks,ian86@example.com,001-463-625-9423,2025-01-04,31,F,Port Shelia,Mayotte,Gold,Electronics
+CUST_000694,Tammy Michael,richard41@example.net,+1-552-585-7256x29269,2024-02-12,31,M,Curtishaven,Botswana,Bronze,Home
+CUST_000695,Jeanne Diaz,ystone@example.net,309-357-4430x34918,2025-04-05,76,M,Martinborough,Mali,Silver,Home
+CUST_000696,Felicia Young,millermichael@example.com,515-847-1553x1325,2024-05-19,76,M,East Laurenmouth,Thailand,Gold,Books
+CUST_000697,Alan Oliver,heidischneider@example.org,210-452-7698x1987,2024-12-11,42,F,West Michaelbury,Tanzania,Gold,Books
+CUST_000698,Kristin Wang,imartin@example.com,+1-966-605-9867,2024-01-11,34,F,East Trevor,Guadeloupe,Platinum,Home
+CUST_000699,Victoria Barry,amber59@example.com,(759)242-8249x116,2023-09-14,24,Other,North Bradport,Holy See (Vatican City State),Platinum,Books
+CUST_000700,Laurie Johns,mullendavid@example.org,351-630-5570x83682,2024-01-14,76,M,Cruzfort,Cambodia,Gold,Books
+CUST_000701,Dr. William Walker MD,sball@example.net,(320)425-8254x31832,2023-10-24,44,M,East Jamesberg,Turkey,Silver,Clothing
+CUST_000702,Adrienne Torres,brownjoanna@example.org,836.347.2387x50827,2024-10-05,19,F,Port Henry,Guernsey,Platinum,Books
+CUST_000703,Frank Francis,anna47@example.org,(329)805-2918x7683,2023-07-15,27,M,Lake Scott,British Indian Ocean Territory (Chagos Archipelago),Gold,Clothing
+CUST_000704,Casey Bryant,jamescobb@example.net,599.820.5222,2025-03-12,42,Other,Lake Ronaldmouth,Palestinian Territory,Silver,Home
+CUST_000705,Angela Turner,joeljackson@example.net,(939)983-5844x617,2023-11-13,53,Other,Robertstown,Montserrat,Gold,Books
+CUST_000706,Sean Lane,ucarr@example.org,(979)397-0292,2023-10-03,66,F,Johnmouth,Senegal,Platinum,Home
+CUST_000707,Kathleen Rodriguez,uzimmerman@example.org,001-788-832-2012,2024-11-21,28,Other,New Jacobton,Turks and Caicos Islands,Gold,Clothing
+CUST_000708,Philip Burns,gstone@example.net,553.258.5238x600,2023-12-27,26,Other,Joelfurt,Oman,Platinum,Clothing
+CUST_000709,Kenneth Bauer,daniel15@example.org,291.302.9295,2024-01-14,76,Other,Ramirezhaven,Congo,Bronze,Sports
+CUST_000710,Rodney Buck,fgay@example.org,+1-397-919-1260x22132,2024-04-01,20,M,North Darius,Sierra Leone,Bronze,Electronics
+CUST_000711,Ann Rodriguez,lgarcia@example.org,590-572-5873,2023-07-04,44,M,South Omar,Cote d'Ivoire,Silver,Electronics
+CUST_000712,Mary Gibson,kimberly12@example.com,(711)240-8682,2024-08-01,63,M,Tinaberg,Nepal,Bronze,Clothing
+CUST_000713,Carl Larsen,jackierichardson@example.com,001-561-903-9952x9701,2023-09-01,50,F,Jamesstad,Mexico,Gold,Electronics
+CUST_000714,Jacob Parker,jasonjohnson@example.org,001-920-627-0615x9273,2023-07-21,57,Other,South Jenniferland,Jersey,Platinum,Home
+CUST_000715,Kevin Gutierrez,davidcampbell@example.net,555-242-0340,2023-09-06,19,M,Rebeccafurt,Zimbabwe,Platinum,Electronics
+CUST_000716,Thomas Bowman MD,cindy57@example.net,+1-255-346-2347x12476,2023-07-09,19,Other,Port Davidhaven,British Virgin Islands,Gold,Sports
+CUST_000717,Alexander Pruitt,gspencer@example.com,(941)372-6808x0815,2023-09-23,80,F,Port Jennifermouth,Romania,Bronze,Sports
+CUST_000718,Bradley Romero,pchavez@example.org,835.410.4584x743,2023-08-29,70,Other,North Andre,Jordan,Platinum,Clothing
+CUST_000719,Joseph Rice,sean69@example.com,603.818.0533x9627,2025-03-18,24,M,Morrowland,Guinea,Silver,Clothing
+CUST_000720,Kelly Rivas,dsmith@example.com,(966)914-5901x1079,2023-09-05,30,Other,Benjaminview,Myanmar,Gold,Books
+CUST_000721,Randy Arnold,audrey53@example.net,001-915-820-4998x094,2024-12-30,35,F,Fowlerland,Congo,Bronze,Books
+CUST_000722,Jeffrey Martinez,jreyes@example.net,616-561-2374x0779,2023-11-24,79,F,Port Marcus,Cocos (Keeling) Islands,Platinum,Sports
+CUST_000723,Michael Robertson,brandi19@example.com,2149262037,2025-01-26,33,Other,North Christopher,Azerbaijan,Silver,Books
+CUST_000724,Mary Hopkins,cody81@example.org,(299)689-8972x117,2025-04-15,61,M,Port Loriland,Mayotte,Bronze,Electronics
+CUST_000725,Stephanie Torres,eugenemartinez@example.com,283.897.8570x82004,2024-05-18,43,F,Estradaburgh,Tajikistan,Platinum,Sports
+CUST_000726,Justin Evans,pdavis@example.net,428-979-4296,2024-11-18,48,M,Lanefort,Papua New Guinea,Bronze,Clothing
+CUST_000727,Debra Chapman,jennifergreen@example.org,001-461-956-0783,2023-12-31,23,F,West Jennifer,Guinea,Platinum,Books
+CUST_000728,Timothy Carpenter,owhite@example.org,+1-664-996-6834x960,2024-06-15,54,M,North Scott,Cape Verde,Bronze,Clothing
+CUST_000729,Ashley Thomas,bethany36@example.com,+1-882-508-9348,2024-08-28,31,Other,Taylorview,Indonesia,Platinum,Books
+CUST_000730,William Mullins,eguzman@example.com,5917141319,2024-10-02,20,M,Port Morgan,Rwanda,Gold,Sports
+CUST_000731,David Alvarez,vkline@example.org,204.458.8165,2024-02-25,54,Other,Karenfort,Cameroon,Bronze,Clothing
+CUST_000732,Luis Patterson,marksheidi@example.com,4966617718,2024-08-14,77,F,New Ambertown,Tonga,Bronze,Clothing
+CUST_000733,Roy Thomas,christopher46@example.net,835-592-6648,2024-10-29,55,M,Hortonside,Kazakhstan,Platinum,Electronics
+CUST_000734,Jonathon Bradley,murphybrianna@example.com,+1-701-319-2920x75360,2023-07-28,37,M,South Feliciaton,Denmark,Silver,Sports
+CUST_000735,Kimberly Wise,uclark@example.org,(221)689-4559x06700,2025-01-16,71,F,Alyssashire,El Salvador,Gold,Home
+CUST_000736,Edward Bennett,rfleming@example.net,+1-696-467-6056,2023-06-17,66,Other,Leroystad,Liechtenstein,Silver,Electronics
+CUST_000737,Gina Stafford,tpatton@example.com,638.890.6235,2025-03-08,50,Other,Port Cynthia,Sierra Leone,Gold,Electronics
+CUST_000738,Michael Brown,mchen@example.net,(930)806-2212x242,2025-05-11,24,F,Bensonfort,Georgia,Silver,Electronics
+CUST_000739,Phillip Austin,fjohnson@example.org,211-358-4886x008,2024-05-18,39,Other,Olsonfort,Monaco,Platinum,Books
+CUST_000740,Shannon Thompson,scott04@example.com,(264)526-1212,2024-06-27,19,Other,Lake Kathleen,Lesotho,Gold,Home
+CUST_000741,Jeffrey Horton,idelacruz@example.org,585.725.4824x218,2025-03-10,49,M,Lauraview,Australia,Gold,Sports
+CUST_000742,Tony Scott,justin75@example.net,(931)312-3274,2024-05-01,78,F,Duranbury,Papua New Guinea,Platinum,Clothing
+CUST_000743,Martin Newton,mjackson@example.net,+1-362-817-5080,2025-05-10,61,Other,West Markborough,Antigua and Barbuda,Platinum,Electronics
+CUST_000744,Zachary Werner,jennifer82@example.com,+1-935-634-0018x167,2024-06-16,67,Other,Port Ronaldburgh,Fiji,Gold,Clothing
+CUST_000745,Thomas Moses,jose08@example.org,+1-351-279-9378,2024-09-18,63,M,Johnville,Cameroon,Bronze,Books
+CUST_000746,Toni Hunt,morgan69@example.net,001-769-988-2904,2024-08-03,27,F,Port Timothy,Falkland Islands (Malvinas),Silver,Home
+CUST_000747,Melanie King,benjamindavis@example.net,+1-486-542-4238x397,2023-11-28,38,F,East Theresaside,Luxembourg,Bronze,Electronics
+CUST_000748,Thomas Moore,tonyaholmes@example.net,2984322101,2023-11-22,18,F,North Bryanhaven,Hungary,Platinum,Books
+CUST_000749,James Williams,romerocrystal@example.net,+1-776-810-8143,2025-01-09,66,F,Bryanbury,Ukraine,Bronze,Clothing
+CUST_000750,Tanya Santos,lawrencekari@example.com,268-523-5469x510,2024-11-24,23,M,South Maryfurt,United States Virgin Islands,Platinum,Home
+CUST_000751,Jacob Ochoa,stephanie96@example.com,350-306-6664,2023-06-16,53,Other,Hendricksport,Trinidad and Tobago,Platinum,Electronics
+CUST_000752,Brandon Pittman,valeriesmith@example.com,+1-251-269-9497,2024-03-01,19,M,South Robert,Cook Islands,Gold,Sports
+CUST_000753,Charles Ferguson,mmoore@example.com,3839868889,2024-06-27,23,Other,Harringtonland,Haiti,Gold,Home
+CUST_000754,Robert Patterson,shawn19@example.com,(409)832-0126x5789,2023-06-17,18,F,New Melissashire,Heard Island and McDonald Islands,Platinum,Home
+CUST_000755,Teresa Bowers,matthew51@example.com,474.612.7469x2118,2023-08-13,67,M,Casechester,Ethiopia,Silver,Sports
+CUST_000756,Charles Hahn,william17@example.org,001-745-842-1854x570,2024-12-27,51,M,North Megan,Cambodia,Platinum,Clothing
+CUST_000757,Sergio Crawford,pageandrew@example.net,4165356407,2025-01-31,26,F,Melaniefort,Christmas Island,Gold,Books
+CUST_000758,Tamara Carr,adam17@example.net,+1-782-224-7312x6168,2024-05-23,49,M,Port Michaelside,Norway,Bronze,Clothing
+CUST_000759,Tiffany Davis,theresa92@example.com,915-226-1053,2025-01-27,45,F,East Bradley,Kyrgyz Republic,Platinum,Books
+CUST_000760,Jeffrey Edwards,smithtimothy@example.net,+1-818-594-8543x2987,2025-02-28,48,M,Cooperview,Fiji,Gold,Books
+CUST_000761,Pamela Gutierrez,chunglaura@example.net,(673)748-1310,2023-07-10,78,M,Kimfurt,Cyprus,Platinum,Sports
+CUST_000762,Andrea Stafford,tarabowers@example.net,(874)283-5268x064,2024-12-02,57,M,Leeside,Cyprus,Platinum,Electronics
+CUST_000763,Whitney Macdonald DVM,amyponce@example.com,264.962.8055,2025-01-23,26,F,Janetfurt,Guyana,Bronze,Home
+CUST_000764,George Miller,kmoore@example.org,001-309-508-5510x7409,2023-08-18,39,Other,North Stevenhaven,Wallis and Futuna,Platinum,Books
+CUST_000765,Kyle Parks,markphillips@example.com,+1-260-322-0695x35412,2024-10-06,46,F,South Rachel,Slovenia,Platinum,Sports
+CUST_000766,Kylie Wiggins,smithmichelle@example.net,6159153259,2024-09-12,26,F,Antonioport,Aruba,Gold,Sports
+CUST_000767,Katherine Hubbard,meganford@example.net,8596503100,2025-05-06,78,Other,West Kendra,American Samoa,Silver,Home
+CUST_000768,Steven Wilson,michael03@example.com,3895411849,2025-05-31,38,M,Nicoleburgh,Mayotte,Platinum,Books
+CUST_000769,Peter Sanchez,gina52@example.org,(861)200-6799x006,2023-07-30,36,Other,Lovefort,Estonia,Platinum,Sports
+CUST_000770,Michael Allen,smason@example.net,(233)294-4953,2024-03-20,68,M,Bennettburgh,Grenada,Gold,Home
+CUST_000771,Daniel Chen,jonesjason@example.com,442-562-4178x42902,2025-01-03,35,F,Markville,Bangladesh,Gold,Electronics
+CUST_000772,Richard Duncan,ccombs@example.com,408.386.8430,2023-08-10,77,Other,Wallaceberg,Nicaragua,Silver,Sports
+CUST_000773,Diane Gregory,kcook@example.net,+1-875-692-1299,2023-10-07,52,M,East Stephaniebury,Italy,Bronze,Home
+CUST_000774,Sonya Salinas,stephengomez@example.org,347-370-9207,2025-01-12,78,Other,East Jennifer,Mexico,Silver,Home
+CUST_000775,Colin Graves,coreypope@example.net,+1-321-358-1897x05916,2024-06-08,69,F,New Nathan,Mexico,Bronze,Home
+CUST_000776,Monica Gilmore,evaughn@example.org,001-516-388-0053x789,2024-07-11,61,F,Franklinberg,Malawi,Silver,Books
+CUST_000777,Karen Jackson,martin40@example.net,582-627-2002,2024-07-03,33,F,East Elaine,Cape Verde,Silver,Home
+CUST_000778,Brandon Ramirez,diana28@example.net,216-459-9302,2023-07-03,68,F,North Joshua,Rwanda,Bronze,Home
+CUST_000779,Colleen Anderson,ijimenez@example.net,735-230-2816,2024-03-30,56,F,Gonzalezton,Guatemala,Platinum,Sports
+CUST_000780,Linda Donovan,wbryant@example.com,001-319-883-2102,2024-10-18,50,Other,South Kennethton,Tokelau,Platinum,Sports
+CUST_000781,Lauren Sosa,davidglover@example.com,384.519.6622,2025-04-23,20,F,Tuckerhaven,Azerbaijan,Bronze,Electronics
+CUST_000782,Justin Richardson,zskinner@example.com,001-606-636-2198x65504,2024-01-12,67,M,South Tammyfurt,Congo,Gold,Clothing
+CUST_000783,Lindsey Lopez,ashleycooper@example.com,+1-696-427-3226x2611,2023-12-10,59,Other,Wademouth,Wallis and Futuna,Bronze,Sports
+CUST_000784,Melissa Adams,craigrobertson@example.net,+1-808-679-9196x2341,2023-11-15,80,Other,Lindaberg,Saint Helena,Platinum,Books
+CUST_000785,Virginia Valentine,pamelaestrada@example.com,+1-333-734-3031,2025-02-16,79,F,Sullivanstad,Saint Helena,Bronze,Electronics
+CUST_000786,Scott Osborne,khendricks@example.net,775-976-9453x536,2025-05-31,24,F,Philliphaven,Hong Kong,Silver,Sports
+CUST_000787,Amy Clark,david25@example.com,(808)409-5948x152,2024-01-29,65,Other,Barbarafurt,Gabon,Silver,Home
+CUST_000788,Catherine Castaneda,alexanderberg@example.com,(635)291-4261,2025-06-05,41,F,Debrashire,Congo,Platinum,Sports
+CUST_000789,Steven Everett,turnerlevi@example.com,207.296.3731,2024-07-01,62,Other,South Shelbystad,Uruguay,Silver,Books
+CUST_000790,Timothy Miller,jdavis@example.com,923-554-2687x44701,2024-09-18,19,F,Port Deborah,Suriname,Bronze,Books
+CUST_000791,Melissa Jenkins,nancy23@example.com,372.696.6563x370,2025-04-02,44,M,Port Crystalstad,Suriname,Bronze,Clothing
+CUST_000792,Jeffrey Herrera,penningtonmichael@example.net,300.802.7221x42573,2023-06-26,40,F,Jeremyshire,Puerto Rico,Gold,Home
+CUST_000793,Patricia Robinson,orice@example.net,772-703-1369,2024-11-06,68,M,Thompsontown,Netherlands Antilles,Platinum,Books
+CUST_000794,Laura Welch,wbowers@example.org,001-459-253-3222x7393,2024-01-03,48,M,Vazquezbury,Slovenia,Platinum,Home
+CUST_000795,Carl Henderson,hunterteresa@example.com,(410)587-0826x9718,2024-03-11,38,M,North Travisberg,Indonesia,Gold,Electronics
+CUST_000796,Matthew Farley,patriciagrant@example.net,+1-621-476-4846x7357,2023-09-21,69,Other,Lake Toni,Cambodia,Bronze,Electronics
+CUST_000797,Tamara Romero,websterkelly@example.org,(789)522-2560x629,2024-03-04,72,F,South Johnfort,Tonga,Bronze,Clothing
+CUST_000798,Andrea Holland,nelsongabriela@example.com,413-207-5384x185,2025-03-17,77,Other,East Kimburgh,Iran,Silver,Sports
+CUST_000799,Katie Mitchell,uperez@example.com,+1-356-715-4705x54912,2023-08-09,29,Other,Charlesshire,Seychelles,Silver,Books
+CUST_000800,Gloria Patterson,hudsonellen@example.net,001-269-439-5787x5207,2023-06-20,53,F,South Tiffany,Papua New Guinea,Platinum,Clothing
+CUST_000801,Marcus Pearson,taylordorothy@example.org,213-993-6967x8976,2023-11-11,69,F,South Tracy,Liberia,Silver,Clothing
+CUST_000802,Robert Galloway,davidpearson@example.net,001-607-559-8897x86533,2023-08-30,58,Other,Lake Kaylamouth,Georgia,Platinum,Home
+CUST_000803,Troy Powers,hunter12@example.org,(619)615-0576,2024-07-22,19,Other,Marshport,Lesotho,Silver,Home
+CUST_000804,Anthony Taylor,tfoster@example.net,+1-767-864-9797x41636,2024-10-23,55,F,West Michaelaton,Angola,Platinum,Electronics
+CUST_000805,Harry Hale,lgonzalez@example.net,(849)569-2771x1952,2024-01-27,63,M,Lake Nathanmouth,Saint Helena,Silver,Books
+CUST_000806,Jacob Rodriguez,stevencraig@example.com,731-659-4898x9596,2024-04-04,66,Other,Wrightmouth,Sao Tome and Principe,Bronze,Sports
+CUST_000807,Steven Mclean,kylescott@example.org,991-669-9939x3449,2023-11-19,24,Other,Natalieview,Andorra,Silver,Books
+CUST_000808,Megan Sandoval,dustinwilliams@example.com,362.297.3988x94132,2025-06-05,38,M,Andersonburgh,Brazil,Platinum,Electronics
+CUST_000809,Pamela Mendoza,rachel85@example.org,665-857-9220x3004,2025-02-16,34,Other,Hickmanberg,Saint Kitts and Nevis,Platinum,Sports
+CUST_000810,Lacey Morrow,phyllisbaxter@example.org,(813)575-6589,2024-02-03,79,Other,Courtneyfort,Afghanistan,Gold,Sports
+CUST_000811,Jessica Drake,sherylgreen@example.com,+1-343-545-6631,2025-04-20,42,Other,Brandonborough,French Polynesia,Platinum,Sports
+CUST_000812,Cheryl Russell,arthurwright@example.com,842.846.3104x379,2024-12-29,25,F,North Andreamouth,Russian Federation,Gold,Home
+CUST_000813,Brenda Dalton,dmullins@example.org,+1-217-474-1743x0435,2023-11-20,57,M,Staceyburgh,Central African Republic,Gold,Sports
+CUST_000814,Lisa Ramirez,cmorgan@example.com,001-723-832-8293x0202,2024-07-30,55,M,East Jamestown,Denmark,Silver,Books
+CUST_000815,Craig Ortiz,sjones@example.org,+1-267-450-7627x99553,2023-12-27,25,M,Jasonland,Western Sahara,Gold,Electronics
+CUST_000816,Susan Navarro,lisa23@example.org,242.302.8471,2024-05-04,29,F,East Dorothy,Bulgaria,Silver,Sports
+CUST_000817,Stanley Brown,qhendricks@example.net,+1-471-677-5461,2023-07-13,42,F,Daniellebury,Mauritania,Silver,Sports
+CUST_000818,Jessica Kramer,vfuller@example.net,822-659-0956,2024-11-08,42,F,East Todd,Niue,Silver,Home
+CUST_000819,Kenneth Shepard,corymiller@example.org,287-380-3586,2024-05-04,58,Other,Port Madisonport,Puerto Rico,Silver,Sports
+CUST_000820,Mark Perez,michaelmatthews@example.net,+1-945-829-5171x222,2024-12-05,28,F,East Angela,Cocos (Keeling) Islands,Gold,Clothing
+CUST_000821,Isaac Roberts,danielthompson@example.net,249-663-3083x34447,2024-06-08,29,F,Romeroshire,Uzbekistan,Platinum,Sports
+CUST_000822,Devin Smith,alexbrooks@example.net,(885)519-5377x4926,2023-10-01,21,F,Robertview,Colombia,Bronze,Home
+CUST_000823,Jonathan Flores,ernesthoward@example.org,4612658129,2024-09-27,26,M,East Brittany,Brazil,Platinum,Sports
+CUST_000824,Thomas Friedman,jrobinson@example.net,259-863-6372x62942,2024-03-08,50,Other,Elizabethhaven,Anguilla,Platinum,Home
+CUST_000825,Kristen Davis,jenniferwalker@example.net,001-300-749-8321x12212,2024-12-05,61,F,Lake Nathanberg,Trinidad and Tobago,Platinum,Home
+CUST_000826,Jason Porter,aevans@example.org,001-291-885-4880x64420,2023-10-14,49,M,Ramoshaven,Lesotho,Bronze,Sports
+CUST_000827,Erik Murphy,slittle@example.com,001-441-496-2342x1926,2023-07-31,19,M,North Kevin,Bahrain,Gold,Electronics
+CUST_000828,Christopher King,laurarodriguez@example.net,689.311.7972x6999,2024-09-25,35,M,North Jill,Angola,Gold,Clothing
+CUST_000829,Shaun Henderson,mclaughlinjulie@example.net,8005532853,2025-03-06,67,F,West Crystalmouth,Sudan,Platinum,Sports
+CUST_000830,David Moreno,andreasmith@example.com,+1-926-892-9900,2024-07-01,50,M,Martinmouth,Saudi Arabia,Bronze,Books
+CUST_000831,David Perez,nicolemason@example.com,+1-333-576-1851x86267,2024-04-19,67,Other,Tammyville,Afghanistan,Gold,Sports
+CUST_000832,Cheryl Beck,jamesperez@example.net,(318)983-5279,2024-01-30,70,M,South Stephaniefort,Lithuania,Platinum,Sports
+CUST_000833,Matthew Henderson,margaret20@example.net,+1-981-843-1927,2023-08-31,31,F,West Tarachester,Mozambique,Bronze,Clothing
+CUST_000834,Maria Weaver,michael72@example.net,+1-402-766-5686x29591,2024-04-29,37,M,Christinashire,Mongolia,Platinum,Books
+CUST_000835,Carla Nguyen,emily07@example.net,629-390-7472x9669,2024-12-16,40,M,Washingtonside,Afghanistan,Platinum,Electronics
+CUST_000836,Linda Parker,wscott@example.net,+1-894-964-1839x841,2023-12-01,67,M,Stonemouth,Costa Rica,Silver,Sports
+CUST_000837,Kevin Stokes,osbornkelly@example.net,+1-804-245-0928,2024-01-31,62,F,North Mary,Antigua and Barbuda,Platinum,Clothing
+CUST_000838,Charles Ellis,jross@example.net,3085248458,2023-06-07,57,M,Port Elizabeth,Armenia,Silver,Clothing
+CUST_000839,Eric Briggs,christinedoyle@example.com,001-518-256-3027x5000,2024-10-15,69,M,Wolffurt,Bosnia and Herzegovina,Gold,Sports
+CUST_000840,Sheila Carlson,andredonaldson@example.com,(241)984-9378x4679,2025-04-05,35,Other,Lake Davidfort,Central African Republic,Silver,Books
+CUST_000841,Marvin Johnson,welchjames@example.com,001-810-934-4442x990,2023-12-24,80,Other,Stephanieside,United Kingdom,Gold,Books
+CUST_000842,Sabrina Brooks,shelby62@example.org,855-499-6725,2023-10-19,54,F,North Chelsea,Greenland,Bronze,Clothing
+CUST_000843,Timothy Holland,scott04@example.com,476-348-4559x3965,2025-02-15,79,F,New Jeffrey,Albania,Bronze,Books
+CUST_000844,Brad Taylor MD,jeffery29@example.org,4369221173,2024-06-02,73,Other,Bartonside,Norway,Silver,Clothing
+CUST_000845,Danielle Reed,jennifer58@example.com,(829)342-5251,2025-05-21,33,M,Tracyland,Kiribati,Gold,Clothing
+CUST_000846,George Williams,coxcarol@example.com,674.347.3535x247,2025-02-05,66,Other,Wilsonshire,French Southern Territories,Platinum,Home
+CUST_000847,Veronica Stevens,keith93@example.org,537-588-0331x83611,2025-01-30,27,Other,South Sharon,Malaysia,Gold,Home
+CUST_000848,Joseph Thompson,gomezgrant@example.net,630.848.6251x5217,2024-01-31,42,F,West Jessica,Liberia,Bronze,Electronics
+CUST_000849,Rachel Williams,kellygina@example.org,646-571-7762x9691,2023-11-07,43,Other,Taylorshire,Equatorial Guinea,Gold,Books
+CUST_000850,Lori Jordan,brian99@example.net,5012089857,2024-06-29,47,F,Port Sarah,Russian Federation,Gold,Sports
+CUST_000851,Brandon Miller,salvarado@example.com,(946)748-8499,2024-04-22,18,Other,Madisonfort,Greenland,Bronze,Home
+CUST_000852,Laura Webster,soniaharmon@example.net,3224179789,2024-01-11,58,Other,Lake Charlene,Tokelau,Gold,Electronics
+CUST_000853,Bradley Smith,karen84@example.com,214-536-7286x81123,2024-06-27,68,Other,Karenside,Brazil,Platinum,Clothing
+CUST_000854,Laura Lynch,fflowers@example.com,490-809-9217x79055,2025-04-12,79,F,East Madeline,Holy See (Vatican City State),Silver,Home
+CUST_000855,Ronald Edwards,webstersteven@example.net,5533260119,2023-06-14,35,F,Port Ashley,Lebanon,Gold,Books
+CUST_000856,Matthew Edwards,sanchezronald@example.net,7852818104,2025-03-10,53,Other,Jasonmouth,Costa Rica,Silver,Sports
+CUST_000857,Taylor Cantu,wharris@example.com,(571)535-8969,2024-02-20,72,F,Lake Adrianmouth,Mayotte,Gold,Electronics
+CUST_000858,Shane Potter,odavis@example.com,731.356.6397x925,2023-08-20,20,M,Johnton,Palestinian Territory,Platinum,Electronics
+CUST_000859,Jordan Allen,bwhite@example.org,+1-496-366-0534,2024-03-09,25,M,Jonathanchester,Belarus,Platinum,Home
+CUST_000860,Brian Kidd,uhaley@example.net,258.546.4051,2024-10-08,18,F,East Tracyborough,Algeria,Silver,Clothing
+CUST_000861,John Clark,sarahhicks@example.org,844-271-8939x530,2024-04-07,74,Other,Greentown,Montenegro,Gold,Clothing
+CUST_000862,Jonathan Gallagher,sheena87@example.com,851-335-8727x17430,2025-01-03,73,F,Combsview,Singapore,Bronze,Books
+CUST_000863,Sandra Harris,brittanywolf@example.org,973.287.7583x33647,2025-02-02,34,M,East Jennifertown,Nigeria,Gold,Clothing
+CUST_000864,Terri Bailey,lcosta@example.net,(462)554-2041,2025-03-21,21,F,Lake Denisemouth,Kyrgyz Republic,Gold,Clothing
+CUST_000865,Derrick Ramirez,brownhannah@example.net,001-341-293-2453,2024-09-03,45,Other,Coreyberg,Cambodia,Bronze,Electronics
+CUST_000866,Kimberly Owens,yhernandez@example.com,001-463-422-5174,2024-01-04,18,M,Marisaborough,China,Platinum,Electronics
+CUST_000867,Brian Poole,johnsonkevin@example.net,(216)230-7028x67202,2024-08-14,26,Other,South Patricia,Israel,Silver,Sports
+CUST_000868,Andrea Ward,lmullen@example.org,9575795001,2023-09-14,61,F,North Laurenborough,Nicaragua,Bronze,Electronics
+CUST_000869,Collin Osborne,fjackson@example.org,986.490.8716,2023-10-20,62,F,Port Madisonmouth,Trinidad and Tobago,Bronze,Home
+CUST_000870,Patricia Paul,lutzdaniel@example.org,+1-217-407-4436,2025-01-30,62,M,Kellyberg,Colombia,Platinum,Electronics
+CUST_000871,Brandon Sanders,matthewlewis@example.net,212-509-4477x269,2024-10-11,32,F,Maystad,Germany,Bronze,Electronics
+CUST_000872,Thomas Ruiz,pearsoncarrie@example.com,001-480-324-5598x5160,2023-08-23,24,F,West Stephanieside,Mozambique,Gold,Books
+CUST_000873,Ann Trujillo,sholder@example.com,001-898-264-7868x6237,2025-03-31,26,F,Larryview,Anguilla,Silver,Clothing
+CUST_000874,Crystal Nicholson,daviladaniel@example.org,549.892.1640x0698,2024-08-24,22,Other,Port James,Greece,Bronze,Sports
+CUST_000875,Diana Adams,cnelson@example.net,(413)498-6546,2024-11-10,59,M,East Cameronburgh,Cook Islands,Platinum,Books
+CUST_000876,Katherine Mcmillan,michellehoward@example.com,8335000088,2025-01-06,64,M,Chavezshire,Bouvet Island (Bouvetoya),Silver,Home
+CUST_000877,April Meyer,martinezdavid@example.org,5919692327,2024-11-30,57,Other,Singhton,Iceland,Platinum,Clothing
+CUST_000878,Robert Rogers,bendermichelle@example.net,(874)363-0009x98433,2025-03-18,23,M,South Christopher,Bhutan,Silver,Electronics
+CUST_000879,Angela Davis,heather58@example.org,001-894-820-3401x53534,2023-06-28,55,Other,Nicholasshire,New Caledonia,Platinum,Books
+CUST_000880,Diane Zamora,michelle67@example.org,001-401-408-2402x818,2024-09-26,79,F,Carlsonport,Afghanistan,Gold,Clothing
+CUST_000881,Steven Taylor,vincent17@example.com,001-952-273-5364x235,2023-06-13,33,F,East Christineside,Zambia,Bronze,Clothing
+CUST_000882,Michael Rodriguez,parksshawna@example.net,(255)990-4610,2024-08-19,53,Other,North Joseph,Ireland,Gold,Electronics
+CUST_000883,Bradley Hoffman,stephenjohnson@example.net,001-723-229-6151x2048,2024-06-04,72,Other,Grahammouth,Czech Republic,Gold,Clothing
+CUST_000884,Patricia Cross,larry04@example.net,(327)763-4601,2023-11-26,51,Other,Victorborough,Saint Martin,Silver,Home
+CUST_000885,Ryan Green,angela61@example.com,(882)825-1272x67086,2025-04-20,36,Other,Cisnerosberg,Falkland Islands (Malvinas),Bronze,Clothing
+CUST_000886,Dr. Lisa Ramos,cphelps@example.net,294-877-1290x350,2025-05-19,49,F,Port Williamhaven,Mongolia,Bronze,Clothing
+CUST_000887,Mr. Charles Young,lisa40@example.com,001-466-782-1215x6495,2023-12-11,49,Other,North Tara,Palestinian Territory,Bronze,Sports
+CUST_000888,Rebecca Day,mirandacraig@example.net,+1-573-688-1827x306,2023-11-18,74,M,Vincenthaven,Sri Lanka,Gold,Books
+CUST_000889,Austin Black,zherrera@example.com,605-311-0212x543,2025-01-13,26,F,East Michelle,British Indian Ocean Territory (Chagos Archipelago),Platinum,Books
+CUST_000890,Amber Carr,psmith@example.com,(518)360-0320,2024-08-14,52,Other,North Christopherview,Antigua and Barbuda,Silver,Home
+CUST_000891,Christine Ellison,pli@example.org,001-671-397-8601x62590,2024-08-05,79,M,Meganmouth,Swaziland,Bronze,Sports
+CUST_000892,Sharon Morse,jonessusan@example.com,958.221.0728,2024-05-16,22,M,Georgeton,Saint Barthelemy,Gold,Clothing
+CUST_000893,Brian Perry,sjohnson@example.net,697-922-3996,2024-05-30,20,M,New Jamesmouth,Taiwan,Platinum,Sports
+CUST_000894,Jermaine Barnes,yoderadam@example.com,+1-408-655-7800,2024-10-08,36,Other,Jamesberg,Croatia,Platinum,Home
+CUST_000895,Tracey Martin,myersbenjamin@example.com,+1-368-857-4670x675,2024-09-02,62,F,East Belindastad,Qatar,Bronze,Sports
+CUST_000896,Sherry Thomas,brian16@example.com,(261)607-0335,2025-03-20,52,Other,West Melinda,Reunion,Silver,Books
+CUST_000897,Ashley Medina,beckyroberts@example.com,413.300.4169x10530,2024-03-02,23,F,South Thomasstad,Serbia,Bronze,Sports
+CUST_000898,Krista Price,richard33@example.net,+1-953-848-1105x014,2023-12-13,76,M,South William,Sri Lanka,Silver,Sports
+CUST_000899,Jessica Haley,thomas85@example.com,001-912-381-7751x2395,2024-02-11,38,F,Ericton,Serbia,Bronze,Books
+CUST_000900,Linda Martin,ssmith@example.com,(554)267-7205x17107,2025-01-31,62,F,Martinezfurt,Sri Lanka,Silver,Electronics
+CUST_000901,Matthew Schmidt,timothysharp@example.org,675-343-8027,2025-02-10,33,M,Janiceburgh,Hungary,Platinum,Electronics
+CUST_000902,Justin Cook,zjennings@example.org,928.884.0766x420,2024-10-18,47,Other,South Sonya,Tokelau,Bronze,Books
+CUST_000903,Christine Morgan,salvarez@example.org,(692)838-6879x060,2024-08-12,60,Other,East Brian,Grenada,Silver,Electronics
+CUST_000904,Paula Green,kristina89@example.org,739.861.5976x4053,2024-05-01,18,Other,Portermouth,Luxembourg,Silver,Electronics
+CUST_000905,Hailey Moore,willismichelle@example.org,442.927.3627x32022,2023-08-21,28,F,Port Stevenstad,Pakistan,Gold,Sports
+CUST_000906,Jessica Martinez,krodriguez@example.org,001-242-798-5144x86983,2023-10-13,51,Other,Port Rogershire,Algeria,Gold,Clothing
+CUST_000907,Scott White,roachjulie@example.net,+1-201-842-6471,2024-07-10,41,M,South Steventown,Uruguay,Gold,Electronics
+CUST_000908,Zachary Ross,seanosborne@example.com,+1-500-349-3326x72446,2025-02-26,67,M,Mooreview,Slovenia,Gold,Home
+CUST_000909,William Moon,fernandezsusan@example.org,001-565-540-2599x8519,2023-09-07,35,Other,Port Trevor,Mauritius,Bronze,Books
+CUST_000910,Caitlin Armstrong,pwalker@example.org,696-702-6676x5272,2025-05-21,63,Other,Bakershire,Holy See (Vatican City State),Bronze,Home
+CUST_000911,Nathan Wagner,aturner@example.com,001-275-460-2080x1929,2023-10-21,47,Other,West Kimberlyport,Turkmenistan,Gold,Electronics
+CUST_000912,Lisa Ramirez,richardsglenn@example.org,(733)732-0235x102,2024-02-13,49,Other,North Christinebury,Guadeloupe,Silver,Books
+CUST_000913,Robert Vega,perezrichard@example.net,+1-684-539-3332,2024-03-21,28,F,New Ronald,Albania,Bronze,Sports
+CUST_000914,Alyssa Elliott,daviddecker@example.com,001-441-229-0759x65999,2023-09-01,61,Other,South Richard,Belarus,Bronze,Clothing
+CUST_000915,Mr. Jacob Moore,cruzcaitlin@example.com,+1-319-537-5919x2267,2023-08-19,65,Other,Jessefurt,Brunei Darussalam,Bronze,Electronics
+CUST_000916,Sarah Hill,edward86@example.com,(412)609-6173x0099,2024-01-23,72,M,West Bruce,Chad,Silver,Electronics
+CUST_000917,Amy Vazquez,michael51@example.com,921.991.4308,2025-04-07,48,F,Littleview,Lao People's Democratic Republic,Platinum,Clothing
+CUST_000918,Beth Schwartz,michelle21@example.net,+1-634-958-1920,2024-06-01,29,M,Vasquezfurt,Switzerland,Platinum,Clothing
+CUST_000919,Tonya Gilmore,briannaandersen@example.com,(215)790-2578x464,2024-09-14,38,M,Jillhaven,Congo,Platinum,Books
+CUST_000920,Kimberly Kaufman,holly72@example.com,(708)646-7292,2025-04-12,35,M,Jillianland,Solomon Islands,Gold,Electronics
+CUST_000921,Caroline Moore,mollysmith@example.org,+1-825-562-4728,2024-08-10,50,Other,Nicoletown,Bermuda,Bronze,Clothing
+CUST_000922,Caroline Martin,christopher99@example.org,+1-200-696-6270x266,2025-04-08,32,Other,Mariaton,Mozambique,Bronze,Home
+CUST_000923,Cory Jones,deborah03@example.net,401-493-3538,2023-10-02,22,F,Davisshire,Cyprus,Gold,Books
+CUST_000924,Aaron Williams,huynhdouglas@example.com,+1-505-764-6160x76264,2023-06-14,38,M,Jeremyburgh,Cook Islands,Platinum,Electronics
+CUST_000925,Brandon Mckenzie,meredithnunez@example.org,661.409.4416,2025-04-23,41,M,South Michaelport,Brazil,Gold,Sports
+CUST_000926,Christina White,ybarrett@example.net,(676)806-3494x290,2025-01-18,68,F,Murphymouth,Bolivia,Silver,Home
+CUST_000927,Jessica Bolton,kharvey@example.org,(642)602-4837,2024-12-21,41,Other,Port Tylerbury,Ethiopia,Platinum,Clothing
+CUST_000928,Richard Flynn,carmstrong@example.net,001-602-954-8536x26890,2023-10-11,64,Other,Grossview,Bahrain,Silver,Clothing
+CUST_000929,Veronica Smith,jeremy55@example.com,001-542-916-4359x9009,2024-07-01,18,F,Emilyton,Gambia,Bronze,Clothing
+CUST_000930,Matthew Jenkins Jr.,stanleyblanchard@example.net,643-870-6618x756,2025-02-16,52,F,Lake Natalie,Saudi Arabia,Bronze,Books
+CUST_000931,Juan Lamb,richardsonkenneth@example.net,985-989-9002,2025-04-12,18,Other,New Megan,Algeria,Platinum,Books
+CUST_000932,Elizabeth Williams,jsantos@example.com,5435566050,2024-04-26,24,M,Vargasbury,Croatia,Silver,Home
+CUST_000933,John Alexander,andrewsullivan@example.net,682-322-6679,2024-08-29,49,M,Romerohaven,Jersey,Silver,Books
+CUST_000934,Jonathan Rivera,hugheskaren@example.net,(434)428-9876x05504,2025-02-01,23,M,Brownside,Jamaica,Silver,Sports
+CUST_000935,Pamela Gardner,cvega@example.org,(463)320-1629x07399,2024-10-10,44,Other,South David,Cape Verde,Gold,Home
+CUST_000936,Frank Stephenson,kendrahall@example.org,208.564.9426x942,2024-11-12,80,Other,North Emily,Dominica,Bronze,Sports
+CUST_000937,Elizabeth Mayo,rodriguezmichael@example.net,+1-567-206-9219x587,2024-03-01,24,Other,West Jesse,United States Minor Outlying Islands,Silver,Home
+CUST_000938,Patty Hopkins,lisaterry@example.net,+1-717-281-6780x66431,2023-08-21,22,Other,Nicoleshire,Uruguay,Bronze,Home
+CUST_000939,Brenda Horn,murphyjames@example.com,001-201-370-9264x07030,2024-05-04,60,M,Hernandezburgh,Netherlands Antilles,Silver,Books
+CUST_000940,Krista Curtis,marissa85@example.org,+1-807-228-8959x27411,2024-04-11,34,F,Lake Carolfurt,Togo,Platinum,Books
+CUST_000941,Robert Sullivan,alexisjohnson@example.org,6396170263,2023-12-20,38,F,Leahfurt,Norfolk Island,Gold,Clothing
+CUST_000942,Maria Cook,fyoder@example.org,2423425369,2025-04-23,22,M,East Stephen,Egypt,Silver,Sports
+CUST_000943,Juan Adams,tsullivan@example.org,796.470.2436,2025-02-13,24,M,Bobbystad,Cyprus,Bronze,Clothing
+CUST_000944,Jessica Mason,graveslisa@example.com,001-540-736-4882x15977,2023-12-26,46,F,Jenkinsborough,Brunei Darussalam,Gold,Home
+CUST_000945,Andrew Powell,nmunoz@example.net,(449)812-5949x72204,2023-10-19,25,Other,Elliottberg,Algeria,Gold,Clothing
+CUST_000946,James Levy,wthompson@example.com,+1-899-929-9833x587,2024-11-07,46,F,Carrstad,United States Virgin Islands,Platinum,Books
+CUST_000947,Alexandria Martinez,alicia08@example.com,+1-831-253-9839x122,2023-06-28,72,M,West Kennethmouth,Venezuela,Bronze,Clothing
+CUST_000948,Ryan Ramsey,fryekevin@example.net,+1-730-449-1341x03897,2025-03-26,69,Other,Andersonshire,New Zealand,Gold,Sports
+CUST_000949,Maria Wall,vphillips@example.net,001-524-205-9208x235,2024-07-27,20,M,Holderchester,New Caledonia,Gold,Clothing
+CUST_000950,Ashley Harding,kmartinez@example.net,5562820175,2024-04-29,23,Other,Ortizhaven,Jersey,Silver,Books
+CUST_000951,Vanessa Hernandez,melissa04@example.org,374-212-5313x7956,2023-07-14,43,Other,Simpsonburgh,Barbados,Bronze,Books
+CUST_000952,Wesley Brown MD,tammythomas@example.com,+1-599-619-3873x370,2024-11-22,34,M,Melissaport,Falkland Islands (Malvinas),Bronze,Home
+CUST_000953,Donna Lynch,trevor07@example.net,+1-762-335-1076,2024-12-26,72,F,Port Thomaston,Uruguay,Silver,Electronics
+CUST_000954,Sarah Proctor,webbjohn@example.net,(689)251-4563,2024-08-22,47,M,New Laurahaven,Afghanistan,Silver,Electronics
+CUST_000955,Joshua Miller,morrismary@example.com,296-653-9160x770,2023-06-15,18,M,Port Laurie,Saint Barthelemy,Silver,Clothing
+CUST_000956,Steven Wilson,traci39@example.net,+1-822-418-0396,2024-12-18,30,F,East Willieside,Micronesia,Gold,Electronics
+CUST_000957,Travis Fuller,kelleramanda@example.org,(865)529-5164,2025-03-01,55,Other,West Jennifer,Bulgaria,Gold,Electronics
+CUST_000958,Timothy Jacobs,bevans@example.net,306.670.8987x09201,2025-02-28,19,M,North Jamesberg,Sudan,Silver,Home
+CUST_000959,Brett Rogers,angela80@example.com,(663)921-1960,2025-01-10,69,M,East Andrew,Czech Republic,Bronze,Books
+CUST_000960,Julie Smith,xcrane@example.net,347-708-2317x146,2024-11-21,25,M,Robertfort,Spain,Platinum,Electronics
+CUST_000961,Jason Salas,johnwarner@example.net,(905)930-2618x4025,2023-06-11,28,Other,Blackton,Greenland,Platinum,Home
+CUST_000962,Amber Young,bfoster@example.org,(202)581-6409x891,2024-08-08,49,M,East Brianbury,Northern Mariana Islands,Platinum,Home
+CUST_000963,Jacob Johnson,matthew37@example.com,001-279-253-1926,2024-09-04,29,F,Williamsmouth,Guernsey,Silver,Clothing
+CUST_000964,Theresa Michael,jonathan49@example.org,3543894453,2024-07-18,35,F,Lake Amyfurt,Guernsey,Platinum,Clothing
+CUST_000965,Kendra Campbell,kathleen66@example.org,(795)821-7970,2024-03-10,20,Other,Port Ricky,Sudan,Silver,Books
+CUST_000966,Charles Weaver,westkenneth@example.net,(766)202-3515,2023-07-28,49,F,Lake Adam,Kazakhstan,Platinum,Electronics
+CUST_000967,Nicholas Tapia,gcrawford@example.com,(505)787-9052x24413,2024-01-17,23,F,Brianfurt,Estonia,Platinum,Clothing
+CUST_000968,Holly Davis,heather79@example.org,871-791-8986x64693,2024-03-16,44,M,New Jimmymouth,Rwanda,Silver,Sports
+CUST_000969,Deborah Lambert,afoster@example.com,+1-470-423-7718x43019,2023-06-25,68,M,Ryanbury,Cuba,Platinum,Books
+CUST_000970,Robert Vaughn,rlewis@example.org,796.544.0282,2024-12-15,48,Other,Donovanmouth,Honduras,Platinum,Books
+CUST_000971,Linda Lopez,scottsellers@example.net,001-323-685-2023x209,2024-10-22,76,Other,North Rodneyborough,Denmark,Gold,Home
+CUST_000972,Casey Ramirez,jasonphillips@example.net,799-382-9075,2024-02-01,35,M,Hannahberg,Ukraine,Bronze,Books
+CUST_000973,Thomas Ramos,mcarroll@example.net,538-531-0064,2024-10-11,56,M,Port Katherine,Niue,Bronze,Books
+CUST_000974,Brittany Anderson,nmcdonald@example.org,968-206-6470,2023-11-05,21,F,Brianfurt,South Georgia and the South Sandwich Islands,Gold,Sports
+CUST_000975,Lucas Jackson,derek41@example.net,9747027406,2024-06-11,32,M,Chavezberg,Holy See (Vatican City State),Bronze,Clothing
+CUST_000976,April Howe,alexanderwilliams@example.net,(938)556-4614x9745,2023-08-22,60,M,New Holly,Montserrat,Gold,Sports
+CUST_000977,Nicole Roberson,megan91@example.com,+1-486-809-9550x493,2024-12-24,70,Other,Phillipsberg,Bulgaria,Bronze,Clothing
+CUST_000978,Vanessa Scott,ggarcia@example.org,001-689-281-1594x853,2023-06-09,54,F,East Ginachester,Saint Vincent and the Grenadines,Gold,Clothing
+CUST_000979,Tamara Martin,lisastanton@example.net,474-422-5678x7188,2023-11-03,29,M,Brownside,Thailand,Gold,Books
+CUST_000980,James Williams,archerjames@example.net,795-864-7998x460,2024-10-20,76,Other,Ashleyfurt,Congo,Bronze,Books
+CUST_000981,Kimberly Maddox,zmoore@example.org,4802926166,2023-08-18,78,Other,Michaelmouth,Saint Martin,Silver,Sports
+CUST_000982,Jonathon Tapia,victor86@example.com,957-751-2476x40006,2024-06-21,78,M,Stokesberg,French Guiana,Platinum,Sports
+CUST_000983,Heather Perry,jonathan12@example.org,544-818-9974x023,2025-04-03,37,M,Smithbury,Taiwan,Platinum,Electronics
+CUST_000984,John Williams,chavezsusan@example.com,209.444.2386,2023-07-10,23,M,Jessicaside,New Zealand,Silver,Sports
+CUST_000985,Courtney Bird,julie34@example.net,001-909-461-9797,2025-02-10,32,M,Veronicaside,Ethiopia,Platinum,Electronics
+CUST_000986,Jack Lynch,evansrobin@example.com,956.574.8095,2024-07-29,39,Other,West Breannaside,Aruba,Silver,Clothing
+CUST_000987,William Smith,joseph03@example.org,(489)225-8490x734,2023-11-20,39,Other,Ortegafort,France,Silver,Books
+CUST_000988,Julia Lynch,douglascarl@example.com,001-648-323-0882x9586,2024-07-28,21,M,East Deborah,Cyprus,Silver,Sports
+CUST_000989,Steven Johnson,jennifer69@example.com,(576)274-8317,2024-03-13,63,M,Port Brittany,Palestinian Territory,Bronze,Sports
+CUST_000990,Suzanne Miller,holdenalyssa@example.org,288.824.2655x946,2025-04-15,73,F,East Steve,Cambodia,Bronze,Books
+CUST_000991,John Cole,hoopernicole@example.org,990.706.5487x0847,2024-11-02,63,Other,Lake Kyliechester,Luxembourg,Platinum,Sports
+CUST_000992,Dale Warren,cameronkaitlyn@example.com,815.491.5790x89458,2024-03-29,24,F,New Joseph,Malaysia,Gold,Books
+CUST_000993,Daniel Johnson,susanjennings@example.com,223-796-1219,2024-11-27,26,M,East Sarahside,Mali,Platinum,Home
+CUST_000994,Sarah Mueller,dixondennis@example.org,+1-970-466-9010x7923,2024-08-10,59,F,South Angela,Uganda,Silver,Sports
+CUST_000995,Donald Mccarthy,mstanley@example.com,8355067578,2025-06-04,62,Other,West Michael,Kiribati,Gold,Clothing
+CUST_000996,John Young,cannonmary@example.net,715.455.0570,2024-09-19,60,Other,Williamsonbury,Maldives,Silver,Home
+CUST_000997,Rodney Baker,michael88@example.org,514-714-7012,2025-02-17,37,Other,South Amanda,Kenya,Gold,Clothing
+CUST_000998,Mark Long,manningbrandi@example.com,697.680.2344x568,2024-04-03,29,Other,Andrewsport,Anguilla,Bronze,Sports
+CUST_000999,Wanda Weiss,bswanson@example.com,9165329573,2025-03-02,43,Other,Brandifort,Haiti,Bronze,Clothing
+CUST_001000,Thomas Guzman,elainehall@example.net,(583)402-9158x5423,2024-01-12,56,F,Bondstad,Bangladesh,Silver,Sports

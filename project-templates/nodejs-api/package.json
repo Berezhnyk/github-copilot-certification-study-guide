@@ -1,0 +1,112 @@
+{
+  "name": "nodejs-api-copilot-template",
+  "version": "1.0.0",
+  "description": "Node.js REST API template for GitHub Copilot certification practice",
+  "main": "dist/server.js",
+  "scripts": {
+    "dev": "nodemon src/server.ts",
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "lint": "eslint src/**/*.ts",
+    "lint:fix": "eslint src/**/*.ts --fix",
+    "db:migrate": "prisma migrate dev",
+    "db:generate": "prisma generate",
+    "db:seed": "prisma db seed",
+    "db:reset": "prisma migrate reset",
+    "docs:generate": "swagger-jsdoc -d swaggerDef.js src/routes/*.ts -o docs/api-spec.yml"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "typescript",
+    "api",
+    "rest",
+    "github-copilot",
+    "certification"
+  ],
+  "author": "GitHub Copilot Certification Student",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "helmet": "^7.0.0",
+    "morgan": "^1.10.0",
+    "dotenv": "^16.3.1",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.1",
+    "joi": "^17.9.2",
+    "express-rate-limit": "^6.8.1",
+    "compression": "^1.7.4",
+    "@prisma/client": "^5.0.0",
+    "redis": "^4.6.7",
+    "winston": "^3.10.0",
+    "express-async-errors": "^3.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.2",
+    "@types/express": "^4.17.17",
+    "@types/cors": "^2.8.13",
+    "@types/morgan": "^1.9.4",
+    "@types/bcryptjs": "^2.4.2",
+    "@types/jsonwebtoken": "^9.0.2",
+    "@types/compression": "^1.7.2",
+    "@types/jest": "^29.5.3",
+    "@types/supertest": "^2.0.12",
+    "typescript": "^5.1.6",
+    "ts-node": "^10.9.1",
+    "nodemon": "^3.0.1",
+    "jest": "^29.6.1",
+    "ts-jest": "^29.1.1",
+    "supertest": "^6.3.3",
+    "eslint": "^8.45.0",
+    "@typescript-eslint/eslint-plugin": "^6.1.0",
+    "@typescript-eslint/parser": "^6.1.0",
+    "prettier": "^3.0.0",
+    "prisma": "^5.0.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "prisma": {
+    "seed": "ts-node prisma/seed.ts"
+  },
+  "jest": {
+    "preset": "ts-jest",
+    "testEnvironment": "node",
+    "roots": [
+      "<rootDir>/src"
+    ],
+    "testMatch": [
+      "**/__tests__/**/*.ts",
+      "**/?(*.)+(spec|test).ts"
+    ],
+    "collectCoverageFrom": [
+      "src/**/*.ts",
+      "!src/**/*.d.ts",
+      "!src/server.ts"
+    ],
+    "coverageDirectory": "coverage",
+    "coverageReporters": [
+      "text",
+      "lcov",
+      "html"
+    ]
+  },
+  "nodemonConfig": {
+    "watch": [
+      "src"
+    ],
+    "ext": "ts",
+    "ignore": [
+      "src/**/*.spec.ts",
+      "src/**/*.test.ts"
+    ],
+    "exec": "ts-node src/server.ts"
+  }
+}

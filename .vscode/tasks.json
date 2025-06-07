@@ -1,0 +1,149 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Setup Python Data Analysis Environment",
+			"type": "shell",
+			"command": "cd project-templates/python-data-analysis && python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt",
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Create virtual environment and install Python dependencies for data analysis project"
+		},
+		{
+			"label": "Start Jupyter for Data Analysis",
+			"type": "shell",
+			"command": "cd project-templates/python-data-analysis && source venv/bin/activate && jupyter notebook copilot-data-analysis-starter.ipynb",
+			"group": "test",
+			"isBackground": true,
+			"problemMatcher": [],
+			"detail": "Launch Jupyter notebook for GitHub Copilot data analysis practice"
+		},
+		{
+			"label": "Generate Sample Data",
+			"type": "shell",
+			"command": "cd project-templates/python-data-analysis && source venv/bin/activate && cd sample-data && python generate_sample_data.py",
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Generate sample datasets for Python data analysis practice"
+		},
+		{
+			"label": "Setup React Todo App",
+			"type": "shell",
+			"command": "cd project-templates/react-todo-app && npm install",
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Install dependencies for React Todo App template"
+		},
+		{
+			"label": "Start React Todo App",
+			"type": "shell",
+			"command": "cd project-templates/react-todo-app && npm start",
+			"group": "test",
+			"isBackground": true,
+			"problemMatcher": [],
+			"detail": "Start React development server"
+		},
+		{
+			"label": "Setup Node.js API",
+			"type": "shell",
+			"command": "cd project-templates/nodejs-api && npm install",
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Install dependencies for Node.js API template"
+		},
+		{
+			"label": "Start Node.js API Dev Server",
+			"type": "shell",
+			"command": "cd project-templates/nodejs-api && npm run dev",
+			"group": "test",
+			"isBackground": true,
+			"problemMatcher": [],
+			"detail": "Start Node.js development server with hot reload"
+		},
+		{
+			"label": "Run Practice Test 1",
+			"type": "shell",
+			"command": "echo '\\n📝 Practice Test 1 - Basic GitHub Copilot Knowledge\\n\\nOpen: mock-questions/practice-test-1.md\\n\\n⏱️  Time Limit: 30 minutes\\n🎯 Passing Score: 80%\\n\\nGood luck! 🚀'",
+			"group": "test",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Start Practice Test 1 for certification preparation"
+		},
+		{
+			"label": "Run Practice Test 2",
+			"type": "shell",
+			"command": "echo '\\n📝 Practice Test 2 - Advanced Features and Enterprise Usage\\n\\nOpen: mock-questions/practice-test-2.md\\n\\n⏱️  Time Limit: 45 minutes\\n🎯 Passing Score: 80%\\n\\nGood luck! 🚀'",
+			"group": "test",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Start Practice Test 2 for certification preparation"
+		},
+		{
+			"label": "Run Practice Test 3",
+			"type": "shell",
+			"command": "echo '\\n📝 Practice Test 3 - Advanced Topics and Comprehensive Review\\n\\nOpen: mock-questions/practice-test-3.md\\n\\n⏱️  Time Limit: 45 minutes\\n🎯 Passing Score: 80%\\n\\nGood luck! 🚀'",
+			"group": "test",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Start Practice Test 3 for certification preparation"
+		},
+		{
+			"label": "Run Practice Test 4",
+			"type": "shell",
+			"command": "echo '\\n📝 Practice Test 4 - Emerging Features (2024-2025)\\n\\nOpen: mock-questions/practice-test-4-emerging-features.md\\n\\n⏱️  Time Limit: 45 minutes\\n🎯 Passing Score: 80%\\n🚀 Focus: Latest Copilot capabilities\\n\\nGood luck! 🚀'",
+			"group": "test",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Start Practice Test 4 for emerging features assessment"
+		},
+		{
+			"label": "Setup React Native App",
+			"type": "shell",
+			"command": "echo '\\n📱 React Native App Template Setup\\n\\nNavigate to: project-templates/react-native-app/\\n\\nFollow README.md for setup instructions:\\n1. Install React Native CLI\\n2. Install dependencies\\n3. Set up Android/iOS development environment\\n4. Run on simulator/device\\n\\n🚀 Perfect for mobile development practice!'",
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Setup React Native mobile app template"
+		},
+		{
+			"label": "Open Progress Tracker",
+			"type": "shell",
+			"command": "echo '\\n📊 GitHub Copilot Certification Progress Tracker\\n\\nOpen: progress-tracker.md\\n\\n✅ Track your completion progress\\n📈 Monitor study milestones\\n🎯 Assess certification readiness\\n📝 Record insights and notes\\n\\n💡 Update regularly to stay on track!'",
+			"group": "test",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Open the interactive progress tracking system"
+		},
+		{
+			"label": "Check Study Progress",
+			"type": "shell",
+			"command": "echo '\\n📚 GitHub Copilot Certification Study Progress\\n\\n✅ Study Materials: 12/12 completed\\n   • Fundamentals, Prompt Engineering, Advanced Features\\n   • Responsible AI, Plans & Features, Data Handling\\n   • Testing, Privacy, Developer Use Cases\\n   • Emerging Features 2025, Quick Reference & Troubleshooting\\n\\n✅ Practice Exercises: 5/5 completed\\n   • Beginner, Intermediate, Advanced, Coding Challenges\\n   • Emerging Features (Spaces, Agent, Extensions, MCP)\\n\\n✅ Mock Tests: 4/4 completed\\n   • Practice Test 1, 2, 3, and Emerging Features\\n\\n✅ Project Templates: 4/4 completed\\n   • React Todo App, Python Data Analysis\\n   • Node.js API, React Native Mobile App\\n\\n✅ Additional Resources:\\n   • Progress Tracker, Code Examples\\n\\n🎯 Comprehensive preparation complete with 2025 updates!\\n🚀 You are ready for the certification exam!'",
+			"group": "test",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Check your current study progress"
+		},
+		{
+			"label": "Practice Emerging Features",
+			"type": "shell",
+			"command": "echo '\\n🚀 GitHub Copilot Emerging Features Practice Guide\\n\\n📁 New Study Materials:\\n   • 10-emerging-features-2025.md - Latest Copilot capabilities\\n   • emerging-features-exercises.md - 12 hands-on exercises\\n\\n🎯 Key Features to Master:\\n   • Copilot Spaces - Collaborative AI workspaces\\n   • Coding Agent - Autonomous development tasks\\n   • Extensions - Third-party tool integrations\\n   • MCP Servers - External data connections\\n   • Custom Instructions - Personalized guidance\\n   • Multi-Model Workflows - Optimal AI selection\\n\\n📝 Practice Test 4 - Emerging Features (25 questions)\\n\\n💡 Start with the study guide, then practice exercises!'",
+			"group": "test",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Guide for practicing with GitHub Copilot's newest features"
+		},
+		{
+			"label": "Open Study Schedule",
+			"type": "shell",
+			"command": "echo '\\n📅 2-Week GitHub Copilot Certification Study Schedule\\n\\nWeek 1:\\n• Day 1-2: Fundamentals & Prompt Engineering\\n• Day 3-4: Advanced Features & Responsible AI\\n• Day 5-6: Plans, Data Handling & Privacy\\n• Day 7: Review & Practice Test 1\\n\\nWeek 2:\\n• Day 1-2: Testing & Developer Use Cases\\n• Day 3-4: Hands-on Projects & Coding Challenges\\n• Day 5-6: Advanced Exercises & Practice Test 2\\n• Day 7: Final Review & Exam Preparation\\n\\n🎯 Stick to the schedule for optimal preparation!'",
+			"group": "test",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Display the recommended 2-week study schedule"
+		}
+	]
+}
