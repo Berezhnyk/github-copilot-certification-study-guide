@@ -1,0 +1,17 @@
+{
+  "name": "solutions",
+  "version": "1.0.0",
+  "description": "This directory contains starter files for all practice exercises in the GitHub Copilot Certification study workspace. Each file is designed to be completed with GitHub Copilot assistance, demonstrating best practices for prompt engineering and AI-assisted development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.15.30",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}

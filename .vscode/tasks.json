@@ -2,31 +2,85 @@
 	"version": "2.0.0",
 	"tasks": [
 		{
-			"label": "Setup Python Data Analysis Environment",
+			"label": "🚀 Complete Environment Setup",
 			"type": "shell",
-			"command": "cd project-templates/python-data-analysis && python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt",
+			"command": "echo '\\n🛠️  GitHub Copilot Certification Environment Setup\\n\\n🔍 Detecting your operating system...\\n' && case \"$OSTYPE\" in darwin*) echo '\\n🍎 macOS detected' ;; linux*) echo '\\n🐧 Linux detected' ;; msys*|win32*) echo '\\n🪟 Windows detected' ;; *) echo '\\n❓ Unknown OS: $OSTYPE' ;; esac && echo '\\n📋 Checking required tools...\\n' && echo '🐍 Python:' && (python3 --version 2>/dev/null || python --version 2>/dev/null || echo '❌ Python not found') && echo '📘 Node.js:' && (node --version 2>/dev/null || echo '❌ Node.js not found') && echo '📦 npm:' && (npm --version 2>/dev/null || echo '❌ npm not found') && echo '☕ Java:' && (java --version 2>/dev/null || echo '❌ Java not found') && echo '🐹 Go:' && (go version 2>/dev/null || echo '⚠️  Go not installed (optional)') && echo '🦀 Rust:' && (rustc --version 2>/dev/null || echo '⚠️  Rust not installed (optional)') && echo '\\n✨ Run specific setup tasks next!'",
 			"group": "build",
 			"isBackground": false,
 			"problemMatcher": [],
-			"detail": "Create virtual environment and install Python dependencies for data analysis project"
+			"detail": "Detect OS and check all programming language environments"
+		},
+		{
+			"label": "📋 Installation Guide",
+			"type": "shell",
+			"command": "echo '\\n📥 Installation Guide for Missing Tools\\n\\n🐍 PYTHON:\\n   • macOS: brew install python3 OR download from python.org\\n   • Linux: sudo apt install python3 python3-pip (Ubuntu/Debian)\\n           sudo yum install python3 python3-pip (RHEL/CentOS)\\n   • Windows: Download from python.org or use Microsoft Store\\n\\n📘 NODE.JS & NPM:\\n   • macOS: brew install node OR download from nodejs.org\\n   • Linux: sudo apt install nodejs npm (Ubuntu/Debian)\\n           sudo yum install nodejs npm (RHEL/CentOS)\\n   • Windows: Download from nodejs.org or use winget install nodejs\\n\\n☕ JAVA:\\n   • macOS: brew install openjdk OR download from oracle.com\\n   • Linux: sudo apt install default-jdk (Ubuntu/Debian)\\n           sudo yum install java-11-openjdk-devel (RHEL/CentOS)\\n   • Windows: Download from oracle.com or use winget install ojdkbuild.openjdk\\n\\n🐹 GO (Optional):\\n   • All OS: Download from golang.org\\n   • macOS: brew install go\\n   • Linux: Package managers vary by distro\\n   • Windows: winget install GoLang.Go\\n\\n🦀 RUST (Optional):\\n   • All OS: curl --proto =https --tlsv1.2 -sSf https://sh.rustup.rs | sh\\n   • Or visit rustup.rs for GUI installers'",
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Cross-platform installation instructions for all required tools"
+		},
+		{
+			"label": "🔧 Setup Python Environment (Cross-Platform)",
+			"type": "shell",
+			"command": "echo '\\n🐍 Setting up Python Environment...\\n' && (python3 --version || python --version) && echo '\\n📦 Installing/upgrading pip...\\n' && case \"$OSTYPE\" in darwin*|linux*) python3 -m pip install --upgrade pip ;; msys*|win32*) python -m pip install --upgrade pip ;; esac && echo '\\n✅ Python environment ready!' && echo '\\n💡 Next: Run \"Setup Python Data Analysis Environment\" task'",
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Setup Python environment with cross-platform pip upgrade"
+		},
+		{
+			"label": "⚡ Quick Project Setup",
+			"type": "shell",
+			"command": "echo '\\n⚡ Quick Project Environment Setup\\n\\n🎯 Choose your focus area:\\n\\n1️⃣ Python Data Analysis:\\n   → Run: \"Setup Python Data Analysis Environment\"\\n\\n2️⃣ React Development:\\n   → Run: \"Setup React Todo App\"\\n\\n3️⃣ Node.js API Development:\\n   → Run: \"Setup Node.js API\"\\n\\n4️⃣ TypeScript Practice:\\n   → Run: \"Setup TypeScript Practice Environment\"\\n\\n5️⃣ Full Stack (All):\\n   → Run: \"Setup All Project Templates\"\\n\\n💡 Each setup task will install dependencies for that specific area.'",
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Quick guide to setup specific project environments"
+		},
+		{
+			"label": "🚀 Setup All Project Templates",
+			"type": "shell",
+			"command": "echo '\\n🚀 Setting up ALL project templates...\\n\\nThis will take a few minutes.\\n' && echo '\\n1️⃣ Setting up Python Data Analysis...' && cd project-templates/python-data-analysis && python3 -m venv venv && case \"$OSTYPE\" in msys*|win32*) .\\\\venv\\\\Scripts\\\\activate && pip install -r requirements.txt ;; *) source venv/bin/activate && pip install -r requirements.txt ;; esac && cd ../.. && echo '\\n2️⃣ Setting up React Todo App...' && cd project-templates/react-todo-app && npm install && cd ../.. && echo '\\n3️⃣ Setting up Node.js API...' && cd project-templates/nodejs-api && npm install && cd ../.. && echo '\\n4️⃣ Setting up TypeScript environment...' && cd practice-exercises/solutions && npm init -y 2>/dev/null && npm install typescript @types/node ts-node --save-dev && npx tsc --init 2>/dev/null && cd ../.. && echo '\\n\\n✅ ALL environments ready!\\n🎯 You can now run any practice exercise or project!'",
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Setup all project templates and environments at once (takes 3-5 minutes)"
+		},
+		{
+			"label": "🩺 Environment Health Check",
+			"type": "shell",
+			"command": "echo '\\n🩺 Environment Health Check\\n\\n🔍 Checking all required tools...\\n' && echo '🐍 Python:' && (python3 --version 2>/dev/null && echo '   ✅ Python3 installed' || python --version 2>/dev/null && echo '   ✅ Python installed' || echo '   ❌ Python missing - install from python.org') && echo '\\n📘 Node.js:' && (node --version 2>/dev/null && echo '   ✅ Node.js installed' || echo '   ❌ Node.js missing - install from nodejs.org') && echo '\\n📦 npm:' && (npm --version 2>/dev/null && echo '   ✅ npm installed' || echo '   ❌ npm missing - comes with Node.js') && echo '\\n☕ Java:' && (java --version 2>/dev/null && echo '   ✅ Java installed' || echo '   ⚠️  Java missing (required for some exercises)') && echo '\\n🐹 Go:' && (go version 2>/dev/null && echo '   ✅ Go installed' || echo '   ⚠️  Go missing (run \"Install Go Language\" task)') && echo '\\n🦀 Rust:' && (rustc --version 2>/dev/null && echo '   ✅ Rust installed' || echo '   ⚠️  Rust missing (run \"Install Rust Language\" task)') && echo '\\n🍺 Homebrew (macOS):' && (which brew >/dev/null 2>&1 && echo '   ✅ Homebrew installed' || echo '   ⚠️  Homebrew missing (recommended for macOS)') && echo '\\n\\n🎯 Environment Summary:' && echo '   Essential tools: Python, Node.js, Java' && echo '   Optional tools: Go, Rust' && echo '   Package manager: Homebrew (macOS recommended)'",
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Comprehensive health check of all development environments"
+		},
+		{
+			"label": "Setup Python Data Analysis Environment",
+			"type": "shell",
+			"command": "cd project-templates/python-data-analysis && echo '\\n🐍 Setting up Python Data Analysis Environment...\\n' && python3 -m venv venv && echo '\\n📦 Activating virtual environment and installing packages...\\n' && case \"$OSTYPE\" in msys*|win32*) .\\\\venv\\\\Scripts\\\\activate && pip install -r requirements.txt ;; *) source venv/bin/activate && pip install -r requirements.txt ;; esac && echo '\\n✅ Python data analysis environment ready!\\n💡 Run \"Start Jupyter for Data Analysis\" to begin.'",
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Create virtual environment and install Python dependencies (Windows/macOS/Linux compatible)"
 		},
 		{
 			"label": "Start Jupyter for Data Analysis",
 			"type": "shell",
-			"command": "cd project-templates/python-data-analysis && source venv/bin/activate && jupyter notebook copilot-data-analysis-starter.ipynb",
+			"command": "cd project-templates/python-data-analysis && echo '\\n🚀 Starting Jupyter Notebook for Data Analysis...\\n' && case \"$OSTYPE\" in msys*|win32*) .\\\\venv\\\\Scripts\\\\activate && jupyter notebook --notebook-dir=. --browser=false --port=8888 ;; *) source venv/bin/activate && jupyter notebook --notebook-dir=. --browser=false --port=8888 ;; esac",
 			"group": "test",
 			"isBackground": true,
 			"problemMatcher": [],
-			"detail": "Launch Jupyter notebook for GitHub Copilot data analysis practice"
+			"detail": "Launch Jupyter notebook server (cross-platform virtual environment activation)"
 		},
 		{
-			"label": "Generate Sample Data",
+			"label": "View Sample Data",
 			"type": "shell",
-			"command": "cd project-templates/python-data-analysis && source venv/bin/activate && cd sample-data && python generate_sample_data.py",
+			"command": "cd project-templates/python-data-analysis && echo '\\n📊 Sample Data Available for Analysis\\n\\n📁 Main Directory Files:\\n' && ls -la *.csv && echo '\\n📁 Sample Data Directory:\\n' && ls -la sample-data/ && echo '\\n💡 Sample datasets are already generated and ready for analysis!\\n🚀 Use the Jupyter notebook to explore this data.'",
 			"group": "build",
 			"isBackground": false,
 			"problemMatcher": [],
-			"detail": "Generate sample datasets for Python data analysis practice"
+			"detail": "View available sample datasets for Python data analysis practice"
 		},
 		{
 			"label": "Setup React Todo App",
@@ -146,58 +200,40 @@
 			"detail": "Display the recommended 2-week study schedule"
 		},
 		{
-			"label": "Setup Go Environment",
+			"label": "Setup and Test Java Environment",
 			"type": "shell",
-			"command": "echo '\\n🐹 Setting up Go development environment...\\n' && go version && go mod tidy",
+			"command": "echo '\\n☕ Java Development Environment\\n' && java --version && javac --version && echo '\\n✅ Java is ready for practice exercises!'",
 			"group": "build",
 			"isBackground": false,
 			"problemMatcher": [],
-			"detail": "Verify Go installation and initialize module dependencies"
+			"detail": "Verify Java installation - only available language environment"
 		},
 		{
-			"label": "Run Go Microservices Exercise",
+			"label": "View Go/Rust Exercise Files",
 			"type": "shell",
-			"command": "cd practice-exercises/solutions/advanced && echo '\\n🚀 Running Go Microservices Communication Exercise\\n' && go mod init microservices-demo 2>/dev/null || echo 'Module already initialized' && go mod tidy && go run 06_microservices_communication.go",
+			"command": "echo '\\n📁 Go and Rust Exercise Files\\n' && if command -v go >/dev/null 2>&1; then echo '\\n✅ Go is installed - you can run:' && echo '   • 06_microservices_communication.go' && echo '   → Use \"Run Go Microservices Exercise\" task'; else echo '\\n⚠️  Go not installed - reference files available:' && echo '   • 06_microservices_communication.go' && echo '   → Use \"Install Go Language\" task first'; fi && if command -v rustc >/dev/null 2>&1; then echo '\\n✅ Rust is installed - you can run:' && echo '   • 07_high_performance_processing.rs' && echo '   → Use \"Run Rust High Performance Exercise\" task'; else echo '\\n⚠️  Rust not installed - reference files available:' && echo '   • 07_high_performance_processing.rs' && echo '   → Use \"Install Rust Language\" task first'; fi",
+			"group": "test",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "View Go and Rust exercise files with installation status"
+		},
+		{
+			"label": "🐹 Run Go Microservices Exercise",
+			"type": "shell",
+			"command": "if command -v go >/dev/null 2>&1; then cd practice-exercises/solutions/advanced && echo '\\n🚀 Running Go Microservices Communication Exercise\\n' && go mod init microservices-demo 2>/dev/null || echo 'Module already initialized' && go mod tidy && go run 06_microservices_communication.go; else echo '\\n❌ Go not installed. Run \"Install Go Language\" task first.' && echo '\\n📖 This exercise demonstrates:' && echo '   • Microservices architecture patterns' && echo '   • gRPC communication' && echo '   • Service discovery' && echo '   • Error handling in distributed systems'; fi",
 			"group": "test",
 			"isBackground": false,
 			"problemMatcher": ["$go"],
-			"detail": "Run the Go microservices communication exercise"
+			"detail": "Run Go microservices exercise (auto-detects if Go is installed)"
 		},
 		{
-			"label": "Setup Rust Environment",
+			"label": "🦀 Run Rust High Performance Exercise",
 			"type": "shell",
-			"command": "echo '\\n🦀 Setting up Rust development environment...\\n' && rustc --version && cargo --version",
-			"group": "build",
-			"isBackground": false,
-			"problemMatcher": [],
-			"detail": "Verify Rust installation and display version information"
-		},
-		{
-			"label": "Run Rust High Performance Exercise",
-			"type": "shell",
-			"command": "cd practice-exercises/solutions/advanced && echo '\\n⚡ Running Rust High-Performance Processing Exercise\\n' && cargo init high-performance-demo --name high_performance_processing 2>/dev/null || echo 'Cargo project exists' && cp 07_high_performance_processing.rs high-performance-demo/src/main.rs && cd high-performance-demo && cargo build",
-			"group": "test",
+			"command": "if command -v cargo >/dev/null 2>&1; then cd practice-exercises/solutions/advanced && echo '\\n⚡ Running Rust High-Performance Processing Exercise\\n' && cargo init high-performance-demo --name high_performance_processing 2>/dev/null || echo 'Cargo project exists' && cp 07_high_performance_processing.rs high-performance-demo/src/main.rs && cd high-performance-demo && cargo build && cargo run; else echo '\\n❌ Rust not installed. Run \"Install Rust Language\" task first.' && echo '\\n📖 This exercise demonstrates:' && echo '   • Memory-safe systems programming' && echo '   • Zero-cost abstractions' && echo '   • Parallel processing' && echo '   • Performance optimization techniques'; fi",
+			"group": "test", 
 			"isBackground": false,
 			"problemMatcher": ["$rustc"],
-			"detail": "Build and run the Rust high-performance processing exercise"
-		},
-		{
-			"label": "Setup Java Environment",
-			"type": "shell",
-			"command": "echo '\\n☕ Setting up Java development environment...\\n' && java --version && javac --version",
-			"group": "build",
-			"isBackground": false,
-			"problemMatcher": [],
-			"detail": "Verify Java installation and display version information"
-		},
-		{
-			"label": "Compile Java Microservices Exercise",
-			"type": "shell",
-			"command": "cd practice-exercises/solutions/coding-challenges && echo '\\n🏗️ Compiling Java E-commerce Microservices Platform\\n' && javac -cp '.:/usr/local/lib/*' 09_microservices_platform.java 2>/dev/null || echo 'Note: This exercise requires Spring Boot dependencies. See README for setup instructions.'",
-			"group": "build",
-			"isBackground": false,
-			"problemMatcher": ["$javac"],
-			"detail": "Compile the Java microservices platform exercise"
+			"detail": "Run Rust high-performance exercise (auto-detects if Rust is installed)"
 		},
 		{
 			"label": "Run SQL Database Optimization",
@@ -236,22 +272,40 @@
 			"detail": "Display available Python practice exercises"
 		},
 		{
-			"label": "Test All Language Environments",
+			"label": "Test Available Language Environments",
 			"type": "shell",
-			"command": "echo '\\n🔧 Testing All Programming Language Environments\\n' && echo '\\n🐍 Python:' && python3 --version && echo '\\n📘 TypeScript/Node.js:' && node --version && npm --version && echo '\\n🐹 Go:' && go version && echo '\\n🦀 Rust:' && rustc --version && echo '\\n☕ Java:' && java --version && echo '\\n\\n✅ Environment check complete!'",
+			"command": "echo '\\n🔧 Testing Available Programming Language Environments\\n' && echo '\\n🐍 Python:' && python3 --version && echo '\\n📘 TypeScript/Node.js:' && node --version && npm --version && echo '\\n☕ Java:' && java --version && echo '\\n\\n✅ Environment check complete!\\n\\n⚠️  Go and Rust not installed on this system.'",
 			"group": "build",
 			"isBackground": false,
 			"problemMatcher": [],
-			"detail": "Test all programming language environments used in practice exercises"
+			"detail": "Test installed programming language environments (Python, Node.js, Java)"
 		},
 		{
 			"label": "Practice Exercise Guide",
 			"type": "shell",
-			"command": "echo '\\n📚 GitHub Copilot Practice Exercise Guide\\n\\n🎯 Available Exercise Categories:\\n\\n1️⃣ Beginner (8 exercises):\\n   • Basic functions, data processing, string manipulation\\n   • Files: exercise-1-basic-function.py to exercise-8-test-generation.py\\n\\n2️⃣ Intermediate (6 exercises):\\n   • Data structures, design patterns, async programming\\n   • Files: exercise-1-data-structure.py to exercise-6-websocket-chat.py\\n\\n3️⃣ Advanced (12 exercises):\\n   • Microservices, ML, enterprise applications\\n   • Languages: TypeScript, Python, Go, Rust, SQL\\n\\n4️⃣ Coding Challenges (12 exercises):\\n   • Algorithms, optimization, real-world problems\\n   • Languages: Python, TypeScript, Go, Rust, Java\\n\\n5️⃣ Emerging Features (12 exercises):\\n   • Copilot Spaces, Extensions, MCP servers\\n   • Focus on 2024-2025 features\\n\\n🚀 Use the other tasks to run specific language environments!'",
+			"command": "echo '\\n📚 GitHub Copilot Practice Exercise Guide\\n\\n🎯 Available Exercise Categories:\\n\\n1️⃣ Beginner (8 exercises):\\n   • Basic functions, data processing, string manipulation\\n   • Language: Python\\n   • Files: exercise-1-basic-function.py to exercise-8-test-generation.py\\n\\n2️⃣ Intermediate (6 exercises):\\n   • Data structures, design patterns, async programming\\n   • Language: Python\\n   • Files: exercise-1-data-structure.py to exercise-6-websocket-chat.py\\n\\n3️⃣ Advanced (12 exercises):\\n   • Microservices, ML, enterprise applications\\n   • Languages: TypeScript, Python, SQL (Go/Rust files available)\\n\\n4️⃣ Coding Challenges (12 exercises):\\n   • Algorithms, optimization, real-world problems\\n   • Languages: Python, TypeScript, Java\\n\\n5️⃣ Emerging Features (12 exercises):\\n   • Copilot Spaces, Extensions, MCP servers\\n   • Focus on 2024-2025 features\\n\\n🚀 Use environment setup tasks for Python, TypeScript, and Java!'",
 			"group": "test",
 			"isBackground": false,
 			"problemMatcher": [],
-			"detail": "Complete guide to all practice exercises by category and language"
+			"detail": "Complete guide to practice exercises by category and available languages"
+		},
+		{
+			"label": "Task Status Summary",
+			"type": "shell",
+			"command": "echo '\\n📋 VS Code Tasks Status Summary\\n\\n🚀 ENVIRONMENT SETUP (ENHANCED):\\n   • Complete Environment Setup - Cross-platform detection\\n   • Installation Guide - OS-specific instructions\\n   • Install Go Language - Homebrew-based Go installation\\n   • Install Rust Language - Homebrew/rustup Rust installation\\n   • Install Missing Languages - Auto-install both Go & Rust\\n   • Setup All Project Templates - One-click setup\\n   • Environment Health Check - Verify all installations\\n\\n✅ FULLY AUTOMATED:\\n   • Python Data Analysis (setup, Jupyter, view data)\\n   • React Todo App (setup, start)\\n   • Node.js API (setup, start dev server)\\n   • TypeScript Environment (setup, run exercises)\\n   • Java Environment (test installation)\\n   • Go Projects (install, setup, execute with detection)\\n   • Rust Projects (install, setup, execute with detection)\\n   • Practice Tests (1-4 guidance)\\n   • Study guides and progress tracking\\n\\n⚠️  MANUAL SETUP REQUIRED:\\n   • SQL exercises (database setup required)\\n   • React Native (manual SDK setup required)\\n\\n🎯 macOS users: \"Install Missing Languages\" for instant Go/Rust setup!\\n💡 Start with \"Complete Environment Setup\" for first-time users!'",
+			"group": "test",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Overview of all tasks including new automated Go/Rust installation"
+		},
+		{
+			"label": "📖 VS Code Tasks Documentation",
+			"type": "shell",
+			"command": "echo '\\n📖 VS Code Tasks Documentation Guide\\n\\n🎯 COMPREHENSIVE TASKS SYSTEM:\\n   • 35+ automated VS Code tasks for certification prep\\n   • Cross-platform environment setup and installation\\n   • Automated Go/Rust installation (macOS via Homebrew)\\n   • One-click project template setup and management\\n   • Language detection and execution automation\\n\\n📚 COMPLETE DOCUMENTATION:\\n   📄 TASKS_GUIDE.md - Comprehensive guide with:\\n      ✅ Task categories and prerequisites\\n      ✅ Step-by-step setup workflows\\n      ✅ Platform-specific troubleshooting\\n      ✅ Dependency mapping and recommendations\\n      ✅ Pro tips and best practices\\n\\n🚀 QUICK START:\\n   1. Run \"Complete Environment Setup\" for OS detection\\n   2. Follow \"Installation Guide\" for missing tools\\n   3. Use \"Install Missing Languages\" (macOS) for automation\\n   4. Run \"Environment Health Check\" to verify setup\\n\\n💡 Open TASKS_GUIDE.md for detailed documentation and workflows!'",
+			"group": "test",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Complete information about VS Code tasks system and link to TASKS_GUIDE.md documentation"
 		}
 	]
 }

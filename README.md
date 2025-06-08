@@ -43,6 +43,12 @@ Welcome to your comprehensive GitHub Copilot Certification preparation workspace
 - **nodejs-api/**: RESTful API with authentication and testing
 - **react-native-app/**: Cross-platform mobile app development template
 
+### VS Code Tasks Automation (`/.vscode/tasks.json` + **TASKS_GUIDE.md**)
+- **35+ automated tasks** for streamlined development workflow
+- **Cross-platform environment setup** with automated Go/Rust installation
+- **One-click project templates** and development server management
+- **Comprehensive documentation** with prerequisites and troubleshooting
+
 ### Progress Tracking
 - **progress-tracker.md**: Interactive checklist to monitor your certification journey
 - Track completion of all study components and assess readiness
@@ -130,13 +136,16 @@ Your comprehensive day-by-day roadmap with:
 
 ## 🚀 VS Code Tasks for Quick Access
 
-This workspace includes automated tasks accessible via `Ctrl/Cmd + Shift + P` → "Tasks: Run Task":
+This workspace includes **35+ automated VS Code tasks** accessible via `Ctrl/Cmd + Shift + P` → "Tasks: Run Task":
 
-- **Setup Tasks**: Install dependencies for all project templates
+- **Environment Setup**: Cross-platform detection, automated Go/Rust installation
+- **Project Templates**: One-click setup for Python, React, Node.js, TypeScript
+- **Practice Exercises**: Execute code with automatic language detection
 - **Practice Tests**: Launch any of the 4 practice exams with timing
 - **Progress Tracking**: View study progress and milestones
-- **Project Management**: Start development servers and generate sample data
-- **Emerging Features**: Quick access to 2024-2025 feature practice
+- **Language Support**: Automated installation and project scaffolding
+
+📖 **For complete task documentation, prerequisites, and troubleshooting**: [**TASKS_GUIDE.md**](./TASKS_GUIDE.md)
 
 ## 📊 Progress Tracking System
 
