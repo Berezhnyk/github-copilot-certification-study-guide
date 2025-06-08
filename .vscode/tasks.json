@@ -144,6 +144,114 @@
 			"isBackground": false,
 			"problemMatcher": [],
 			"detail": "Display the recommended 2-week study schedule"
+		},
+		{
+			"label": "Setup Go Environment",
+			"type": "shell",
+			"command": "echo '\\n🐹 Setting up Go development environment...\\n' && go version && go mod tidy",
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Verify Go installation and initialize module dependencies"
+		},
+		{
+			"label": "Run Go Microservices Exercise",
+			"type": "shell",
+			"command": "cd practice-exercises/solutions/advanced && echo '\\n🚀 Running Go Microservices Communication Exercise\\n' && go mod init microservices-demo 2>/dev/null || echo 'Module already initialized' && go mod tidy && go run 06_microservices_communication.go",
+			"group": "test",
+			"isBackground": false,
+			"problemMatcher": ["$go"],
+			"detail": "Run the Go microservices communication exercise"
+		},
+		{
+			"label": "Setup Rust Environment",
+			"type": "shell",
+			"command": "echo '\\n🦀 Setting up Rust development environment...\\n' && rustc --version && cargo --version",
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Verify Rust installation and display version information"
+		},
+		{
+			"label": "Run Rust High Performance Exercise",
+			"type": "shell",
+			"command": "cd practice-exercises/solutions/advanced && echo '\\n⚡ Running Rust High-Performance Processing Exercise\\n' && cargo init high-performance-demo --name high_performance_processing 2>/dev/null || echo 'Cargo project exists' && cp 07_high_performance_processing.rs high-performance-demo/src/main.rs && cd high-performance-demo && cargo build",
+			"group": "test",
+			"isBackground": false,
+			"problemMatcher": ["$rustc"],
+			"detail": "Build and run the Rust high-performance processing exercise"
+		},
+		{
+			"label": "Setup Java Environment",
+			"type": "shell",
+			"command": "echo '\\n☕ Setting up Java development environment...\\n' && java --version && javac --version",
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Verify Java installation and display version information"
+		},
+		{
+			"label": "Compile Java Microservices Exercise",
+			"type": "shell",
+			"command": "cd practice-exercises/solutions/coding-challenges && echo '\\n🏗️ Compiling Java E-commerce Microservices Platform\\n' && javac -cp '.:/usr/local/lib/*' 09_microservices_platform.java 2>/dev/null || echo 'Note: This exercise requires Spring Boot dependencies. See README for setup instructions.'",
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": ["$javac"],
+			"detail": "Compile the Java microservices platform exercise"
+		},
+		{
+			"label": "Run SQL Database Optimization",
+			"type": "shell",
+			"command": "cd practice-exercises/solutions/advanced && echo '\\n🗄️ SQL Database Optimization Exercise\\n\\nFile: 08_database_optimization.sql\\n\\n📋 This contains advanced SQL queries and optimizations.\\n💡 To run these queries:\\n   1. Set up a PostgreSQL/MySQL database\\n   2. Load sample data\\n   3. Execute the optimization queries\\n   4. Compare performance metrics\\n\\n🚀 Perfect for practicing SQL with Copilot!'",
+			"group": "test",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Display instructions for the SQL database optimization exercise"
+		},
+		{
+			"label": "Setup TypeScript Practice Environment",
+			"type": "shell",
+			"command": "cd practice-exercises/solutions && echo '\\n📘 Setting up TypeScript environment for practice exercises...\\n' && npm init -y 2>/dev/null || echo 'package.json exists' && npm install typescript @types/node ts-node --save-dev 2>/dev/null || echo 'Dependencies already installed' && npx tsc --init 2>/dev/null || echo 'tsconfig.json exists'",
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Initialize TypeScript environment for practice exercises"
+		},
+		{
+			"label": "Run TypeScript Advanced Exercises",
+			"type": "shell",
+			"command": "cd practice-exercises/solutions/advanced && echo '\\n🚀 Running TypeScript Advanced Exercises\\n' && npx ts-node 01_context_aware_api.ts 2>/dev/null || echo 'Run setup task first if TypeScript environment is not ready'",
+			"group": "test",
+			"isBackground": false,
+			"problemMatcher": ["$tsc"],
+			"detail": "Run TypeScript advanced practice exercises"
+		},
+		{
+			"label": "Run Python Practice Exercises",
+			"type": "shell",
+			"command": "cd practice-exercises/solutions && echo '\\n🐍 Running Python Practice Exercises\\n\\n📁 Available Python exercises:\\n   • Beginner: 7/8 exercises\\n   • Intermediate: 6/6 exercises\\n   • Advanced: ML fraud detection, multi-tenant SaaS\\n   • Emerging Features: Agent systems, collaborative coding\\n\\n💡 Select a specific .py file to run with Python 3'",
+			"group": "test",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Display available Python practice exercises"
+		},
+		{
+			"label": "Test All Language Environments",
+			"type": "shell",
+			"command": "echo '\\n🔧 Testing All Programming Language Environments\\n' && echo '\\n🐍 Python:' && python3 --version && echo '\\n📘 TypeScript/Node.js:' && node --version && npm --version && echo '\\n🐹 Go:' && go version && echo '\\n🦀 Rust:' && rustc --version && echo '\\n☕ Java:' && java --version && echo '\\n\\n✅ Environment check complete!'",
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Test all programming language environments used in practice exercises"
+		},
+		{
+			"label": "Practice Exercise Guide",
+			"type": "shell",
+			"command": "echo '\\n📚 GitHub Copilot Practice Exercise Guide\\n\\n🎯 Available Exercise Categories:\\n\\n1️⃣ Beginner (8 exercises):\\n   • Basic functions, data processing, string manipulation\\n   • Files: exercise-1-basic-function.py to exercise-8-test-generation.py\\n\\n2️⃣ Intermediate (6 exercises):\\n   • Data structures, design patterns, async programming\\n   • Files: exercise-1-data-structure.py to exercise-6-websocket-chat.py\\n\\n3️⃣ Advanced (12 exercises):\\n   • Microservices, ML, enterprise applications\\n   • Languages: TypeScript, Python, Go, Rust, SQL\\n\\n4️⃣ Coding Challenges (12 exercises):\\n   • Algorithms, optimization, real-world problems\\n   • Languages: Python, TypeScript, Go, Rust, Java\\n\\n5️⃣ Emerging Features (12 exercises):\\n   • Copilot Spaces, Extensions, MCP servers\\n   • Focus on 2024-2025 features\\n\\n🚀 Use the other tasks to run specific language environments!'",
+			"group": "test",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Complete guide to all practice exercises by category and language"
 		}
 	]
 }

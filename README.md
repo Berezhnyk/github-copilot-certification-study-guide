@@ -81,57 +81,52 @@ Welcome to your comprehensive GitHub Copilot Certification preparation workspace
    - GitHub Copilot Chat
    - Recommended: GitHub Copilot Labs (if available)
 
-2. **Start with Fundamentals**:
+2. **Follow the Daily Study Schedule**:
    ```bash
-   # Open the study materials
+   # Open your detailed day-by-day roadmap
+   code study-schedule.md
+   ```
+
+3. **Start with Fundamentals**:
+   ```bash
+   # Begin Day 1 with the fundamentals
    code study-materials/01-fundamentals.md
    ```
 
-3. **Follow the Study Schedule**:
+4. **Track Your Daily Progress**:
    ```bash
-   # View your complete study schedule via VS Code tasks
-   # Access from Command Palette: Tasks: Run Task
+   # Use the study schedule checkboxes + progress tracker
+   code progress-tracker.md
    ```
 
-4. **Practice with Real Projects**:
+5. **Practice with Real Projects**:
    ```bash
-   # Set up project templates
+   # Set up project templates (as needed per schedule)
    npm install  # For React and Node.js projects
    pip install -r requirements.txt  # For Python projects
    ```
 
-5. **Track Your Progress**:
-   ```bash
-   # Open the interactive progress tracker
-   code progress-tracker.md
-   ```
-
 6. **Test Your Knowledge**:
    ```bash
-   # Take practice tests regularly
+   # Take practice tests according to schedule
    # Access from VS Code tasks or open directly
    code mock-questions/practice-test-1.md
    ```
 
 ## 📅 Complete 2-Week Study Schedule
 
-### Week 1: Foundations & Core Concepts
-- **Day 1**: Fundamentals + Installation & Setup
-- **Day 2**: Prompt Engineering Basics + Beginner Exercises (1-5)
-- **Day 3**: Advanced Features + Beginner Exercises (6-10)
-- **Day 4**: Responsible AI + Intermediate Exercises (1-5)
-- **Day 5**: Plans & Features + Intermediate Exercises (6-10)
-- **Day 6**: Data Handling + Practice Test 1
-- **Day 7**: Review Week 1 + Catch up on missed topics
+**📖 [View Detailed Daily Study Schedule](study-schedule.md)**
 
-### Week 2: Advanced Topics & Practice
-- **Day 8**: Testing with Copilot + Advanced Exercises (1-6)
-- **Day 9**: Privacy Fundamentals + Advanced Exercises (7-12)
-- **Day 10**: Developer Use Cases + Emerging Features 2025
-- **Day 11**: Emerging Features Exercises + Practice Test 2
-- **Day 12**: Coding Challenges (1-6) + Practice Test 4 (Emerging Features)
-- **Day 13**: Coding Challenges (7-12) + Project Template Practice
-- **Day 14**: Final Review + Practice Test 3 + Cheat Sheet Review
+Your comprehensive day-by-day roadmap with:
+- **Specific daily tasks** - exactly what to read and practice each day
+- **Time estimates** - realistic 2-3 hour daily sessions
+- **Progress tracking** - checkboxes for every task
+- **Flexible pacing** - adjust based on your learning speed
+- **Success metrics** - clear goals and readiness indicators
+
+### Quick Overview
+- **Week 1**: Foundations (Fundamentals → Prompt Engineering → Advanced Features → Responsible AI → Plans & Features → Data Handling → Review)
+- **Week 2**: Advanced Topics (Testing → Privacy → Use Cases → Emerging Features → Challenges → Projects → Final Review)
 
 ## 🚀 VS Code Tasks for Quick Access
 
@@ -165,6 +160,7 @@ Track your certification preparation with our comprehensive progress tracker:
 
 | Resource | Description | Access |
 |----------|-------------|---------|
+| 📅 **Study Schedule** | **Daily roadmap with specific tasks** | **`study-schedule.md`** |
 | 📖 Study Materials | Complete study guides | `study-materials/` |
 | 💻 Practice Exercises | Hands-on coding practice | `practice-exercises/` |
 | 📝 Mock Tests | 100 practice questions | `mock-questions/` |
@@ -175,13 +171,14 @@ Track your certification preparation with our comprehensive progress tracker:
 
 ## 💡 Pro Tips for Success
 
-1. **Use GitHub Copilot while studying** - Practice with the tool you're learning about
-2. **Focus on understanding, not memorization** - The exam tests practical knowledge
-3. **Practice prompt engineering daily** - This is a core skill for certification
-4. **Review responsible AI principles thoroughly** - These appear frequently on exams
-5. **Understand enterprise vs. individual features** - Know the plan differences
-6. **Practice with multiple programming languages** - Copilot supports 30+ languages
-7. **Time yourself on practice tests** - Build exam-day stamina and confidence
+1. **Start each day with the study schedule** - `study-schedule.md` has your exact daily tasks
+2. **Use GitHub Copilot while studying** - Practice with the tool you're learning about
+3. **Focus on understanding, not memorization** - The exam tests practical knowledge
+4. **Check off tasks as you complete them** - Stay motivated with visible progress
+5. **Review responsible AI principles thoroughly** - These appear frequently on exams
+6. **Understand enterprise vs. individual features** - Know the plan differences
+7. **Practice with multiple programming languages** - Copilot supports 30+ languages
+8. **Time yourself on practice tests** - Build exam-day stamina and confidence
 
 ## 🎯 Final Exam Preparation
 

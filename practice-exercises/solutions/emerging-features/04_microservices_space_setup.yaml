@@ -1,0 +1,93 @@
+# Copilot Spaces Mastery - Microservices Space Setup
+# TODO: Create comprehensive Copilot Space for distributed e-commerce platform
+# This exercise demonstrates Copilot's ability to work across multiple repositories and services
+
+# copilot-space.yml
+name: "ecommerce-platform"
+description: "Distributed e-commerce microservices platform"
+repositories:
+  - auth-service
+  - product-catalog
+  - order-management
+  - payment-processing
+  - notification-service
+
+shared_context:
+  - api-contracts/
+  - shared-types/
+  - documentation/
+  - deployment/
+
+# TODO: Ask Copilot to help you:
+# 1. Set up each microservice with proper structure
+# 2. Create shared type definitions across services
+# 3. Implement cross-service API calls with proper error handling
+# 4. Design service discovery and communication patterns
+# 5. Create unified logging and monitoring setup
+
+# Example service structure for Copilot to understand:
+services:
+  auth-service:
+    language: "Node.js"
+    framework: "Express"
+    database: "PostgreSQL"
+    responsibilities:
+      - User authentication
+      - JWT token management
+      - Role-based access control
+      - Password security
+    
+  product-catalog:
+    language: "Python"
+    framework: "FastAPI"
+    database: "MongoDB"
+    responsibilities:
+      - Product information management
+      - Search and filtering
+      - Inventory tracking
+      - Category management
+    
+  order-management:
+    language: "Java"
+    framework: "Spring Boot"
+    database: "PostgreSQL"
+    responsibilities:
+      - Order processing
+      - Cart management
+      - Order history
+      - Fulfillment tracking
+    
+  payment-processing:
+    language: "Go"
+    framework: "Gin"
+    database: "Redis"
+    responsibilities:
+      - Payment gateway integration
+      - Transaction processing
+      - Refund management
+      - Payment security
+    
+  notification-service:
+    language: "TypeScript"
+    framework: "Express"
+    database: "MongoDB"
+    responsibilities:
+      - Email notifications
+      - SMS alerts
+      - Push notifications
+      - Notification templates
+
+# TODO: Implementation steps with Copilot:
+# 1. Create this configuration in a new Copilot Space
+# 2. Ask Copilot to generate service scaffolding for each service
+# 3. Use Copilot to create shared TypeScript interfaces for common data types
+# 4. Implement API client libraries that services can use to communicate
+# 5. Set up Docker Compose configuration for local development
+# 6. Create comprehensive integration tests that verify service communication
+
+# Expected Copilot behaviors:
+# - Should understand service boundaries and suggest appropriate patterns
+# - Should maintain type consistency across different programming languages
+# - Should suggest proper error handling for distributed systems
+# - Should recommend appropriate security measures for service-to-service communication
+# - Should help with API versioning strategies
